@@ -1,0 +1,441 @@
+# Canonical concept starter library
+# Status is draft until each record is reviewed against authoritative scientific sources and the specification.
+
+- id: observation
+  status: draft
+  preferred_term: Observation
+  concept_type: observation
+  wording:
+    understand: "Something noticed or measured directly during scientific work."
+    exam_ready: "Information directly noticed or measured."
+    precise: "A recorded qualitative or quantitative feature obtained through the senses or measuring instruments, distinguished from an interpretation of that feature."
+  misconceptions: ["An observation is the same as an explanation."]
+
+- id: inference
+  status: draft
+  preferred_term: Inference
+  concept_type: inference
+  wording:
+    understand: "An interpretation you make from observations or other evidence."
+    exam_ready: "A conclusion or interpretation drawn from evidence."
+    precise: "An interpretation derived from observations, measurements or established knowledge rather than directly observed itself."
+  misconceptions: ["An inference is directly measured."]
+
+- id: hypothesis
+  status: draft
+  preferred_term: Hypothesis
+  concept_type: hypothesis
+  wording:
+    understand: "A proposed explanation or relationship that can be tested with evidence."
+    exam_ready: "A testable proposed explanation or relationship."
+    precise: "A provisional explanatory or predictive statement formulated so that relevant evidence can count for or against it."
+  misconceptions: ["A hypothesis is just a random guess."]
+
+- id: independent-variable
+  status: draft
+  preferred_term: Independent variable
+  concept_type: quantity
+  wording:
+    understand: "The factor deliberately changed in a fair-test investigation."
+    exam_ready: "The variable deliberately changed."
+    precise: "The variable selected for systematic manipulation or comparison to test its relationship with a measured response."
+  misconceptions: ["It is always the first column because of a formatting rule rather than because of the design."]
+
+- id: dependent-variable
+  status: draft
+  preferred_term: Dependent variable
+  concept_type: quantity
+  wording:
+    understand: "The outcome measured to see what happens when the independent variable changes."
+    exam_ready: "The variable measured as the outcome."
+    precise: "The response variable measured or observed to determine its relationship with changes in the independent variable."
+  misconceptions: ["It is whatever variable has the largest value."]
+
+- id: control-variable
+  status: draft
+  preferred_term: Control variable
+  concept_type: quantity
+  wording:
+    understand: "A factor kept consistent because it could otherwise affect the result."
+    exam_ready: "A relevant variable kept constant in a fair test."
+    precise: "A potentially confounding variable deliberately held constant or otherwise controlled to isolate the relationship under investigation."
+
+- id: speed
+  status: draft
+  preferred_term: Speed
+  concept_type: quantity
+  wording:
+    understand: "How much distance is travelled in a certain time."
+    exam_ready: "Distance travelled per unit time."
+    precise: "A scalar rate of change of distance with time; average speed equals total distance divided by total elapsed time."
+  notation:
+    symbols: [v]
+    relationships: ["v = d/t"]
+  units:
+    si_unit: "m/s"
+  misconceptions: ["Average speed tells you the speed at every instant."]
+
+- id: acceleration
+  status: draft
+  preferred_term: Acceleration
+  concept_type: quantity
+  wording:
+    understand: "How quickly velocity changes."
+    exam_ready: "Change in velocity per unit time."
+    precise: "The rate of change of velocity with time; acceleration therefore includes changes of speed and/or direction."
+  units:
+    si_unit: "m/s^2"
+  misconceptions: ["Acceleration only means speeding up."]
+
+- id: force
+  status: draft
+  preferred_term: Force
+  concept_type: quantity
+  wording:
+    understand: "A push or pull produced by an interaction between objects or systems."
+    exam_ready: "A push or pull arising from an interaction."
+    precise: "An interaction capable of changing an object's motion or deformation, represented as a vector and measured in newtons."
+  units:
+    si_unit: "N"
+  misconceptions: ["A moving object must have a forward force acting on it."]
+
+- id: mass
+  status: draft
+  preferred_term: Mass
+  concept_type: quantity
+  wording:
+    understand: "A measure of how much matter an object contains and of its resistance to changes in motion."
+    exam_ready: "A physical quantity measured in kilograms that is independent of local gravity."
+    precise: "A fundamental scalar property associated with inertia and gravitational interaction, measured in kilograms in SI."
+  units:
+    si_unit: "kg"
+  misconceptions: ["Mass and weight are interchangeable."]
+
+- id: weight
+  status: draft
+  preferred_term: Weight
+  concept_type: quantity
+  wording:
+    understand: "The gravitational force acting on an object."
+    exam_ready: "The force of gravity on an object."
+    precise: "The gravitational force exerted on a body in a gravitational field, measured in newtons."
+  units:
+    si_unit: "N"
+  misconceptions: ["Weight is measured in kilograms."]
+
+- id: density
+  status: draft
+  preferred_term: Density
+  concept_type: quantity
+  wording:
+    understand: "How much mass is packed into a given volume."
+    exam_ready: "Mass per unit volume."
+    precise: "The mass of a substance or object divided by its volume."
+  notation:
+    symbols: ["rho"]
+    relationships: ["density = mass/volume"]
+  units:
+    si_unit: "kg/m^3"
+    other_units: ["g/cm^3"]
+  misconceptions: ["Dense means heavy regardless of size."]
+
+- id: pressure
+  status: draft
+  preferred_term: Pressure
+  concept_type: quantity
+  wording:
+    understand: "How concentrated a force is over an area."
+    exam_ready: "Force per unit area."
+    precise: "The normal force acting per unit area of a surface."
+  notation:
+    relationships: ["p = F/A"]
+  units:
+    si_unit: "Pa"
+
+- id: energy
+  status: draft
+  preferred_term: Energy
+  concept_type: quantity
+  wording:
+    understand: "A conserved quantity used to account for changes in physical, chemical and biological systems."
+    exam_ready: "A conserved quantity that can be transferred and transformed as systems change."
+    precise: "A scalar conserved quantity whose transfer and redistribution provide a common accounting description of changes in physical systems."
+  units:
+    si_unit: "J"
+  misconceptions: ["Energy is a material substance that gets used up."]
+
+- id: electric-current
+  status: draft
+  preferred_term: Electric current
+  concept_type: quantity
+  wording:
+    understand: "How quickly electric charge flows past a point."
+    exam_ready: "Rate of flow of electric charge."
+    precise: "The rate at which electric charge passes through a chosen cross-section of a conductor or circuit."
+  units:
+    si_unit: "A"
+  misconceptions: ["Current is used up by a lamp."]
+
+- id: potential-difference
+  status: draft
+  preferred_term: Potential difference
+  aliases: [Voltage]
+  concept_type: quantity
+  wording:
+    understand: "How much energy is transferred per unit charge between two points."
+    exam_ready: "Energy transferred per unit charge between two points."
+    precise: "The difference in electric potential between two points, equal to energy transferred per unit charge."
+  units:
+    si_unit: "V"
+
+- id: resistance
+  status: draft
+  preferred_term: Resistance
+  concept_type: quantity
+  wording:
+    understand: "A measure of how strongly a component opposes electric current for a given potential difference."
+    exam_ready: "Potential difference divided by current for a component under the stated conditions."
+    precise: "The ratio of potential difference across a component to current through it under specified conditions; for an ohmic conductor it is constant over the relevant range."
+  notation:
+    relationships: ["R = V/I"]
+  units:
+    si_unit: "ohm"
+
+- id: electrical-power
+  status: draft
+  preferred_term: Electrical power
+  concept_type: quantity
+  wording:
+    understand: "How quickly electrical energy is transferred."
+    exam_ready: "Electrical energy transferred per unit time."
+    precise: "The rate of electrical energy transfer; in a circuit component it can be calculated from potential difference multiplied by current."
+  notation:
+    relationships: ["P = VI"]
+  units:
+    si_unit: "W"
+
+- id: atom
+  status: draft
+  preferred_term: Atom
+  concept_type: structure
+  wording:
+    understand: "The smallest unit of an element that still has the chemical identity of that element."
+    exam_ready: "A unit of an element containing a nucleus and electrons."
+    precise: "An electrically neutral entity consisting of a positively charged nucleus containing protons (and usually neutrons) with electrons bound around it."
+  misconceptions: ["Atoms have the same properties as a visible bulk sample of the element."]
+
+- id: element
+  status: draft
+  preferred_term: Element
+  concept_type: definition-term
+  wording:
+    understand: "A pure substance made from atoms that all have the same number of protons."
+    exam_ready: "A substance containing only atoms with the same atomic number."
+    precise: "A chemical element is defined by atomic number: all its atoms have nuclei containing the same number of protons."
+
+- id: compound
+  status: draft
+  preferred_term: Compound
+  concept_type: definition-term
+  wording:
+    understand: "A pure substance made when atoms of two or more elements are chemically combined in fixed proportions."
+    exam_ready: "A pure substance of two or more elements chemically combined in fixed ratios."
+    precise: "A substance with a definite composition whose constituent elements are chemically bonded in fixed stoichiometric proportions."
+
+- id: mixture
+  status: draft
+  preferred_term: Mixture
+  concept_type: definition-term
+  wording:
+    understand: "Two or more substances together without becoming one new pure substance."
+    exam_ready: "Two or more substances physically combined, not chemically bonded into one compound."
+    precise: "A material containing two or more chemical substances in variable proportions that retain their chemical identities and may be separable by physical methods."
+
+- id: solution
+  status: draft
+  preferred_term: Solution
+  concept_type: definition-term
+  wording:
+    understand: "A uniform mixture formed when a solute is dissolved in a solvent."
+    exam_ready: "A homogeneous mixture of solute dissolved in solvent."
+    precise: "A homogeneous phase in which one or more solutes are dispersed at particle level within a solvent."
+  misconceptions: ["The dissolved substance has disappeared."]
+
+- id: chemical-reaction
+  status: draft
+  preferred_term: Chemical reaction
+  concept_type: process
+  wording:
+    understand: "A process in which substances change into new substances because atoms are rearranged."
+    exam_ready: "A process that converts reactants into new substances by rearranging atoms."
+    precise: "A process involving changes in chemical bonding and composition that converts reactants into products while conserving atoms and charge."
+
+- id: conservation-of-mass
+  status: draft
+  preferred_term: Conservation of mass
+  concept_type: principle
+  wording:
+    understand: "Matter does not vanish or appear during an ordinary chemical reaction; atoms are rearranged."
+    exam_ready: "In a closed system, total mass remains constant during physical and chemical change."
+    precise: "For ordinary chemical and physical processes in a closed system, total mass is conserved to the precision relevant at this level."
+
+- id: acid
+  status: draft
+  preferred_term: Acid
+  concept_type: definition-term
+  wording:
+    understand: "A substance that produces acidic conditions in water and has a pH below 7 under ordinary school conditions."
+    exam_ready: "A substance that forms an acidic aqueous solution with pH below 7."
+    precise: "For Junior Cycle use, an acid is treated as a substance that increases hydrogen-ion activity in aqueous solution; later chemistry refines acid-base definitions."
+
+- id: pH
+  status: draft
+  preferred_term: pH
+  concept_type: quantity
+  wording:
+    understand: "A scale used to compare how acidic or basic an aqueous solution is."
+    exam_ready: "A measure used to express acidity or basicity of an aqueous solution."
+    precise: "A logarithmic measure related to hydrogen-ion activity in aqueous solution."
+  misconceptions: ["A change of one pH unit is a small linear change."]
+
+- id: cell
+  status: draft
+  preferred_term: Cell
+  concept_type: structure
+  wording:
+    understand: "The smallest structural unit that can carry out the processes of life."
+    exam_ready: "The basic structural and functional unit of living organisms."
+    precise: "The fundamental membrane-bounded unit of life capable of carrying out organised biochemical processes."
+
+- id: tissue
+  status: draft
+  preferred_term: Tissue
+  concept_type: structure
+  wording:
+    understand: "A group of cells organised to carry out related functions."
+    exam_ready: "A group of similar or coordinated cells performing a particular function."
+    precise: "An organised ensemble of cells and extracellular material that performs one or more related functions in a multicellular organism."
+
+- id: organ
+  status: draft
+  preferred_term: Organ
+  concept_type: structure
+  wording:
+    understand: "A body structure made of different tissues working together for particular functions."
+    exam_ready: "A structure composed of tissues working together to perform specific functions."
+    precise: "A discrete multicellular structure containing multiple tissue types integrated to carry out specialised physiological functions."
+
+- id: respiration
+  status: draft
+  preferred_term: Cellular respiration
+  concept_type: process
+  wording:
+    understand: "Chemical reactions in cells that transfer energy from food molecules into usable forms."
+    exam_ready: "A cellular chemical process that releases usable energy from food molecules."
+    precise: "A set of metabolic pathways through which cells transfer chemical energy from substrates to energy-carrying molecules; aerobic respiration uses oxygen and produces carbon dioxide and water from glucose overall."
+  misconceptions: ["Respiration means breathing.", "Respiration creates energy."]
+
+- id: photosynthesis
+  status: draft
+  preferred_term: Photosynthesis
+  concept_type: process
+  wording:
+    understand: "A process in which light energy is used to make energy-rich organic molecules from carbon dioxide and water."
+    exam_ready: "The process by which green plants use light energy to make glucose from carbon dioxide and water, releasing oxygen."
+    precise: "A set of light-driven biochemical processes that convert light energy into chemical energy and fix carbon dioxide into organic compounds, with oxygen released in oxygenic photosynthesis."
+  misconceptions: ["Plants get most of their mass from soil.", "Plants only photosynthesise and do not respire."]
+
+- id: gene
+  status: draft
+  preferred_term: Gene
+  concept_type: structure
+  wording:
+    understand: "A section of DNA carrying information that contributes to a biological product or function."
+    exam_ready: "A section of DNA that carries genetic information."
+    precise: "A functional unit of heredity consisting of a DNA sequence whose expression contributes to a functional product and associated regulation."
+
+- id: natural-selection
+  status: draft
+  preferred_term: Natural selection
+  concept_type: process
+  wording:
+    understand: "A process in which inherited variations that improve reproductive success in an environment tend to become more common over generations."
+    exam_ready: "Differential survival and reproduction cause advantageous inherited variations to increase in frequency over generations."
+    precise: "A mechanism of evolution in which heritable phenotypic differences are associated with differences in reproductive success, changing allele frequencies across generations."
+  misconceptions: ["Individuals evolve because they need to adapt."]
+
+- id: ecosystem
+  status: draft
+  preferred_term: Ecosystem
+  concept_type: system
+  wording:
+    understand: "Living organisms and the non-living environment interacting as a system."
+    exam_ready: "A community of organisms interacting with one another and with their physical environment."
+    precise: "A system comprising a biological community, its abiotic environment and the transfers of matter and energy among them."
+
+- id: biodiversity
+  status: draft
+  preferred_term: Biodiversity
+  concept_type: quantity
+  wording:
+    understand: "The variety of living things and biological variation in an area or across Earth."
+    exam_ready: "The variety of life, including variation among genes, species and ecosystems."
+    precise: "Biological diversity across genetic, species and ecosystem levels, considered over a stated spatial and temporal scale."
+
+- id: weather
+  status: draft
+  preferred_term: Weather
+  concept_type: definition-term
+  wording:
+    understand: "Short-term conditions in the atmosphere at a place and time."
+    exam_ready: "The short-term state of the atmosphere."
+    precise: "The state of atmospheric variables such as temperature, pressure, humidity, precipitation, cloud and wind over short timescales."
+
+- id: climate
+  status: draft
+  preferred_term: Climate
+  concept_type: definition-term
+  wording:
+    understand: "The long-term pattern and range of weather conditions in a region or across Earth."
+    exam_ready: "Long-term statistical patterns of weather conditions."
+    precise: "The statistical description of atmospheric and related system variables over sufficiently long periods to characterise typical conditions, variability and extremes."
+  misconceptions: ["A single weather event proves or disproves a climate trend."]
+
+- id: greenhouse-effect
+  status: draft
+  preferred_term: Greenhouse effect
+  concept_type: process
+  wording:
+    understand: "Warming that occurs because greenhouse gases absorb and re-emit some infrared radiation leaving Earth's surface and atmosphere."
+    exam_ready: "The warming influence caused when greenhouse gases absorb and re-emit outgoing infrared radiation."
+    precise: "The radiative effect by which atmospheric greenhouse gases alter outgoing longwave radiation and therefore Earth's surface-atmosphere energy balance."
+  misconceptions: ["The greenhouse effect is a hole or physical layer trapping hot air.", "The natural greenhouse effect is entirely harmful."]
+
+- id: tectonic-plate
+  status: draft
+  preferred_term: Tectonic plate
+  concept_type: structure
+  wording:
+    understand: "A large rigid piece of Earth's outer shell that moves relative to other pieces."
+    exam_ready: "A rigid section of lithosphere moving relative to neighbouring plates."
+    precise: "A coherent section of lithosphere whose motion relative to other plates is described by plate tectonics."
+
+- id: orbit
+  status: draft
+  preferred_term: Orbit
+  concept_type: process
+  wording:
+    understand: "The curved motion of one object around another under gravity."
+    exam_ready: "Motion in which gravity continuously curves an object's path around another body."
+    precise: "A gravitationally bound trajectory in which an object's inertial motion and gravitational acceleration produce recurrent or otherwise bound motion around a mass."
+  misconceptions: ["An orbiting body needs a continuous forward engine force."]
+
+- id: light-year
+  status: draft
+  preferred_term: Light-year
+  concept_type: unit
+  wording:
+    understand: "The distance light travels in one year."
+    exam_ready: "A unit of astronomical distance equal to the distance light travels in one year."
+    precise: "A unit of length defined from the distance travelled by light in vacuum during one Julian year."
+  misconceptions: ["A light-year is a unit of time."]
