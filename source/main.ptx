@@ -33,6 +33,7 @@
 
     <xi:include href="investigations.ptx" />
     <xi:include href="practicals.ptx" />
+    <xi:include href="cba-projects.ptx" />
     <xi:include href="interactive-checks.ptx" />
     <xi:include href="retrieval-assessment.ptx" />
     <xi:include href="exam-practice.ptx" />
