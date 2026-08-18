@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <book xml:id="jc-science">
+    <title>JC Science</title>
+    <subtitle>Understand it. Use it. Think like a scientist.</subtitle>
+    <frontmatter>
+      <titlepage>
+        <author><personname>Open JC Science Project</personname></author>
+      </titlepage>
+      <preface xml:id="how-to-use-this-book">
+        <title>How to use this book</title>
+        <p>This is not a printed textbook copied onto a screen. It is a learning system built around the Junior Cycle Science specification.</p>
+        <p>Substantial ideas use three reading routes. <em>Read less</em> removes unnecessary reading load without removing the science. <em>Standard</em> gives the complete Junior Cycle explanation. <em>Go deeper</em> increases precision, mechanism, connection and transfer.</p>
+        <p>Use retrieval questions before rereading. Attempt a prediction before revealing an explanation. Use hints as temporary supports, then return later without them. Practical work and Nature of Science are woven through every strand.</p>
+      </preface>
+    </frontmatter>
+    <xi:include href="nature-of-science.ptx" />
+    <xi:include href="physical-world.ptx" />
+    <xi:include href="chemical-world.ptx" />
+    <xi:include href="biological-world.ptx" />
+    <xi:include href="earth-space.ptx" />
+    <xi:include href="investigations.ptx" />
+    <xi:include href="retrieval-assessment.ptx" />
+    <backmatter>
+      <appendix xml:id="glossary-guide">
+        <title>Definitions, quantities, laws and models</title>
+        <p>Scientific statements do different jobs. A definition fixes meaning; a quantity is measurable; a unit is an agreed standard; a model is a useful representation; an empirical law describes a regularity; a theory is an explanatory framework supported by evidence. The book labels these distinctions where they matter.</p>
+      </appendix>
+    </backmatter>
+  </book>
+</pretext>
