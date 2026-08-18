@@ -14,13 +14,25 @@
         <p>Use retrieval questions before rereading. Attempt a prediction before revealing an explanation. Use hints as temporary supports, then return later without them. Practical work and Nature of Science are woven through every strand.</p>
       </preface>
     </frontmatter>
+
     <xi:include href="nature-of-science.ptx" />
+    <xi:include href="science-society.ptx" />
+
     <xi:include href="physical-world.ptx" />
+    <xi:include href="quantitative-physics.ptx" />
+
     <xi:include href="chemical-world.ptx" />
+    <xi:include href="chemical-patterns-energy.ptx" />
+
     <xi:include href="biological-world.ptx" />
+    <xi:include href="life-health-reproduction.ptx" />
+
     <xi:include href="earth-space.ptx" />
+    <xi:include href="cosmos-carbon-energy.ptx" />
+
     <xi:include href="investigations.ptx" />
     <xi:include href="retrieval-assessment.ptx" />
+
     <backmatter>
       <appendix xml:id="glossary-guide">
         <title>Definitions, quantities, laws and models</title>
