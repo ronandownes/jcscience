@@ -1,0 +1,165 @@
+<chapter xml:id="interactive-checks">
+  <title>Interactive Diagnostic Checks</title>
+  <introduction>
+    <p>These checks are designed for learning, not ranking. Commit to an answer before looking at feedback. Wrong options target common misconceptions so the feedback tells you what to repair.</p>
+  </introduction>
+
+  <section xml:id="ic-nature-science">
+    <title>Nature of Science diagnostics</title>
+    <subsection><title>Read less</title><p>Choose first. Read the feedback second. Fix the idea, not just the answer.</p></subsection>
+    <subsection><title>Standard</title><p>Diagnostic questions are most useful when each distractor represents a plausible misconception. If you choose incorrectly, identify the rule or model that led you there.</p></subsection>
+    <subsection><title>Go deeper</title><p>A diagnostic item can reveal whether a learner confuses evidence with explanation, precision with accuracy, correlation with causation or repetition with validity. The response should change what happens next.</p></subsection>
+
+    <exercise xml:id="ic-observation-inference">
+      <title>Observation or inference?</title>
+      <statement><p>A thermometer rises from 20 °C to 31 °C after two solutions are mixed. Which statement is an observation?</p></statement>
+      <choices randomize="yes">
+        <choice correct="yes"><statement><p>The thermometer reading increased by 11 °C.</p></statement><feedback><p>Correct. This is directly measured.</p></feedback></choice>
+        <choice><statement><p>The reaction is exothermic.</p></statement><feedback><p>This is an inference from the measured temperature change.</p></feedback></choice>
+        <choice><statement><p>New bonds released more energy than was required to break old bonds.</p></statement><feedback><p>This is a mechanistic explanation, not the direct observation.</p></feedback></choice>
+        <choice><statement><p>The thermometer caused the reaction.</p></statement><feedback><p>No evidence supports this causal claim.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-repeat-validity">
+      <title>Repeating a flawed method</title>
+      <statement correct="no"><p>If an experiment gives nearly identical results five times, the method must be valid.</p></statement>
+      <feedback><p>Repeated agreement supports reliability, but a method can be consistently measuring the wrong thing. Validity asks whether the investigation answers the intended question.</p></feedback>
+    </exercise>
+  </section>
+
+  <section xml:id="ic-physical">
+    <title>Physical World diagnostics</title>
+    <subsection><title>Read less</title><p>Focus on the difference between quantities: mass/weight, energy/power and current/energy transfer.</p></subsection>
+    <subsection><title>Standard</title><p>Many physics errors come from using one everyday word for two different scientific quantities. Name the quantity, unit and relationship before calculating.</p></subsection>
+    <subsection><title>Go deeper</title><p>Good physical reasoning connects representations: words, units, diagrams, equations and graphs should all describe the same underlying relationship.</p></subsection>
+
+    <exercise xml:id="ic-current-used">
+      <title>Does a lamp use current?</title>
+      <statement><p>In a simple series circuit with two lamps, what happens to electric charge as it passes through the first lamp?</p></statement>
+      <choices randomize="yes">
+        <choice><statement><p>Most of the charge is used up as light.</p></statement><feedback><p>Charge is not converted into light. Energy is transferred while charge continues through the circuit.</p></feedback></choice>
+        <choice correct="yes"><statement><p>Charge continues through the lamp while energy is transferred.</p></statement><feedback><p>Correct. Separating charge flow from energy transfer is essential.</p></feedback></choice>
+        <choice><statement><p>The charge stops inside the lamp until the battery pushes more in.</p></statement><feedback><p>In steady operation, charge does not accumulate indefinitely inside the lamp.</p></feedback></choice>
+        <choice><statement><p>The charge changes into voltage.</p></statement><feedback><p>Voltage is not a substance that charge becomes.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-power-energy">
+      <title>Power or energy?</title>
+      <statement><p>A 2 kW heater and a 1 kW heater run for the same time. What does the higher power mean?</p></statement>
+      <choices>
+        <choice correct="yes"><statement><p>The 2 kW heater transfers energy at twice the rate.</p></statement><feedback><p>Correct. Power is energy transfer per unit time.</p></feedback></choice>
+        <choice><statement><p>The 2 kW heater contains twice as much energy.</p></statement><feedback><p>Power is a rate, not an amount stored in the device.</p></feedback></choice>
+        <choice><statement><p>The 2 kW heater must be twice as efficient.</p></statement><feedback><p>Power alone does not determine efficiency.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-acceleration">
+      <title>Constant speed in a circle</title>
+      <statement correct="no"><p>An object moving in a circle at constant speed has zero acceleration.</p></statement>
+      <feedback><p>Acceleration is change in velocity. Velocity includes direction, so continually changing direction means acceleration even when speed is constant.</p></feedback>
+    </exercise>
+  </section>
+
+  <section xml:id="ic-chemical">
+    <title>Chemical World diagnostics</title>
+    <subsection><title>Read less</title><p>Track particles and atoms. Ask whether matter changed identity, position or arrangement.</p></subsection>
+    <subsection><title>Standard</title><p>Use conservation and particle models to test explanations. If a claim says matter vanished, ask where the atoms went.</p></subsection>
+    <subsection><title>Go deeper</title><p>Chemical models become stronger when the same model explains mass conservation, states, solutions, separation and reactions rather than each topic being memorised separately.</p></subsection>
+
+    <exercise xml:id="ic-dissolving">
+      <title>Where did the salt go?</title>
+      <statement><p>Salt crystals dissolve completely in water. Which description is best?</p></statement>
+      <choices randomize="yes">
+        <choice><statement><p>The salt no longer exists because it is invisible.</p></statement><feedback><p>Visibility is not evidence that matter has vanished.</p></feedback></choice>
+        <choice correct="yes"><statement><p>Salt particles are dispersed through the solution.</p></statement><feedback><p>Correct. Dissolving changes distribution, not conservation of matter.</p></feedback></choice>
+        <choice><statement><p>The salt has become water.</p></statement><feedback><p>Dissolving does not convert salt into water.</p></feedback></choice>
+        <choice><statement><p>The salt has undergone combustion.</p></statement><feedback><p>No evidence of combustion is present.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-rate-yield">
+      <title>Faster reaction, more product?</title>
+      <statement correct="no"><p>If a catalyst makes a reaction faster, it must increase the final amount of product.</p></statement>
+      <feedback><p>A catalyst changes reaction rate by lowering the activation-energy pathway. It does not automatically change the amount of product set by reactant amounts and equilibrium conditions.</p></feedback>
+    </exercise>
+
+    <exercise xml:id="ic-exothermic">
+      <title>What does exothermic mean?</title>
+      <statement><p>Which statement best defines an exothermic reaction?</p></statement>
+      <choices>
+        <choice><statement><p>A reaction that always has a flame.</p></statement><feedback><p>Many exothermic reactions have no flame.</p></feedback></choice>
+        <choice correct="yes"><statement><p>A reaction that transfers energy from the reacting system to the surroundings.</p></statement><feedback><p>Correct. The definition is about direction of energy transfer.</p></feedback></choice>
+        <choice><statement><p>A reaction that needs no activation energy.</p></statement><feedback><p>Exothermic reactions can still require activation energy.</p></feedback></choice>
+      </choices>
+    </exercise>
+  </section>
+
+  <section xml:id="ic-biological">
+    <title>Biological World diagnostics</title>
+    <subsection><title>Read less</title><p>Separate processes that are often confused: breathing/respiration, photosynthesis/respiration, adaptation/evolution.</p></subsection>
+    <subsection><title>Standard</title><p>Biological explanations should connect structures to functions and processes to evidence. Avoid explanations based on what an organism “wanted” or “needed”.</p></subsection>
+    <subsection><title>Go deeper</title><p>Look for system interactions and timescales. A process in one cell can scale up to organ function, organism survival, population change and ecosystem effects.</p></subsection>
+
+    <exercise xml:id="ic-respiration">
+      <title>Breathing and respiration</title>
+      <statement><p>Which statement is scientifically correct?</p></statement>
+      <choices randomize="yes">
+        <choice><statement><p>Respiration is another word for breathing.</p></statement><feedback><p>Breathing is ventilation of the lungs; respiration is a cellular chemical process.</p></feedback></choice>
+        <choice correct="yes"><statement><p>Breathing supports gas exchange, while respiration transfers chemical energy in cells.</p></statement><feedback><p>Correct. The two processes are linked but distinct.</p></feedback></choice>
+        <choice><statement><p>Only animals respire.</p></statement><feedback><p>Plants and many other organisms respire too.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-plant-mass">
+      <title>Where does plant carbon come from?</title>
+      <statement><p>Most of the carbon atoms in a growing plant originally enter the plant mainly as:</p></statement>
+      <choices>
+        <choice><statement><p>minerals from soil</p></statement><feedback><p>Minerals are essential but are not the main carbon source.</p></feedback></choice>
+        <choice correct="yes"><statement><p>carbon dioxide from air</p></statement><feedback><p>Correct. Photosynthesis fixes atmospheric carbon into organic molecules.</p></feedback></choice>
+        <choice><statement><p>sunlight</p></statement><feedback><p>Sunlight provides energy, not carbon atoms.</p></feedback></choice>
+        <choice><statement><p>oxygen from air</p></statement><feedback><p>Oxygen participates in respiration, but atmospheric CO₂ is the main carbon source for photosynthetic biomass.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-evolution-need">
+      <title>Evolution by need?</title>
+      <statement correct="no"><p>A population evolves a useful characteristic because individual organisms need it badly enough.</p></statement>
+      <feedback><p>Natural selection acts on heritable variation. Individuals with variants that improve reproductive success leave more descendants, changing populations across generations.</p></feedback>
+    </exercise>
+  </section>
+
+  <section xml:id="ic-earth-space">
+    <title>Earth and Space diagnostics</title>
+    <subsection><title>Read less</title><p>Watch for scale and model errors: seasons are not distance, phases are not Earth's shadow and light-year is not time.</p></subsection>
+    <subsection><title>Standard</title><p>Earth and Space reasoning often uses models because direct manipulation is impossible. A good model must correctly predict observations.</p></subsection>
+    <subsection><title>Go deeper</title><p>Ask what evidence could distinguish competing models. Astronomy and geology are rich examples of strong science built from indirect evidence.</p></subsection>
+
+    <exercise xml:id="ic-seasons">
+      <title>Why do seasons happen?</title>
+      <statement><p>What is the main cause of seasons on Earth?</p></statement>
+      <choices randomize="yes">
+        <choice><statement><p>Earth is much nearer the Sun in summer.</p></statement><feedback><p>Distance change is not the main cause and cannot explain opposite seasons in the two hemispheres.</p></feedback></choice>
+        <choice correct="yes"><statement><p>Earth's axial tilt changes solar angle and daylight duration during its orbit.</p></statement><feedback><p>Correct.</p></feedback></choice>
+        <choice><statement><p>The Sun produces much less energy in winter.</p></statement><feedback><p>Seasonal changes are not caused by the Sun switching output this way.</p></feedback></choice>
+      </choices>
+    </exercise>
+
+    <exercise xml:id="ic-moon-phases">
+      <title>Moon phases</title>
+      <statement correct="no"><p>The crescent Moon is caused by Earth's shadow covering most of the Moon.</p></statement>
+      <feedback><p>Normal lunar phases occur because we see different fractions of the Moon's sunlit half. Earth's shadow is involved only during a lunar eclipse.</p></feedback>
+    </exercise>
+
+    <exercise xml:id="ic-lightyear">
+      <title>Light-year</title>
+      <statement><p>A light-year is a unit of:</p></statement>
+      <choices>
+        <choice correct="yes"><statement><p>distance</p></statement><feedback><p>Correct: the distance light travels in one year.</p></feedback></choice>
+        <choice><statement><p>time</p></statement><feedback><p>The word “year” appears in the definition, but the resulting quantity is distance.</p></feedback></choice>
+        <choice><statement><p>brightness</p></statement><feedback><p>Brightness uses different quantities and units.</p></feedback></choice>
+      </choices>
+    </exercise>
+  </section>
+</chapter>
