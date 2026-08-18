@@ -1,0 +1,59 @@
+<chapter xml:id="retrieval-assessment">
+  <title>Retrieval, Mixed Practice and Assessment</title>
+  <introduction>
+    <p>This chapter is deliberately mixed. Science examinations and real scientific problems do not announce which chapter to remember. Use these questions to retrieve, connect, interpret and transfer learning across strands.</p>
+  </introduction>
+
+  <section xml:id="ra-retrieval-routines">
+    <title>How to use retrieval</title>
+    <subsection><title>Read less</title><p>Try to answer before looking back. Check. Correct. Return later.</p></subsection>
+    <subsection><title>Standard</title><p>Retrieval strengthens access to knowledge when you actively bring information to mind. Rereading can feel fluent because the words are familiar, but familiarity is not the same as being able to explain or use an idea independently.</p><p>Use short spaced sessions. Mix older and newer topics. When an answer is wrong, identify the misconception and repair it rather than simply copying the solution.</p></subsection>
+    <subsection><title>Go deeper</title><p>Good retrieval varies representation and context. Recall a definition, interpret a graph, explain a mechanism, apply an equation and compare two systems. This builds flexible knowledge rather than cue-dependent memorisation.</p></subsection>
+  </section>
+
+  <section xml:id="ra-core-recall">
+    <title>Core retrieval</title>
+    <exercise><title>Observation and inference</title><statement><p>State the difference between an observation and an inference and give one example of each.</p></statement><solution><p>An observation is what is noticed or measured; an inference is an interpretation based on observations. Example: “The thermometer reads 42 °C” is an observation; “the reaction released thermal energy” is an inference supported by a temperature rise.</p></solution></exercise>
+    <exercise><title>Mass and weight</title><statement><p>Explain why an astronaut's mass and weight are not the same quantity.</p></statement><solution><p>Mass describes an object's amount of matter and is measured in kilograms. Weight is the gravitational force acting on the object and is measured in newtons, so it depends on gravitational field strength.</p></solution></exercise>
+    <exercise><title>Compound or mixture?</title><statement><p>Give two differences between a compound and a mixture.</p></statement><solution><p>A compound contains elements chemically combined in fixed proportions and has its own properties; a mixture contains substances together without forming one pure compound and its components can often be separated physically.</p></solution></exercise>
+    <exercise><title>Breathing and respiration</title><statement><p>Why is breathing not the same process as respiration?</p></statement><solution><p>Breathing moves air into and out of the lungs. Respiration is a chemical process in cells that transfers energy from food molecules.</p></solution></exercise>
+    <exercise><title>Weather and climate</title><statement><p>Explain why one unusually cold day does not by itself disprove a long-term warming climate trend.</p></statement><solution><p>Weather describes short-term atmospheric conditions; climate describes long-term patterns based on many observations over extended periods.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ra-data">
+    <title>Data and graph reasoning</title>
+    <exercise><title>Dissolving investigation</title><statement><p>A student measures dissolving time at 20, 30, 40, 50 and 60 °C. One result at 40 °C is much larger than the overall trend. What should the student do before deleting it?</p></statement><solution><p>Check the original measurement and method, repeat the 40 °C measurement where possible, and consider whether the point is a genuine observation or the result of an identifiable problem. An unusual value should not be removed simply because it is inconvenient.</p></solution></exercise>
+    <exercise><title>Distance-time graph</title><statement><p>On a distance-time graph, segment A rises gently, segment B is horizontal and segment C rises steeply. Compare the motion.</p></statement><solution><p>A represents slower motion, B represents no change in distance (stationary relative to the reference point), and C represents faster motion than A.</p></solution></exercise>
+    <exercise><title>Ecological sampling</title><statement><p>Why might five quadrats deliberately placed where flowers are most abundant give a misleading estimate of plant abundance across a field?</p></statement><solution><p>The sample is biased and not representative of the whole field. Random or appropriately systematic sampling would reduce deliberate selection bias.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ra-investigation">
+    <title>Investigation reasoning</title>
+    <exercise><title>Fair test design</title><statement><p>Design the key variables for an investigation of how ramp angle affects the time a trolley takes to travel a fixed distance.</p></statement><solution><p>Independent variable: ramp angle. Dependent variable: travel time over the fixed distance. Controls could include trolley, travel distance, release method, ramp surface and starting position. Repeat timings and use a suitable angle range.</p></solution></exercise>
+    <exercise><title>Evaluation</title><statement><p>A student writes “human error” as the only limitation in an experiment. Improve this evaluation.</p></statement><solution><p>Name a specific uncertainty, for example reaction time when starting and stopping a stopwatch, explain how it could change the measured time, and suggest a targeted improvement such as electronic timing or repeated measurements.</p></solution></exercise>
+    <exercise><title>Risk</title><statement><p>Distinguish hazard from risk using a practical involving hot water.</p></statement><solution><p>Hot water is a hazard because it can cause burns. Risk concerns the likelihood and severity of a burn in the particular procedure. Controls might include lower temperatures where possible, stable containers, small volumes and suitable handling.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ra-connections">
+    <title>Cross-strand connections</title>
+    <exercise><title>Plant mass</title><statement><p>A student says, “A tree gets nearly all of its new mass from soil.” Use chemistry and biology to correct the claim.</p></statement><solution><p>Plants absorb water and mineral ions from soil, but much of the carbon in new biomass comes from atmospheric carbon dioxide. Photosynthesis incorporates carbon dioxide into organic molecules, conserving matter while changing its chemical form.</p></solution></exercise>
+    <exercise><title>Fuel and climate</title><statement><p>Trace a carbon atom from a fossil fuel into the atmosphere and then into a plant.</p></statement><solution><p>Combustion can move the carbon atom from the fuel into carbon dioxide. The carbon dioxide enters the atmosphere and may later be taken up by a plant during photosynthesis and incorporated into organic molecules.</p></solution></exercise>
+    <exercise><title>Orbit and force</title><statement><p>Why does a satellite not need a continuous forward engine force to remain in orbit?</p></statement><solution><p>The satellite already has sideways motion. Gravity continuously changes the direction of its velocity, producing curved free-fall motion around Earth. An engine may be used for corrections but is not needed as a continuous forward force in an ideal orbit.</p></solution></exercise>
+    <exercise><title>Energy in ecosystems</title><statement><p>Why do we say matter cycles but energy flows through an ecosystem?</p></statement><solution><p>Atoms such as carbon and nitrogen can be reused through biological and geochemical cycles. Energy enters ecosystems, largely through sunlight, is transferred among organisms and is progressively dispersed as thermal energy to the surroundings.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ra-misconceptions">
+    <title>Misconception clinic</title>
+    <exercise><title>Current is used up</title><statement><p>A student says a second lamp in a circuit receives less current because the first lamp “uses some up”. What is wrong with this model?</p></statement><solution><p>Electric charge is not consumed by the first lamp. In a simple series circuit the same current passes through each component. Energy is transferred in the components; current and energy transfer must not be confused.</p></solution></exercise>
+    <exercise><title>Seasons</title><statement><p>A student says Ireland is colder in winter because Earth is much farther from the Sun. Give the better explanation.</p></statement><solution><p>The main cause of seasons is Earth's axial tilt. In winter, the relevant hemisphere receives sunlight at a lower angle and for fewer hours each day.</p></solution></exercise>
+    <exercise><title>Dissolving</title><statement><p>Why is “the salt disappeared” scientifically incomplete?</p></statement><solution><p>The salt remains as particles dispersed through the solvent. It may no longer be visible as a solid, but the matter has not vanished.</p></solution></exercise>
+    <exercise><title>Evolution by need</title><statement><p>Why is “giraffes developed long necks because they needed to reach leaves” a poor evolutionary explanation?</p></statement><solution><p>Individuals do not evolve a heritable feature because of need. Populations contain inherited variation; if some variants improve reproductive success in a particular environment, those variants can become more common over generations.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ra-exam-style">
+    <title>Exam-style practice</title>
+    <exercise><title>Unknown white solid</title><statement><p>A student is given a white solid. It dissolves in water. The solution conducts electricity. When the water is evaporated, white crystals remain. Identify two observations, one inference that could be made, and one further test that would strengthen identification of the substance.</p></statement><solution><p>Observations include that the solid dissolves, the solution conducts electricity and crystals remain after evaporation. An inference is that the dissolved substance forms mobile charged particles in solution. A further identification test depends on the suspected substance and should use an appropriate chemical property rather than appearance alone.</p></solution></exercise>
+    <exercise><title>Insulation investigation</title><statement><p>Four identical cups contain equal volumes of water initially at the same temperature. Each cup has a different insulating material. Temperatures are measured every five minutes. State the dependent variable, two controls and how the results could be used to compare the materials.</p></statement><solution><p>The dependent variable can be temperature change over time. Controls include water volume, initial temperature, cup type, exposed surface area and measurement intervals. Compare temperature decrease over the same period: the material associated with the smallest decrease provides the greatest reduction in thermal energy transfer under those conditions.</p></solution></exercise>
+    <exercise><title>Population data</title><statement><p>A rabbit population rises for several years and then fluctuates around a roughly stable range. Give two biological factors that could produce this pattern and explain why a stable average does not mean the population size is constant.</p></statement><solution><p>Food availability, predation, disease, competition or habitat space can limit growth. Births, deaths and environmental conditions vary, so population size can fluctuate even when long-term average conditions produce no sustained increase or decrease.</p></solution></exercise>
+  </section>
+</chapter>
