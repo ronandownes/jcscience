@@ -1,0 +1,242 @@
+<chapter xml:id="practical-bank">
+  <title>Practical Science Bank</title>
+  <introduction>
+    <p>These investigations are written as learning experiences rather than recipes to copy. Each practical separates the essential route, the complete investigation logic and a deeper route that examines uncertainty, modelling or extension.</p>
+  </introduction>
+
+  <section xml:id="pr-density">
+    <title>Practical: density of regular and irregular solids</title>
+    <subsection><title>Read less</title>
+      <p>Measure mass. Measure volume. Calculate density using <m>\rho=m/V</m>. For an irregular solid, use water displacement if the material is safe to immerse.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use a balance to measure mass. For a rectangular solid, measure dimensions and calculate volume. For an irregular solid, record the initial water volume in a graduated cylinder, fully submerge the object without trapping air and record the final volume. The increase is the object's volume.</p>
+      <p>Record units before calculating. Repeat measurements if instrument resolution or reading technique may create significant variation.</p>
+      <p><em>Analysis:</em> Compare measured density with values for possible materials. Do not identify a substance from density alone if several materials have similar values.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Estimate which measurement contributes most to uncertainty. For a small rectangular block, a 1 mm error in thickness may affect calculated volume far more than the same absolute error in length. Measurement quality depends on relative as well as absolute uncertainty.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-motion">
+    <title>Practical: motion down a ramp</title>
+    <subsection><title>Read less</title>
+      <p>Release the same trolley from the same place. Measure travel time over a fixed distance. Change ramp angle and compare results.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Choose a safe ramp and mark a fixed travel distance. Vary ramp angle systematically while keeping trolley, surface, starting point and release method constant. Measure travel time several times at each angle and calculate representative values.</p>
+      <p>Graph ramp angle against time or calculated average speed. Describe the pattern before explaining it using forces and acceleration.</p>
+      <p><em>Safety:</em> Secure the ramp and provide a stopping area so the trolley cannot fall from the bench or strike someone.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Manual stopwatch reaction time may dominate short runs. Increase travel time, use video timing or electronic gates, and compare how the method changes uncertainty.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-circuits">
+    <title>Practical: current, voltage and resistance</title>
+    <subsection><title>Read less</title>
+      <p>Build a low-voltage circuit. Put the ammeter in series and voltmeter across the component. Measure current and voltage and calculate resistance.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Construct the circuit with the supply switched off while checking connections. Use a suitable fixed resistor or other safe component. Increase potential difference in small steps within the component rating and record current at each step.</p>
+      <p>Plot potential difference against current. For a fixed resistor under roughly constant conditions, look for a straight-line relationship. Calculate <m>R=V/I</m> for several points and compare.</p>
+      <p><em>Safety:</em> Use low-voltage supplies and prevent components from overheating.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Repeat with a filament lamp and compare the graph. Explain why resistance changes as the filament heats. The contrast shows why “Ohm's law” should not be treated as a rule that every component has constant resistance.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-insulation">
+    <title>Practical: compare thermal insulation</title>
+    <subsection><title>Read less</title>
+      <p>Wrap identical containers in different materials. Add equal volumes of warm water at the same starting temperature. Measure cooling over the same time.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use identical containers, equal water volume, equal initial temperature, equal thickness/coverage where feasible and the same measurement intervals. Include an unwrapped control if appropriate.</p>
+      <p>Graph temperature against time and compare temperature decrease over a defined interval. State the conclusion only for the tested arrangement; “best insulator” depends on thickness, trapped air, moisture and construction.</p>
+      <p><em>Safety:</em> Use warm rather than dangerously hot water and stable containers.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Discuss why perfect equality of insulation thickness may be difficult for materials with very different structures. Decide whether comparison by equal thickness, equal mass or realistic application gives the fairest answer to your chosen question.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-reflection">
+    <title>Practical: reflection of light</title>
+    <subsection><title>Read less</title>
+      <p>Shine a narrow light ray at a mirror. Measure the angle to the normal before and after reflection. Compare the angles.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Draw a normal perpendicular to the mirror at the point of incidence. Direct a ray-box beam toward that point. Mark incident and reflected ray directions, then remove the apparatus and measure angles from the normal.</p>
+      <p>Repeat for several incidence angles. The model predicts angle of incidence equals angle of reflection within measurement uncertainty.</p>
+      <p><em>Safety:</em> Do not direct bright beams into eyes.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Estimate angular uncertainty from ray width and line marking. A “perfect” numerical equality in every trial may indicate over-rounded or invented data rather than exceptional experimental skill.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-conservation-mass">
+    <title>Practical: conservation of mass</title>
+    <subsection><title>Read less</title>
+      <p>Measure total mass before and after a physical or chemical change in a closed system. Compare the values.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Choose a safe reaction that can occur in a sealed or otherwise closed setup without dangerous pressure. Measure the entire apparatus and contents before reaction, allow reactants to mix without opening the system, then measure again.</p>
+      <p>Any small difference should be compared with balance resolution and method uncertainty before claiming mass changed.</p>
+      <p>Contrast with an open gas-producing reaction where measured mass may fall as gas leaves the apparatus. Use the particle model to explain both observations.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Discuss what “closed system” means operationally. A loose stopper, evaporation or droplets left outside the measured assembly can produce apparent mass changes without violating conservation.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-separation">
+    <title>Practical: separate a mixture</title>
+    <subsection><title>Read less</title>
+      <p>Choose a separation method based on a property difference: particle size, solubility, boiling behaviour or movement through a medium.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>For a mixture containing an insoluble solid and dissolved solid in water, filtration can remove the insoluble solid and evaporation/crystallisation can recover the dissolved solid. The sequence matters because each step exploits a different property.</p>
+      <p>For coloured soluble components, chromatography may separate substances because they interact differently with solvent and stationary phase.</p>
+      <p>Describe why each technique works; naming apparatus without linking it to properties is incomplete scientific reasoning.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Design a separation sequence for a more complex mixture and justify the order. Consider recovery purity, yield, energy use and whether a method is analytical or preparative.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-rate">
+    <title>Practical: factors affecting reaction rate</title>
+    <subsection><title>Read less</title>
+      <p>Change one factor such as concentration, temperature or surface area. Measure how quickly a fixed amount of reaction progress occurs.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Select a safe reaction with a measurable endpoint or gas product. Keep reactant amounts and all non-tested conditions consistent. Collect quantitative data rather than only describing one reaction as “faster”.</p>
+      <p>For a gas-producing reaction, measure gas volume over time. For a visual endpoint, define the endpoint before starting and recognise judgement uncertainty.</p>
+      <p>Explain trends using particle collision ideas and, where relevant, activation energy.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Plot full progress curves rather than only endpoint times. Compare initial slopes and plateaus, and distinguish factors that change rate from factors that change final yield.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-acid-base">
+    <title>Practical: acids, bases and pH</title>
+    <subsection><title>Read less</title>
+      <p>Test labelled solutions with indicator or pH equipment. Record results and classify them as acidic, neutral or basic.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use small samples in clean containers. Add a consistent amount of indicator or use clean probes according to instructions. Compare colour with the appropriate scale and record approximate pH.</p>
+      <p>Then investigate neutralisation safely by adding measured amounts of acid and base while monitoring pH. Avoid assuming equal volumes always neutralise because concentration and reacting ratios matter.</p>
+      <p><em>Safety:</em> Wear eye protection and use dilute school-laboratory solutions as instructed.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Compare universal indicator with a digital pH sensor. Discuss resolution, calibration and whether added indicator itself slightly alters a very small sample.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-exo-endo">
+    <title>Practical: energy changes in reactions</title>
+    <subsection><title>Read less</title>
+      <p>Measure temperature before and after a safe chemical process. A rise suggests energy transfer to surroundings; a fall suggests energy transfer from surroundings into the reacting system.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use insulated containers where appropriate, equal starting quantities and a consistent mixing method. Record temperature continuously or at short intervals so the maximum or minimum is not missed.</p>
+      <p>Classify the process as exothermic or endothermic from energy transfer, not merely from whether the container “felt hot” or “felt cold”.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Evaluate heat exchange with the cup, thermometer and air. The measured temperature change is evidence about energy transfer, but a simple classroom setup does not capture the entire reaction enthalpy quantitatively.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-cells">
+    <title>Practical: observe plant and animal cells</title>
+    <subsection><title>Read less</title>
+      <p>Prepare or use a thin cell sample, view at low power first, focus carefully and identify visible structures.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>For plant tissue such as onion epidermis, mount a thin sample flat on a slide, add suitable stain if instructed and lower the coverslip carefully to reduce trapped air. Begin with the lowest-power objective and only increase magnification after centring and focusing.</p>
+      <p>For animal cells, use only approved prepared slides or safe school protocols. Record a biological drawing with title, labels and scale/magnification information where available.</p>
+      <p>Compare observed structures with model diagrams and identify which structures are not visible with the instrument used.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Estimate cell size using field-of-view information and compare that estimate with image magnification. This separates actual object size from how large the image appears.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-photosynthesis">
+    <title>Practical: factors affecting photosynthesis</title>
+    <subsection><title>Read less</title>
+      <p>Change one condition such as light level while measuring a photosynthesis-related outcome. Keep other important conditions controlled.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>An aquatic-plant setup can compare oxygen production under different light conditions. Bubble counting is simple but bubbles vary in size, so collected gas volume or an oxygen sensor can provide better quantitative evidence where available.</p>
+      <p>Keep temperature, plant size, carbon dioxide availability and measurement time consistent. Allow the system to settle after changing conditions.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>A plateau at high light levels suggests another factor has become limiting. This introduces the idea that biological rates are controlled by interacting constraints rather than one factor in isolation.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-respiration">
+    <title>Practical: factors affecting respiration</title>
+    <subsection><title>Read less</title>
+      <p>Use a safe biological system to measure a respiration-related change under controlled conditions.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Suitable school investigations may use germinating seeds or yeast, depending on available equipment and approved procedures. Possible measurements include carbon dioxide production, oxygen use or temperature change.</p>
+      <p>Include a suitable comparison/control and distinguish respiration from general warming, evaporation or other processes that could affect the measurement.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Rate estimates depend on biological variability as well as instrument uncertainty. Replicate samples may be more informative than repeatedly measuring one unusual organism or culture.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-habitat">
+    <title>Practical: habitat survey</title>
+    <subsection><title>Read less</title>
+      <p>Sample organisms fairly, measure relevant environmental conditions and use your data to describe patterns in the habitat.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Define the study area and question. Use random quadrats for abundance estimates or a transect for change across a gradient. Record species presence/abundance and relevant abiotic variables such as light, soil moisture, temperature or pH.</p>
+      <p>Photograph or sketch the habitat only where permitted. Minimise disturbance and follow outdoor safety procedures.</p>
+      <p>Use the results to discuss adaptation, competition and interdependence while separating observed correlation from proposed explanation.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Compare random, systematic and stratified sampling. Decide which design best answers the question and identify how seasonal timing could change the conclusion.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-climate-data">
+    <title>Practical/data investigation: climate evidence</title>
+    <subsection><title>Read less</title>
+      <p>Use a trusted long-term dataset. Plot a climate variable over time and describe the trend and variability.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Select a dataset such as annual temperature anomaly, atmospheric carbon dioxide or sea level from a reputable scientific agency. Record source, units, time range and any baseline definition.</p>
+      <p>Graph the data, identify long-term patterns and short-term variation, and avoid selecting only the interval that supports a preferred conclusion.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Compare two independent climate indicators. Explain why agreement among different measurement systems strengthens an inference more than repeated versions of one dataset alone.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pr-earth-moon-model">
+    <title>Model: seasons, phases and eclipses</title>
+    <subsection><title>Read less</title>
+      <p>Use a lamp as the Sun and spheres as Earth and Moon. Keep Earth's axis tilted in a constant direction as Earth moves around the lamp.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use the model to explain how daylight duration and solar angle change with season. Then model Moon phases by changing the Moon's position around Earth while keeping one half illuminated by the Sun.</p>
+      <p>For eclipses, identify the special alignments needed. Tilt the Moon's orbital plane slightly to explain why eclipses do not occur every month.</p>
+      <p>State model limitations: sizes and distances are not to scale, and a classroom lamp does not produce perfectly parallel rays.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Ask students to predict an observation from a new viewpoint before moving the model. Prediction turns the model from a demonstration into a test of understanding.</p>
+    </subsection>
+  </section>
+</chapter>
