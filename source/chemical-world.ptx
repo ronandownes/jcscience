@@ -1,0 +1,148 @@
+<chapter xml:id="chemical-world">
+  <title>Chemical World</title>
+  <introduction>
+    <p>The Chemical World strand explains matter using particle models, develops ideas about elements, compounds and mixtures, and uses evidence from reactions to understand how substances change.</p>
+  </introduction>
+
+  <section xml:id="cw-particle-model">
+    <title>The particle model of matter</title>
+    <subsection><title>Read less</title>
+      <p>All matter is made of particles. In solids the particles are closely packed and vibrate around fixed positions. In liquids they remain close but can move past one another. In gases they are much farther apart and move freely.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The particle model helps explain states of matter, diffusion, compression and changes of state. Heating generally increases particle motion. During melting or boiling, energy is transferred into the substance while the arrangement and interactions of particles change.</p>
+      <p>Gas particles are widely separated, so gases can be compressed much more than solids or liquids. Diffusion occurs because particles are in continuous random motion.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Particle diagrams are models, not photographs. Particles themselves do not expand when a substance expands; their average separation or motion changes. The model becomes more powerful when students use it to predict observations rather than merely memorising three drawings.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-elements-atoms">
+    <title>Atoms, elements and the Periodic Table</title>
+    <subsection><title>Read less</title>
+      <p>An <term>element</term> is a substance made from only one type of atom. The Periodic Table organises elements so that patterns in their properties can be seen.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Atoms contain a small central nucleus with protons and neutrons, surrounded by electrons. Protons have positive charge, electrons negative charge and neutrons no electrical charge.</p>
+      <p>The atomic number identifies an element because it equals the number of protons in each atom of that element. Elements in the same group of the Periodic Table often show related chemical behaviour.</p>
+      <p>Metals and non-metals show broad differences in properties, though real elements do not all fit a simplistic checklist perfectly.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>The modern Periodic Table is organised by atomic number, not atomic mass. Its repeating patterns arise from electron structure. Junior Cycle does not require a full quantum model, but recognising that periodic patterns have a structural cause is more useful than treating groups as unrelated facts.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-compounds-mixtures">
+    <title>Compounds and mixtures</title>
+    <subsection><title>Read less</title>
+      <p>A <term>compound</term> contains atoms of different elements chemically combined in fixed proportions. A <term>mixture</term> contains substances together without those substances being chemically combined into one pure substance.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Compounds have properties that differ from the elements used to make them. Their components cannot usually be separated by simple physical methods. Mixtures retain the identities of their components and can often be separated using differences in physical properties.</p>
+      <p>Filtration separates an insoluble solid from a liquid. Evaporation or crystallisation can recover a dissolved solid. Distillation separates substances using differences in boiling behaviour. Chromatography can separate components that move differently through a stationary medium.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>“Pure” in chemistry means one substance with a definite composition, not “safe”, “natural” or “free from contamination” in everyday advertising language. Scientific vocabulary often assigns a narrower meaning to familiar words.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-physical-chemical-change">
+    <title>Physical and chemical changes</title>
+    <subsection><title>Read less</title>
+      <p>In a physical change, no new substance is formed. In a chemical change, new substances are produced.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Melting, freezing and dissolving can be physical changes. Chemical reactions rearrange atoms into new combinations. Evidence for a reaction may include gas production, precipitate formation, sustained colour change, temperature change or light, but no single sign proves a reaction by itself.</p>
+      <p>A word equation records reactants and products. A balanced symbol equation also represents conservation of atoms.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>The distinction between physical and chemical change is a useful model but should not become a superficial checklist. Heating may cause a physical change in one material and a chemical decomposition in another. The key question is whether the chemical identities of substances have changed.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-conservation">
+    <title>Conservation of mass</title>
+    <subsection><title>Read less</title>
+      <p>In a chemical reaction, atoms are rearranged. They are not created or destroyed. In a closed system, total mass remains constant.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>If a reaction seems to lose mass, matter may have escaped as a gas. If it seems to gain mass, a reactant such as oxygen may have entered from the air. A closed system helps reveal conservation clearly.</p>
+      <p>Balanced equations reflect the same idea symbolically: the number of atoms of each element is the same before and after the reaction.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Mass conservation provides a bridge between observable laboratory measurements and the particle model. It is strong evidence that chemical reactions reorganise matter rather than make matter vanish or appear.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-acids-bases">
+    <title>Acids, bases and pH</title>
+    <subsection><title>Read less</title>
+      <p>Acidic and basic solutions can be compared using indicators and the pH scale. Values below 7 are acidic, 7 is neutral and values above 7 are basic at ordinary classroom conditions.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Indicators change colour depending on chemical conditions. Universal indicator gives an approximate pH range rather than an exact concentration measurement.</p>
+      <p>When an acid reacts with a base, neutralisation can occur. Acid-base chemistry appears in digestion, soil treatment, household products, industry and environmental systems.</p>
+      <p>Safety matters: “weak” and “dilute” do not mean the same thing, and laboratory solutions should never be tasted or handled casually.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>The pH scale is logarithmic, so equal numerical steps do not represent equal additive changes in acidity. Junior Cycle students do not need logarithmic calculations to appreciate that pH 3 is substantially more acidic than pH 4.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-metals">
+    <title>Metals, reactivity and corrosion</title>
+    <subsection><title>Read less</title>
+      <p>Metals differ in how readily they react. A reactivity series helps compare their behaviour. Corrosion is the gradual chemical attack of a material by its environment.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Comparing metal reactions with water, acids or oxygen provides evidence for relative reactivity. More reactive metals tend to form compounds more readily under comparable conditions.</p>
+      <p>Rusting of iron requires oxygen and water. Coatings, galvanising and sacrificial protection can reduce corrosion by preventing the necessary conditions or by preferential reaction of another metal.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Reactivity is not a vague personality trait of an element. It depends on the specific reaction and conditions. The school reactivity series is a useful comparative model for common reactions, not a complete ordering for every possible chemical process.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-combustion">
+    <title>Combustion and fuels</title>
+    <subsection><title>Read less</title>
+      <p>Combustion is a reaction with oxygen that releases energy. Fuels store chemical energy that can be transferred during combustion.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Complete combustion of many carbon-containing fuels produces carbon dioxide and water. Limited oxygen can lead to incomplete combustion and harmful products such as carbon monoxide and soot.</p>
+      <p>Choosing fuels involves trade-offs among energy output, availability, cost, emissions, safety and sustainability. Renewable does not automatically mean impact-free, and fossil fuels differ in composition and emissions.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Combustion connects chemistry to climate science, biology and energy systems. Carbon atoms in a fuel do not disappear when burned; they become part of product molecules, illustrating conservation of matter at a global scale.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-water-solutions">
+    <title>Water, solutions and concentration</title>
+    <subsection><title>Read less</title>
+      <p>A <term>solution</term> forms when a solute dissolves in a solvent. Water is a common solvent. More concentrated solutions contain more solute relative to a given amount of solution or solvent.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Dissolving does not mean a substance has disappeared. Its particles become dispersed among solvent particles. A saturated solution contains as much dissolved solute as can remain dissolved under the stated conditions.</p>
+      <p>Solubility can depend on temperature and on the particular solute-solvent pair. Water treatment uses physical and chemical processes to make water suitable for particular uses.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Rate of dissolving and solubility are different ideas. Stirring or crushing can make a substance dissolve faster without changing the final equilibrium solubility at a fixed temperature.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cw-materials-sustainability">
+    <title>Materials and sustainability</title>
+    <subsection><title>Read less</title>
+      <p>Materials are chosen because their properties suit a purpose. Every material has environmental costs associated with extraction, manufacture, use and disposal.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Properties such as strength, flexibility, conductivity, density, durability and chemical resistance influence material choice. Sustainable design considers the whole life cycle rather than only whether an item can be recycled at the end.</p>
+      <p>Scientific decisions about materials involve evidence and trade-offs. A lightweight plastic may reduce transport emissions but create persistence and waste problems; a heavier reusable material may require more energy to manufacture but last much longer.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Life-cycle thinking discourages simplistic labels such as “good material” or “bad material”. The environmental outcome depends on sourcing, energy mix, durability, reuse rate, transport, collection systems and what realistically happens after use.</p>
+    </subsection>
+  </section>
+</chapter>
