@@ -1,0 +1,164 @@
+<chapter xml:id="biological-world">
+  <title>Biological World</title>
+  <introduction>
+    <p>The Biological World strand studies living systems from cells to organisms and ecosystems. The same recurring ideas appear at every scale: structure and function, exchange, regulation, energy, reproduction, variation, interaction and sustainability.</p>
+  </introduction>
+
+  <section xml:id="bw-cells">
+    <title>Cells: the basic units of life</title>
+    <subsection><title>Read less</title>
+      <p>Living things are made of cells. Cells carry out the processes needed for life. Plant and animal cells share many structures but also have important differences.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The cell membrane controls movement of substances into and out of the cell. Cytoplasm is where many chemical reactions occur. The nucleus contains genetic material in most plant and animal cells. Mitochondria are involved in aerobic respiration.</p>
+      <p>Plant cells also have a cellulose cell wall, a large permanent vacuole in many mature cells and chloroplasts in photosynthetic tissues. Cells are specialised when their structures are adapted to particular functions.</p>
+      <example><title>Structure supports function</title><p>A root hair cell has a long extension that increases surface area for absorption. A red blood cell has a shape that supports gas transport and can pass through narrow capillaries.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Cell diagrams are simplified models. Real cells are three-dimensional, dynamic and crowded with structures and molecules. The school diagram is useful because it highlights structures relevant to the question being asked.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-microscopy">
+    <title>Microscopy and scale</title>
+    <subsection><title>Read less</title>
+      <p>Microscopes allow us to observe structures too small to see clearly with the unaided eye. Magnification tells how much larger an image appears than the real object.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Good microscope work begins at low power, centres the specimen, focuses carefully and then increases magnification if needed. A biological drawing records observable structure rather than artistic shading.</p>
+      <p>Magnification and resolution are different. Magnification enlarges an image; resolution is the ability to distinguish nearby details as separate.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Images can be enlarged indefinitely without revealing new detail once the resolving limit has been reached. This is why a larger blurry image is not necessarily more informative.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-organisation">
+    <title>Organisation: cells, tissues, organs and systems</title>
+    <subsection><title>Read less</title>
+      <p>Similar specialised cells can form tissues. Tissues combine into organs. Organs work together in organ systems.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Multicellular organisms divide biological work among specialised structures. Muscle tissue contracts, epithelial tissues cover and line surfaces, and nervous tissue transmits signals. The heart contains several tissues working together as an organ within the circulatory system.</p>
+      <p>Organisation creates interdependence: an organ system can fail even when some individual parts remain intact because function depends on coordinated interaction.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Levels of organisation are useful but not perfectly separate boxes. Biological function emerges from interactions across scales. A change in one protein can affect a cell, tissue, organ, whole organism and even population.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-digestion-nutrition">
+    <title>Food, digestion and nutrition</title>
+    <subsection><title>Read less</title>
+      <p>Food supplies nutrients and energy. Digestion breaks large food molecules into smaller soluble molecules that can be absorbed.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A balanced diet supplies carbohydrates, proteins, fats, vitamins, minerals, fibre and water in appropriate amounts. Different nutrients have different roles; no single food is “healthy” or “unhealthy” in isolation from amount and overall dietary pattern.</p>
+      <p>Mechanical digestion breaks food physically. Chemical digestion uses enzymes to break large molecules into smaller ones. Absorption mainly occurs through the small intestine, whose structure provides a large surface area and close blood supply.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Enzymes are biological catalysts. Their activity depends on molecular shape and environmental conditions such as temperature and pH. “Enzymes digest food” is incomplete: different enzymes act on particular substrates through specific reactions.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-respiration-circulation">
+    <title>Respiration, breathing and circulation</title>
+    <subsection><title>Read less</title>
+      <p>Breathing moves air into and out of the lungs. Respiration is a chemical process in cells that releases usable energy from food molecules.</p>
+      <p>The circulatory system transports substances around the body.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Aerobic respiration uses oxygen and releases energy from glucose, producing carbon dioxide and water. The lungs provide a large, thin exchange surface supplied with blood so oxygen can enter and carbon dioxide can leave.</p>
+      <p>The heart pumps blood through a network of vessels. Arteries carry blood away from the heart, veins return blood and capillaries provide short diffusion distances for exchange with tissues.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Respiration does not “create energy”. It transfers chemical energy into forms cells can use while some energy is dispersed as heat. Gas exchange, circulation and cellular respiration are linked parts of one system.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-excretion-homeostasis">
+    <title>Excretion and internal balance</title>
+    <subsection><title>Read less</title>
+      <p>Excretion removes waste products made by metabolism. Organisms also regulate internal conditions so cells can function effectively.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Carbon dioxide is removed through the lungs. The kidneys filter blood and help control water, salts and nitrogen-containing wastes. The skin contributes to temperature control through sweating and changes in blood flow.</p>
+      <p>Maintaining relatively stable internal conditions is important because enzymes and cells operate within limited ranges.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Homeostasis is dynamic rather than perfectly constant. Internal variables fluctuate around useful ranges as feedback systems respond continuously to changes inside and outside the body.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-reproduction-genetics">
+    <title>Reproduction, inheritance and variation</title>
+    <subsection><title>Read less</title>
+      <p>Reproduction produces new organisms. Genetic information is passed from parents to offspring. Offspring show both inherited variation and variation influenced by environment.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>DNA carries genetic information. Genes are sections of DNA associated with biological functions and characteristics. Chromosomes organise DNA in cells.</p>
+      <p>Sexual reproduction combines genetic material from two parents and produces variation among offspring. Asexual reproduction involves one parent and usually produces offspring that are genetically much more similar to the parent.</p>
+      <p>Human characteristics are rarely explained well by simplistic “one gene equals one visible trait” rules. Many features involve multiple genes and environmental influences.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Genetic information influences development through gene expression and protein production. Environment can affect how traits develop, but environmental influence does not mean genes are irrelevant; phenotype emerges from interaction between genetic and environmental factors.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-evolution">
+    <title>Evolution and natural selection</title>
+    <subsection><title>Read less</title>
+      <p>Populations contain variation. If some inherited variations help organisms survive and reproduce in a particular environment, those variations can become more common over generations.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Natural selection acts on variation already present or arising in populations. Individuals do not evolve because they “need” a feature. Instead, differences in survival and reproduction change the frequency of inherited characteristics across generations.</p>
+      <p>Evidence for evolution includes fossils, comparative anatomy, biogeography and genetic similarities.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Fitness in evolutionary biology refers to reproductive success in a given environment, not physical strength. A characteristic that is advantageous in one environment may be neutral or disadvantageous in another.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-plants-photosynthesis">
+    <title>Plants, photosynthesis and transport</title>
+    <subsection><title>Read less</title>
+      <p>Photosynthesis uses light energy to make glucose from carbon dioxide and water. Oxygen is released as a product.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Leaves are adapted for photosynthesis through broad surfaces, chloroplast-rich cells, gas-exchange spaces and stomata. Roots absorb water and mineral ions; vascular tissues move substances through the plant.</p>
+      <p>Photosynthesis stores energy in chemical form. Plants also respire continuously; photosynthesis and respiration are different processes.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>A plant's mass does not come mainly from soil. Much of the carbon in new plant material comes from atmospheric carbon dioxide incorporated into organic molecules during photosynthesis.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-ecology">
+    <title>Ecosystems, food webs and cycling</title>
+    <subsection><title>Read less</title>
+      <p>An ecosystem includes organisms and their physical environment interacting together. Food chains and food webs show feeding relationships and energy transfer.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Producers capture energy, consumers obtain energy by feeding and decomposers break down dead material and wastes. Matter cycles through ecosystems while energy flows through and is progressively dispersed.</p>
+      <p>Population size is affected by resources, predation, competition, disease and environmental conditions. Biodiversity can increase ecosystem resilience, but relationships are complex and context-dependent.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Arrows in a food chain represent transfer of matter and energy from the organism being consumed toward the consumer. They are not arrows showing “who eats whom” in the direction of the predator.</p>
+      <p>Ecosystems are open systems. Matter cycles locally and globally, while energy enters mainly as sunlight and eventually leaves as thermal radiation.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="bw-human-impact">
+    <title>Human health, biodiversity and sustainability</title>
+    <subsection><title>Read less</title>
+      <p>Human actions can change habitats, biodiversity and ecosystem processes. Sustainable decisions aim to meet needs while protecting the ability of future systems and generations to meet theirs.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Habitat loss, pollution, invasive species, overexploitation and climate change can alter populations and ecosystems. Conservation uses evidence to protect species, habitats and ecological processes.</p>
+      <p>Good environmental decisions compare evidence, costs, benefits, uncertainties and competing needs rather than relying on slogans.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Sustainability questions are systems questions. An intervention can solve one problem while creating another, so evaluating life cycles, feedbacks and unintended consequences is part of scientific reasoning.</p>
+    </subsection>
+  </section>
+</chapter>
