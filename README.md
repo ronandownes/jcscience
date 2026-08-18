@@ -22,8 +22,9 @@ Before continuing substantial work:
 2. read `references/README.md`;
 3. read `references/SOURCES.md` when using external material;
 4. read `references/QUESTION-DESIGN.md` when creating assessment questions;
-5. inspect the current source tree and recent commits;
-6. continue from the current state rather than rebuilding decisions from chat history.
+5. read `references/LEARNING-DESIGN.md` for the production-content, mastery, exam-mode and CBA/project strategy;
+6. inspect the current source tree and recent commits;
+7. continue from the current state rather than rebuilding decisions from chat history.
 
 If a new decision materially changes the project direction, update the repository documentation before finishing the work session.
 
@@ -43,6 +44,10 @@ Current priorities are:
 - practical work, scientific reasoning and Nature of Science integrated throughout;
 - accessibility, scaffolding and appropriate challenge;
 - future support for richer interactions, semantic answer checking, simulations, multilingual content and analytics where worthwhile.
+
+The resource should be sufficiently complete and demanding that a diligent, capable learner does not need another textbook to fill curricular, explanatory or practice gaps when preparing for the highest standard of Junior Cycle Science performance. This is a design target, not a guarantee of any student's result.
+
+Production pages should be authored natively rather than assembled from screenshots of books or papers. Reference PDFs are inputs for analysis; project text, tables, questions and diagrams should normally be recreated as original, accessible, maintainable content. See `references/LEARNING-DESIGN.md`.
 
 The working reference strategy is **hybrid rather than cloud-only**:
 
@@ -159,6 +164,18 @@ Where useful and technically feasible, go beyond standard textbook interactions.
 
 PreTeXt is the core publishing framework, but additional HTML/CSS/JavaScript or other suitable mechanisms may be used where they provide worthwhile learning functionality and remain maintainable.
 
+## CBA and project learning
+
+The resource should not assume that all students receive equally strong scaffolding for investigation, research and project work.
+
+Build reusable support for research-question design, source evaluation, variables, fair testing, safety, data collection, graphing, analysis, evidence-based conclusions, evaluation, communication, citation and reflection. Use worked examples and checkpoints, then fade support so students become independent.
+
+A future interactive project workflow can follow:
+
+**Question → research → plan → safety → method → evidence → analyse → conclude → evaluate → communicate → reflect**
+
+The purpose is to make scientific inquiry explicitly teachable and reduce dependence on variable levels of classroom expertise without replacing good teaching. Detailed guidance is in `references/LEARNING-DESIGN.md`.
+
 ## Architecture
 
 Keep the book **modular, expandable and easy to refactor**.
@@ -240,6 +257,7 @@ The HTML output is written to `output/web/`.
 - `references/README.md` — reference workflow
 - `references/SOURCES.md` — reference hierarchy and source catalogue
 - `references/QUESTION-DESIGN.md` — assessment-generation policy
+- `references/LEARNING-DESIGN.md` — native-content, mastery, exam-mode and CBA/project strategy
 - `tools/fetch_science_papers.py` — automated Science exam-corpus downloader
 - `.github/workflows/pages.yml` — builds and deploys the real PreTeXt HTML to GitHub Pages
 
