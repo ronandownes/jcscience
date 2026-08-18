@@ -30,6 +30,9 @@ jobs:
       - name: Check source structure
         run: python tools/check_source.py
 
+      - name: Audit three reading routes
+        run: python tools/audit_learning_routes.py
+
       - name: Install PreTeXt
         run: python -m pip install "pretext==2.44.0"
 
