@@ -34,6 +34,7 @@
     <xi:include href="practicals.ptx" />
     <xi:include href="interactive-checks.ptx" />
     <xi:include href="retrieval-assessment.ptx" />
+    <xi:include href="exam-practice.ptx" />
 
     <backmatter>
       <appendix xml:id="glossary-guide">
