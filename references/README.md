@@ -5,6 +5,7 @@ This directory contains the standing reference policy for development of the JC 
 Read these files before using external material or creating substantial book content:
 
 - `LEARNING-ARCHITECTURE.md` — canonical learning architecture, definition policy, reading routes, terminology rigor, single-source concept model and subject-transfer rules.
+- `CONCEPT-DATA.md` — canonical concept-record structure and the single-source-of-truth implementation model.
 - `LEARNING-DESIGN.md` — production-content, mastery, formative/exam-mode and CBA/project strategy.
 - `SOURCES.md` — authority hierarchy and reference library.
 - `QUESTION-DESIGN.md` — how past papers and commercial assessment material may inform genuinely new project questions.
