@@ -43,7 +43,7 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: output/web
+          path: output/output/web
 
   deploy:
     environment:
