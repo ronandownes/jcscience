@@ -1,0 +1,154 @@
+<chapter xml:id="science-maths">
+  <title>Maths for Science</title>
+  <introduction>
+    <p>Science uses mathematics to make comparisons precise. This chapter is a reusable toolkit for units, ratios, percentages, rates, averages, graphs and estimation. It is not a separate maths course: every skill is taught through scientific meaning.</p>
+  </introduction>
+
+  <section xml:id="sm-units">
+    <title>Quantities, units and symbols</title>
+    <subsection><title>Read less</title>
+      <p>A number without its scientific unit is often incomplete. Write the quantity, value and unit together.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A physical quantity is something measurable. A unit is an agreed standard used to express that quantity. Mass may be expressed in kilograms, time in seconds, force in newtons and energy in joules.</p>
+      <p>Symbols are not units. In <m>v=d/t</m>, <m>v</m>, <m>d</m> and <m>t</m> stand for quantities; m/s, m and s are units. Keep these roles separate when rearranging equations or labelling graphs.</p>
+      <p>Units can act as an error check. Dividing metres by seconds should give metres per second; if a speed calculation ends in kilograms, something has gone wrong.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Dimensional reasoning can test relationships before numerical substitution. If a proposed formula for speed multiplies distance by time, its units become metre-seconds rather than metres per second, revealing a structural error.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-prefixes-conversion">
+    <title>Metric prefixes and conversion</title>
+    <subsection><title>Read less</title>
+      <p>Convert units before calculating when the equation expects consistent units. Common prefixes include kilo (1000), centi (1/100) and milli (1/1000).</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use meaning rather than a memorised decimal-shift trick. One metre contains 100 centimetres, so 2.5 m equals 250 cm. One litre contains 1000 millilitres, so 0.40 L equals 400 mL.</p>
+      <p>Area and volume conversions must account for dimensions. Since 1 m = 100 cm, then 1 m² = 10,000 cm² and 1 m³ = 1,000,000 cm³.</p>
+      <example><title>Volume conversion</title><p>A cube has side 10 cm. Its volume is 1000 cm³, which is 1 L. Converting the side to 0.10 m first gives <m>(0.10)^3=0.001</m> m³, the same volume.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Scientific notation and SI prefixes make very large and small scales manageable. Astronomy, cell biology and atomic science all become easier when orders of magnitude are treated explicitly.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-ratios-proportions">
+    <title>Ratios and proportional reasoning</title>
+    <subsection><title>Read less</title>
+      <p>A ratio compares quantities. If one quantity doubles while another also doubles, they may be directly proportional.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Ratios appear throughout science: atom ratios in compounds, scale drawings, concentration comparisons, gear systems, population sampling and energy efficiency.</p>
+      <p>Direct proportionality is stronger than “both increase”. If <m>y</m> is directly proportional to <m>x</m>, the ratio <m>y/x</m> remains constant and a graph of <m>y</m> against <m>x</m> passes through the origin under ideal conditions.</p>
+      <p>Do not force proportionality onto curved relationships. A quantity can increase with another without increasing in the same ratio.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Proportional reasoning provides a bridge between pattern recognition and algebraic modelling. Before fitting an equation, ask what ratio or product should remain constant if the proposed model is true.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-percentages">
+    <title>Percentages and percentage change</title>
+    <subsection><title>Read less</title>
+      <p>A percentage compares a part with a whole out of 100. Percentage change compares the change with the starting value.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Percentage <m>=\frac{\text{part}}{\text{whole}}\times100</m>. Percentage change <m>=\frac{\text{new}-\text{original}}{\text{original}}\times100</m>.</p>
+      <example><title>Efficiency</title><p>If 240 J of a 300 J input becomes useful output, efficiency is <m>240/300\times100=80\%</m>.</p></example>
+      <p>A rise from 2 to 3 is an increase of 1 unit but a 50% increase. Always state the reference value.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Percentage points and percentage change are different. If a proportion rises from 20% to 30%, that is a rise of 10 percentage points but a 50% relative increase.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-averages-variation">
+    <title>Averages, repeats and variation</title>
+    <subsection><title>Read less</title>
+      <p>Repeat measurements when variation matters. An average can summarise results, but keep the original readings visible.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The arithmetic mean is found by adding values and dividing by the number of values. It is useful when repeated measurements scatter around a central value, but a single average can hide variation or anomalies.</p>
+      <p>Before averaging, ask whether the readings measure the same condition. Combining data from different temperatures or different experimental treatments can destroy the pattern you are trying to study.</p>
+      <p>Report a sensible number of decimal places based on the measurements rather than presenting calculator output as false precision.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Spread matters as well as centre. Two experiments can have the same mean but very different consistency. At later stages, measures such as range and standard deviation quantify this idea more formally.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-rates">
+    <title>Rates</title>
+    <subsection><title>Read less</title>
+      <p>A rate describes how much one quantity changes per unit of another, often per unit time.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Speed is distance per time. Power is energy transferred per time. Reaction rate can be product formed or reactant used per time. Population growth can be change in population per time.</p>
+      <p>The unit tells what the rate means. A gas-production rate of 12 cm³/min is not the same type of quantity as a speed of 12 cm/min even though both contain “per minute”.</p>
+      <p>Average rate over an interval may hide changes within the interval.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>On a graph of quantity against time, slope represents rate of change. A changing slope therefore shows a changing rate, allowing visual and numerical descriptions to reinforce one another.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-graphs">
+    <title>Graphs as scientific arguments</title>
+    <subsection><title>Read less</title>
+      <p>Label axes and units. Choose a suitable scale. Plot accurately. Describe the pattern before explaining it.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The independent variable usually belongs on the horizontal axis and the dependent variable on the vertical axis in a controlled investigation. Choose a graph type that matches the data: categorical comparisons usually suit bars; relationships between numerical variables usually suit plotted points or lines.</p>
+      <p>Look for slope, intercept, curvature, plateau, clusters and anomalies. A graph is not decoration: it is a compressed representation of evidence.</p>
+      <p>Do not join points automatically if intermediate values were not measured or if the line would imply an unjustified continuous pathway.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Axis choices can mislead. Truncating an axis may exaggerate small differences; a huge range may hide meaningful variation. Ask whether the visual impression matches the numerical evidence.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-formulae">
+    <title>Using and rearranging formulae</title>
+    <subsection><title>Read less</title>
+      <p>Write the formula, identify known quantities with units, rearrange if needed, substitute and check the final unit.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>For <m>v=d/t</m>, finding distance gives <m>d=vt</m>; finding time gives <m>t=d/v</m>. Rearrangement should preserve equality rather than relying only on a triangle mnemonic.</p>
+      <p>Substitute values after the relationship is clear. This makes mistakes easier to see and transfers better to unfamiliar equations.</p>
+      <example><title>Find volume from density</title><p>From <m>\rho=m/V</m>, rearrange to <m>V=m/\rho</m>. If mass is 81 g and density 2.7 g/cm³, volume is 30 cm³.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Rearranging symbolically before inserting numbers reveals structure and reduces calculator dependence. It also prepares students for later Physics and Applied Mathematics where relationships become more complex.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-estimation">
+    <title>Estimation and reasonableness</title>
+    <subsection><title>Read less</title>
+      <p>Before accepting a calculator answer, ask whether its size and unit make sense.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Estimate using rounded values. If a car travels about 100 km in about 2 hours, a calculated speed of 500 km/h is obviously suspicious. If a classroom desk is reported as 0.0007 m long, the unit or conversion is wrong.</p>
+      <p>Use reference scales: a person is roughly metres tall, a cell is microscopic, Earth-Sun distance is astronomical. Orders of magnitude help detect errors.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Fermi estimation breaks an unknown problem into quantities you can estimate. The goal is not an exact answer but a defensible order of magnitude and explicit assumptions.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="sm-calculator-precision">
+    <title>Calculator output and scientific precision</title>
+    <subsection><title>Read less</title>
+      <p>Do not copy every calculator digit. Report only precision justified by the measurements and task.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>If a ruler measures only to the nearest millimetre, a derived length should not be reported with ten decimal places. Carry reasonable extra digits during calculation if needed, then round the final answer sensibly.</p>
+      <p>Always preserve enough information to avoid rounding error accumulating through several steps.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Significant figures are one convention for communicating precision, but uncertainty is the deeper idea. A reported number should reflect what the evidence can distinguish.</p>
+    </subsection>
+  </section>
+</chapter>
