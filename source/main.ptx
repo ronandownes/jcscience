@@ -32,6 +32,7 @@
     <xi:include href="earth-space.ptx" />
     <xi:include href="cosmos-carbon-energy.ptx" />
 
+    <xi:include href="lab-safety.ptx" />
     <xi:include href="investigations.ptx" />
     <xi:include href="practicals.ptx" />
     <xi:include href="cba-projects.ptx" />
