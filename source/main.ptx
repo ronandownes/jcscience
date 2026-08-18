@@ -17,6 +17,7 @@
 
     <xi:include href="nature-of-science.ptx" />
     <xi:include href="science-society.ptx" />
+    <xi:include href="science-maths.ptx" />
 
     <xi:include href="physical-world.ptx" />
     <xi:include href="quantitative-physics.ptx" />
