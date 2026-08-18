@@ -1,0 +1,201 @@
+# Project-authored map of the official Junior Cycle Science learning outcomes.
+# The official specification / Curriculum Online remains the authority.
+# These summaries are deliberately paraphrased for project planning rather than copied as replacement specification text.
+source:
+  authority: NCCA / Curriculum Online
+  url: https://www.curriculumonline.ie/junior-cycle/junior-cycle-subjects/science/expectations-for-students-learning-outcomes/
+  checked: 2026-08-18
+
+nature_of_science:
+  NOS1:
+    summary: Understand how scientists work and how scientific ideas change in response to evidence.
+    primary: [nos-questions-evidence, nos-models-theories-laws]
+    status: first-pass
+  NOS2:
+    summary: Recognise investigable questions, form testable hypotheses and compare investigation strategies.
+    primary: [inv-question, inv-hypothesis-prediction]
+    status: first-pass
+  NOS3:
+    summary: Design, plan and conduct investigations while considering fairness, reliability, accuracy, precision, safety, ethics and equipment choice.
+    primary: [nos-variables-fair-tests, inv-planning, inv-safety]
+    status: first-pass-needs-ethics
+  NOS4:
+    summary: Produce/select qualitative and quantitative data, analyse patterns and anomalies, and justify conclusions.
+    primary: [nos-measurement-data, inv-tables, inv-graphs, inv-conclusions]
+    status: first-pass
+  NOS5:
+    summary: Review investigation skills and thinking and transfer them to unfamiliar problems.
+    primary: [inv-evaluation, ra-investigation]
+    status: first-pass
+  NOS6:
+    summary: Research a scientific issue and evaluate sources and secondary data for limitations or bias.
+    primary: [nos-communication-evaluation, inv-secondary-data]
+    status: first-pass
+  NOS7:
+    summary: Communicate research and investigation findings appropriately using scientific language and representations.
+    primary: [inv-communication]
+    status: first-pass
+  NOS8:
+    summary: Evaluate science and technology arguments in media.
+    primary: [nos-communication-evaluation]
+    status: needs-dedicated-examples
+  NOS9:
+    summary: Research contributions of scientists and their impact on discovery, invention and society.
+    primary: []
+    status: gap
+  NOS10:
+    summary: Appreciate science's personal, social and global importance and the ways society influences research.
+    primary: [nos-communication-evaluation]
+    status: needs-dedicated-case-studies
+
+earth_and_space:
+  ES1:
+    summary: Describe relationships among celestial objects from moons and asteroids through planets, stars, solar systems and galaxies.
+    primary: [es-solar-system, es-stars-galaxies]
+    status: first-pass-needs-asteroids-comets
+  ES2:
+    summary: Explore a scientific model for the origin of the Universe.
+    primary: [es-space-evidence]
+    status: gap-needs-big-bang-model
+  ES3:
+    summary: Interpret data comparing Earth with other planets and moons, including mass, gravity, size and composition.
+    primary: []
+    status: gap-needs-data-section
+  ES4:
+    summary: Develop and use an Earth-Sun-Moon model for seasons, lunar phases and eclipses.
+    primary: [es-solar-system]
+    status: first-pass
+  ES5:
+    summary: Describe cycling of matter, especially carbon and water, linking biological and atmospheric processes.
+    primary: [es-water-cycle, cw-combustion, bw-plants-photosynthesis, bw-ecology]
+    status: needs-explicit-carbon-cycle
+  ES6:
+    summary: Research energy sources and communicate an informed view on meeting present and future energy needs.
+    primary: [es-resources, pw-energy]
+    status: needs-comparative-energy-case-study
+  ES7:
+    summary: Explain Earth-process and human influences on climate and evaluate climate-change effects and responses.
+    primary: [es-climate-change]
+    status: first-pass
+  ES8:
+    summary: Examine hazards and benefits of space exploration and discuss future societal implications.
+    primary: []
+    status: gap
+
+chemical_world:
+  CW1:
+    summary: Investigate whether mass changes during chemical and physical changes.
+    primary: [cw-conservation, cw-physical-chemical-change]
+    status: first-pass-needs-practical
+  CW2:
+    summary: Develop and use atomic-particle models to explain conservation of mass, state changes, physical/chemical change, mixtures and separation.
+    primary: [cw-particle-model, cw-compounds-mixtures, cw-conservation]
+    status: first-pass
+  CW3:
+    summary: Describe atom structure using nucleus, protons, neutrons and electrons, comparing their mass and charge.
+    primary: [cw-elements-atoms]
+    status: first-pass-needs-explicit-comparison-table
+  CW4:
+    summary: Classify substances as elements, compounds, mixtures, metals/non-metals, states and solutions.
+    primary: [cw-elements-atoms, cw-compounds-mixtures, cw-water-solutions]
+    status: first-pass
+  CW5:
+    summary: Use the Periodic Table to predict simple atom ratios in two-element compounds.
+    primary: [cw-elements-atoms]
+    status: gap-needs-valency-ratio-treatment
+  CW6:
+    summary: Investigate material properties including solubility, conductivity, melting point and boiling point.
+    primary: [cw-water-solutions, cw-materials-sustainability]
+    status: needs-dedicated-practical
+  CW7:
+    summary: Investigate variables affecting reaction rate, including common gas-producing and biochemical reactions.
+    primary: []
+    status: gap
+  CW8:
+    summary: Investigate acids and bases using indicators and pH.
+    primary: [cw-acids-bases]
+    status: first-pass-needs-practical
+  CW9:
+    summary: Describe reaction energy using exothermic/endothermic ideas, activation energy and simple energy-profile diagrams.
+    primary: [cw-combustion]
+    status: gap-needs-dedicated-section
+  CW10:
+    summary: Evaluate sustainability across extraction, use, disposal and recycling of materials.
+    primary: [cw-materials-sustainability]
+    status: first-pass
+
+physical_world:
+  PW1:
+    summary: Select and use appropriate measuring instruments.
+    primary: [nos-measurement-data]
+    status: needs-physical-measurement-practical
+  PW2:
+    summary: Identify, measure and/or calculate core physical quantities including length, mass, time, temperature, area, volume, density, speed, acceleration, force, voltage, current, resistance and electrical power.
+    primary: [pw-motion, pw-forces, pw-mass-weight-pressure, pw-electricity]
+    status: partial-major-expansion-needed
+  PW3:
+    summary: Investigate patterns and relationships between physical observables.
+    primary: [pw-motion, pw-electricity, pw-heat-temperature]
+    status: needs-systematic-practical-set
+  PW4:
+    summary: Research a technological application of physics and discuss scientific, societal and environmental impacts.
+    primary: []
+    status: gap
+  PW5:
+    summary: Design and build simple electronic circuits.
+    primary: [pw-electricity]
+    status: needs-design-build-practical
+  PW6:
+    summary: Explain conservation of energy and analyse energy change and dissipation in processes.
+    primary: [pw-energy]
+    status: first-pass
+  PW7:
+    summary: Design, build and test an energy-transforming device and evaluate efficiency improvements.
+    primary: [pw-energy]
+    status: gap-needs-project
+  PW8:
+    summary: Research ethical and sustainability issues in electricity generation and consumption.
+    primary: [es-resources, pw-energy]
+    status: needs-dedicated-case-study
+
+biological_world:
+  BW1:
+    summary: Investigate plant and animal cell structures and relate structure to function.
+    primary: [bw-cells, bw-microscopy]
+    status: first-pass-needs-practical
+  BW2:
+    summary: Describe sexual/asexual reproduction and explore inheritance and variation in genetically controlled characteristics.
+    primary: [bw-reproduction-genetics]
+    status: first-pass
+  BW3:
+    summary: Outline evolution by natural selection as an explanation for biological diversity.
+    primary: [bw-evolution]
+    status: first-pass
+  BW4:
+    summary: Describe structure, function and interactions of digestive, circulatory and respiratory systems.
+    primary: [bw-digestion-nutrition, bw-respiration-circulation]
+    status: first-pass-needs-system-integration
+  BW5:
+    summary: Conduct a habitat study and investigate adaptation, competition and interdependence in habitats and communities.
+    primary: [bw-ecology, inv-fieldwork]
+    status: first-pass-needs-complete-habitat-study
+  BW6:
+    summary: Evaluate inherited/environmental influences on health, including nutrition, lifestyle and microorganisms.
+    primary: [bw-digestion-nutrition, bw-human-impact]
+    status: partial-needs-microorganisms-health
+  BW7:
+    summary: Describe respiration and photosynthesis as chemical and biological processes and investigate factors affecting them.
+    primary: [bw-respiration-circulation, bw-plants-photosynthesis]
+    status: first-pass-needs-practicals
+  BW8:
+    summary: Explain matter and energy flow through ecosystems.
+    primary: [bw-ecology]
+    status: first-pass
+  BW9:
+    summary: Explain human sexual reproduction and discuss relevant medical, ethical and societal issues.
+    primary: [bw-reproduction-genetics]
+    status: gap-needs-dedicated-section
+  BW10:
+    summary: Evaluate biodiversity conservation and contributions to global food production, including ecosystem benefits to people.
+    primary: [bw-human-impact, bw-ecology]
+    status: needs-global-food-and-ecosystem-services
