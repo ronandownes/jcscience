@@ -2,14 +2,20 @@
 
 This directory contains the standing reference policy for development of the JC Science PreTeXt resource.
 
-Read these files before using external material:
+Read these files before using external material or creating substantial book content:
 
+- `LEARNING-ARCHITECTURE.md` — canonical learning architecture, definition policy, reading routes, terminology rigor, single-source concept model and subject-transfer rules.
+- `LEARNING-DESIGN.md` — production-content, mastery, formative/exam-mode and CBA/project strategy.
 - `SOURCES.md` — authority hierarchy and reference library.
 - `QUESTION-DESIGN.md` — how past papers and commercial assessment material may inform genuinely new project questions.
 
 ## Core rules
 
 - The official Junior Cycle Science specification remains the only curricular source of truth.
+- The academic architecture is defined in `LEARNING-ARCHITECTURE.md`: keep intellectual demand rigorous while varying reading load, representation, scaffolding, pace and challenge.
+- Important definitions and concepts should be project-owned canonical objects rather than copied textbook wording. Commercial textbook definitions are comparison material, not authority.
+- Distinguish explicitly among definitions, quantities, units, conventions, laws, models, theories, principles, derived relationships, observations, inferences and hypotheses where relevant.
+- Keep a single source of truth for important terminology, symbols, units and canonical definitions wherever technically practical, then reuse those objects across chapters, glossaries, revision, feedback and accessibility views.
 - Official assessment and professional guidance inform assessment, pedagogy, planning and safety but do not replace the specification.
 - Past papers are an **assessment corpus**, not a curriculum.
 - Commercial textbooks are reference inputs only: use them to check level, coverage, examples, vocabulary and possible omissions.
