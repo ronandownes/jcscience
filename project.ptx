@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project ptx-version="2">
   <targets>
-    <target name="web" format="html">
-      <source>source/main.ptx</source>
-      <output-dir>output/web</output-dir>
-    </target>
+    <target name="web" format="html" source="source/main.ptx" output-dir="output/web" />
   </targets>
 </project>
