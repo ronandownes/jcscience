@@ -1,0 +1,65 @@
+name: Build JC Science exam reference corpus
+
+on:
+  workflow_dispatch:
+    inputs:
+      include_samples:
+        description: Include public sample Science papers
+        required: true
+        default: true
+        type: boolean
+
+permissions:
+  contents: read
+
+env:
+  PYTHONUNBUFFERED: '1'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install reference-fetch dependencies
+        run: python -m pip install requests beautifulsoup4
+
+      - name: Discover and download public Science papers
+        shell: bash
+        run: |
+          if [ "${{ inputs.include_samples }}" = "true" ]; then
+            python tools/fetch_science_papers.py
+          else
+            python tools/fetch_science_papers.py --no-samples
+          fi
+
+      - name: Show corpus manifest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('references/exams/sec/manifest.json')
+          data = json.loads(p.read_text(encoding='utf-8'))
+          files = data.get('files', [])
+          ok = [x for x in files if x.get('status') in {'downloaded', 'existing'}]
+          failed = [x for x in files if x.get('status') == 'failed']
+          print(f"Corpus files: {len(ok)}")
+          print(f"Failures: {len(failed)}")
+          for row in failed:
+              print('FAILED:', row.get('source_url'), row.get('error'))
+          PY
+
+      - name: Upload exam-reference corpus
+        uses: actions/upload-artifact@v4
+        with:
+          name: jc-science-public-exam-corpus
+          path: references/exams/sec/
+          if-no-files-found: error
+          retention-days: 7
