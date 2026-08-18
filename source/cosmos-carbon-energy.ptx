@@ -1,0 +1,121 @@
+<chapter xml:id="cosmos-carbon-energy">
+  <title>Cosmos, Carbon and Earth's Energy Future</title>
+  <introduction>
+    <p>Some Junior Cycle Science questions are too connected for one traditional chapter. This chapter links the origin and structure of the Universe, planetary comparison, carbon cycling, energy choices and space exploration.</p>
+  </introduction>
+
+  <section xml:id="cce-celestial-objects">
+    <title>Objects and scales in space</title>
+    <subsection><title>Read less</title>
+      <p>Moons orbit planets or other small bodies. Planets orbit stars. Solar systems contain a star and objects gravitationally bound to it. Galaxies contain enormous numbers of stars, gas, dust and other matter.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Asteroids are small rocky or metallic bodies, many of which orbit the Sun in the asteroid belt. Comets contain ice, dust and rock and can develop visible comae and tails when they approach the Sun. Dwarf planets orbit the Sun but differ from the eight planets in how they dominate their orbital neighbourhood.</p>
+      <p>The Solar System is one planetary system within the Milky Way galaxy. The Milky Way is one of vast numbers of galaxies in the observable Universe.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Categories in astronomy are scientific classifications created to organise patterns in nature. Boundaries can be debated or refined as new objects are discovered; classification is a tool, not a claim that nature contains labelled boxes.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-origin-universe">
+    <title>A model for the origin of the Universe</title>
+    <subsection><title>Read less</title>
+      <p>The Big Bang model describes an early Universe that was much hotter and denser and has expanded and cooled over time.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The Big Bang model is supported by several independent lines of evidence. Distant galaxies show a broad pattern of recession consistent with expanding space. The cosmic microwave background is relic radiation from an early hot stage. The observed abundance of light elements also agrees with predictions of early-Universe models.</p>
+      <p>The model does not describe an explosion from one point into empty space. It describes expansion of space itself, so distant galaxies become separated as the scale of the Universe grows.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Scientific cosmology separates well-supported descriptions of early evolution from open questions about the earliest instants and ultimate cause. A model can be powerful without answering every philosophical question that can be asked about existence.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-compare-worlds">
+    <title>Comparing Earth with planets and moons</title>
+    <subsection><title>Read less</title>
+      <p>Planets and moons differ in size, mass, gravity, atmosphere, temperature and composition. Data help us compare them rather than relying on pictures alone.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Mass measures how much matter a body contains; surface gravity depends on both mass and size. A smaller but very dense world can have stronger surface gravity than a simple size comparison suggests.</p>
+      <p>Rocky inner planets are dominated by silicate rock and metal, while giant outer planets contain large amounts of lighter substances and extensive atmospheres. Moons show enormous diversity, from heavily cratered rock to ice-covered worlds and volcanically active bodies.</p>
+      <p>A useful comparison table should include units and source information. Ratios such as “surface gravity relative to Earth” can make large datasets easier to interpret.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Planetary comparison is a natural example of comparative science: we cannot manipulate whole planets, so we test explanations by examining patterns across many worlds and combining those patterns with physical models.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-carbon-cycle">
+    <title>The carbon cycle</title>
+    <subsection><title>Read less</title>
+      <p>Carbon moves among the atmosphere, living organisms, oceans, soils and rocks. Photosynthesis removes carbon dioxide from the atmosphere; respiration and combustion return carbon dioxide.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Plants take in atmospheric carbon dioxide and incorporate carbon into organic molecules through photosynthesis. Carbon then moves through food webs. Respiration, decomposition and combustion return carbon to the atmosphere, while oceans exchange carbon dioxide with the air.</p>
+      <p>Some carbon enters long-term geological stores. Fossil-fuel combustion moves carbon from such stores into the active atmosphere-ocean-biosphere system much faster than the geological processes that originally removed it.</p>
+      <p>The carbon cycle therefore links Chemical World conservation of matter, Biological World photosynthesis and ecosystems, and Earth and Space climate.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Carbon reservoirs have different residence times. A carbon atom may cycle rapidly between plant and atmosphere or remain stored for millions of years in sedimentary rock. Rate matters as much as total amount when considering system change.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-energy-sources">
+    <title>Comparing energy sources</title>
+    <subsection><title>Read less</title>
+      <p>No energy source is impact-free. Compare reliability, emissions, cost, resource use, safety, land use and ability to meet demand.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Fossil fuels provide controllable energy but release carbon dioxide and air pollutants and depend on finite geological resources. Wind and solar have very low operational greenhouse-gas emissions but vary with weather and require grids, storage or other balancing strategies. Hydroelectric power can provide flexible generation but changes river systems. Nuclear power has low operational carbon emissions and high energy density but creates long-lived waste and requires demanding safety systems.</p>
+      <p>An informed energy plan usually combines sources, storage, transmission, efficiency and demand management rather than asking for one technology to solve every problem.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Compare technologies using life-cycle evidence rather than only emissions from the moment of generation. Manufacturing, construction, fuel supply, maintenance, decommissioning and material recovery all contribute to total impact.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-electricity-ethics">
+    <title>Electricity, ethics and sustainability</title>
+    <subsection><title>Read less</title>
+      <p>Electricity decisions affect climate, landscapes, wildlife, communities, health and cost. Ethical questions involve who receives benefits and who carries risks.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A technically efficient project can still create social conflict if costs and benefits are distributed unfairly. New transmission lines, wind farms, dams, mines or power stations involve land use and community decisions as well as physics.</p>
+      <p>Reducing electricity demand through efficiency can sometimes avoid impacts more effectively than producing the same wasted energy from a different source.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Sustainability choices combine descriptive science with values. Science can estimate emissions, output, land area and health effects; deciding what trade-offs are acceptable requires transparent ethical and political judgement as well.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-space-exploration">
+    <title>Space exploration: benefits, hazards and choices</title>
+    <subsection><title>Read less</title>
+      <p>Space exploration can produce scientific knowledge and useful technology, but it costs resources and exposes people and equipment to hazards.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Benefits include Earth observation, communications, navigation, planetary science, astronomy, technology development and international collaboration. Hazards include radiation, microgravity effects, launch risk, isolation, extreme temperatures and orbital debris.</p>
+      <p>Robotic missions can travel to environments that are too dangerous or expensive for humans. Human missions can perform flexible fieldwork and inspire public engagement but require far greater life-support and safety systems.</p>
+      <p>Future issues include planetary protection, commercial activity, resource extraction, debris management, ownership and fair access to space-derived benefits.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>“Should humans explore space?” is not answered by a science fact alone. Evidence can clarify costs, risks and likely benefits, while the final decision also reflects values and priorities. This makes space exploration an excellent Nature of Science and science-in-society case study.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cce-energy-project">
+    <title>Project: design an energy future</title>
+    <subsection><title>Read less</title>
+      <p>Choose a community or region. Compare possible electricity sources using evidence. Recommend a mix and explain the trade-offs.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Define criteria before judging options: annual energy demand, peak demand, reliability, emissions, cost, land, ecological impact, local resources, storage and public acceptance. Use quantitative evidence where possible.</p>
+      <p>Your conclusion should not pretend uncertainty disappears. State what evidence would most improve the decision and identify assumptions in your model.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Test your plan against difficult scenarios: a week of low wind, a demand spike, fuel-price change, drought affecting hydro, delayed grid construction or faster electrification of transport. Robust plans perform acceptably across several plausible futures.</p>
+    </subsection>
+  </section>
+</chapter>
