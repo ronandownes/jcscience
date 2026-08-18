@@ -1,0 +1,148 @@
+<chapter xml:id="earth-space">
+  <title>Earth and Space</title>
+  <introduction>
+    <p>Earth and Space connects geology, atmosphere, climate, resources and astronomy. Many of its strongest explanations depend on evidence gathered indirectly: seismic waves, spectra, orbital motion, fossils, rocks, ice cores and long-term datasets.</p>
+  </introduction>
+
+  <section xml:id="es-earth-structure">
+    <title>Earth as a layered system</title>
+    <subsection><title>Read less</title>
+      <p>Earth has a crust, mantle and core. We know about Earth's interior mainly from indirect evidence such as seismic waves.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The crust is a thin outer layer. Beneath it lies the mantle, which is mostly solid rock that can deform and flow over long timescales. The core is mainly iron and nickel, with a liquid outer core and solid inner core.</p>
+      <p>Seismic waves change speed and direction as they travel through different materials. Some waves do not travel through liquids. These patterns provide evidence for a layered interior.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Earth's layers can be classified by composition or by physical behaviour. The familiar crust-mantle-core model is compositional; mechanical models distinguish rigid and deformable regions differently. Models are chosen to answer particular questions.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-plate-tectonics">
+    <title>Plate tectonics, earthquakes and volcanoes</title>
+    <subsection><title>Read less</title>
+      <p>Earth's outer rigid layer is broken into tectonic plates that move slowly. Their interactions help explain earthquakes, volcanoes and mountain building.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>At divergent boundaries, plates move apart and new crust may form. At convergent boundaries, plates move together and one plate may descend beneath another or continents may collide. At transform boundaries, plates slide past one another.</p>
+      <p>Earthquakes occur when stored elastic strain is released suddenly along faults. Volcanoes occur where magma reaches the surface, often but not only near plate boundaries.</p>
+      <p>The global pattern of earthquakes, volcanoes and ocean-floor features strongly supports plate tectonic theory.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Plate motion is not caused by one simple conveyor belt. It reflects the dynamics of Earth's mantle, including slab pull, ridge-related forces and convection. At Junior Cycle, the important idea is that the lithosphere moves as interacting plates driven by Earth's internal energy.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-rock-cycle">
+    <title>Rocks, weathering and the rock cycle</title>
+    <subsection><title>Read less</title>
+      <p>Igneous rocks form from cooled magma or lava. Sedimentary rocks form from sediments that become compacted and cemented. Metamorphic rocks form when existing rocks are changed by heat and pressure without fully melting.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The rock cycle links geological processes rather than describing one fixed circular route. Rocks can be weathered, eroded, buried, heated, melted, uplifted and transformed along many different pathways.</p>
+      <p>Weathering breaks rock down in place. Erosion removes and transports material. Deposition occurs when transported material settles.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Rock classification records history. Grain size, mineral composition, layering, fossils and crystal texture provide evidence about formation conditions. A hand specimen is therefore a record of processes, not just a named object.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-atmosphere-weather">
+    <title>The atmosphere and weather</title>
+    <subsection><title>Read less</title>
+      <p>Weather describes short-term atmospheric conditions such as temperature, precipitation, wind, cloud and pressure. Climate describes long-term patterns.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Uneven heating of Earth's surface drives movement in the atmosphere. Air pressure differences contribute to wind. Water evaporates, condenses into clouds and returns as precipitation within the water cycle.</p>
+      <p>Weather measurements include temperature, pressure, rainfall, wind speed and wind direction. Reliable weather interpretation uses multiple measurements and recognises that forecasts are probabilistic.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Atmospheric circulation links local weather to global energy imbalance. The equator receives more incoming solar energy on average than polar regions, and atmosphere-ocean circulation redistributes energy.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-climate-change">
+    <title>Climate, greenhouse effect and climate change</title>
+    <subsection><title>Read less</title>
+      <p>The natural greenhouse effect keeps Earth warm enough for present life. Increasing greenhouse-gas concentrations can strengthen this effect and change climate.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Earth absorbs energy from the Sun and emits infrared radiation. Greenhouse gases absorb and re-emit some outgoing infrared radiation, influencing Earth's energy balance.</p>
+      <p>Human activities including fossil-fuel combustion, land-use change and some agricultural processes have increased concentrations of greenhouse gases. Evidence for modern climate change includes temperature records, ocean heat content, ice loss, sea-level change and many other independent observations.</p>
+      <p>Weather variability does not contradict long-term climate trends. A cold week is a weather event; climate is evaluated across longer periods and larger datasets.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Climate feedbacks can amplify or reduce initial changes. For example, melting ice can lower surface reflectivity, increasing absorbed solar energy. Climate projections use physical models tested against observations; uncertainty is quantified rather than ignored.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-water-cycle">
+    <title>Water on Earth</title>
+    <subsection><title>Read less</title>
+      <p>Water moves among oceans, atmosphere, land, living things and underground stores through evaporation, condensation, precipitation, runoff and infiltration.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The water cycle is driven mainly by solar energy and gravity. Human actions can alter local water systems through abstraction, drainage, land use, pollution and climate change.</p>
+      <p>Fresh water is limited and unevenly distributed. Water management therefore combines science, engineering, public health and environmental decision-making.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>The water cycle is not a neat sequence in which every water molecule follows the same path. Water has residence times ranging from hours in parts of the atmosphere to thousands of years in ice or deep groundwater.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-resources">
+    <title>Earth resources and sustainability</title>
+    <subsection><title>Read less</title>
+      <p>Humans use geological, biological and energy resources. Some replenish on human timescales; others do not.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Resource decisions should consider extraction, energy use, transport, pollution, waste, social impact and the possibility of reuse or recycling. Renewable resources can still be overused if consumption exceeds replenishment.</p>
+      <p>Fossil fuels formed over geological timescales and are effectively non-renewable on human timescales. Renewable energy sources such as wind and solar depend on flows that are continually replenished, though technologies still require materials and infrastructure.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Sustainability is not determined by a single label. A life-cycle comparison can reveal trade-offs involving mining, manufacture, operating lifetime, energy mix, recyclability and land use.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-solar-system">
+    <title>Earth, Moon and Solar System</title>
+    <subsection><title>Read less</title>
+      <p>Earth orbits the Sun and rotates on its axis. The Moon orbits Earth. Gravity provides the interaction that keeps these bodies in orbit.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Day and night result from Earth's rotation. The seasons are caused mainly by Earth's axial tilt combined with its orbit around the Sun, not by large seasonal changes in Earth-Sun distance.</p>
+      <p>Moon phases occur because we see different fractions of the Moon's sunlit half as the Moon orbits Earth. Eclipses require particular alignments and do not happen every month because the Moon's orbital plane is tilted relative to Earth's orbital plane.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>An orbit is continual free fall around another body. The object has sideways motion while gravity continuously changes the direction of its velocity. This links astronomy directly to the Physical World strand.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-stars-galaxies">
+    <title>Stars, galaxies and the Universe</title>
+    <subsection><title>Read less</title>
+      <p>The Sun is a star. Stars form, change and eventually reach different end states depending strongly on mass. Our Solar System is part of the Milky Way galaxy.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Stars produce energy through nuclear fusion in their cores. A star's life cycle depends on its mass. Astronomers study light from stars to infer temperature, composition and motion.</p>
+      <p>Distances in astronomy are enormous, so units such as the astronomical unit and light-year are useful. A light-year is a unit of distance: the distance light travels in one year.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Looking farther into space also means looking farther into the past because light takes time to travel. Astronomy therefore observes the Universe across both distance and time.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="es-space-evidence">
+    <title>Evidence about the Universe</title>
+    <subsection><title>Read less</title>
+      <p>Scientists learn about distant objects by analysing radiation that reaches us and by testing models against observations.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Spectra reveal characteristic patterns associated with elements. Changes in observed wavelengths can provide evidence of relative motion. Telescopes detect different parts of the electromagnetic spectrum, revealing phenomena invisible to the human eye.</p>
+      <p>Scientific claims about space depend on converging evidence rather than direct travel to every object studied.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Cosmology is a strong example of model-based science: observations constrain models, models make predictions and new measurements may support, refine or challenge them.</p>
+    </subsection>
+  </section>
+</chapter>
