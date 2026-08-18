@@ -1,0 +1,146 @@
+<chapter xml:id="physical-world">
+  <title>Physical World</title>
+  <introduction>
+    <p>The Physical World strand develops models for motion, forces, energy, electricity, heat, light and sound. Throughout the chapter, measurements, graphs, diagrams and investigations are used as tools for thinking rather than decoration.</p>
+  </introduction>
+
+  <section xml:id="pw-motion">
+    <title>Motion, distance, speed and graphs</title>
+    <subsection><title>Read less</title>
+      <p>Motion describes a change of position over time. <term>Speed</term> tells how much distance is travelled each unit of time.</p>
+      <p>Speed can be calculated using <m>\text{speed}=\frac{\text{distance}}{\text{time}}</m>.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Distance is the length of the path travelled. Time describes how long the motion takes. Average speed compares total distance with total time.</p>
+      <p>Always check units before calculating. If distance is measured in metres and time in seconds, speed is measured in metres per second.</p>
+      <example><title>Average speed</title><p>A cyclist travels 120 m in 15 s. The average speed is <m>120/15=8</m> m/s.</p></example>
+      <p>A distance-time graph shows how distance changes with time. A steeper slope means a greater speed. A horizontal section means the distance is not changing, so the object is stationary relative to the chosen reference point.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Average speed can hide changes during a journey. A runner may speed up, slow down and stop while still having one overall average speed. The slope of a distance-time graph over a shorter interval gives more local information about the motion.</p>
+      <p>Motion is described relative to a reference frame. A passenger seated on a moving train is stationary relative to the carriage but moving relative to the ground.</p>
+    </subsection>
+    <exercise><title>Graph reasoning</title><statement><p>A distance-time graph becomes horizontal for 20 s and then rises more steeply than before. Describe the motion.</p></statement><solution><p>The object is stationary for 20 s and then moves again at a greater speed than before.</p></solution></exercise>
+  </section>
+
+  <section xml:id="pw-forces">
+    <title>Forces and interactions</title>
+    <subsection><title>Read less</title>
+      <p>A <term>force</term> is a push or pull arising from an interaction. Forces can change motion or shape. Force is measured in newtons (N).</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Contact forces act when objects interact through contact, for example friction, tension and support forces. Non-contact forces include gravitational, magnetic and electrostatic interactions.</p>
+      <p>Several forces can act at the same time. If they balance, there is no change in motion caused by the resultant force. If they do not balance, the object's motion changes.</p>
+      <p>Friction opposes relative motion or the tendency for surfaces to slide. It can be useful, as in walking and braking, or unwanted, as in energy losses in machinery.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Balanced forces do not mean that no forces act. A book resting on a table experiences gravitational attraction downward and an upward support force. The forces balance, so the book has no acceleration.</p>
+      <p>Force diagrams are models. Their arrows encode direction and relative size, helping separate the physical interactions from the appearance of the object.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-mass-weight-pressure">
+    <title>Mass, weight and pressure</title>
+    <subsection><title>Read less</title>
+      <p><term>Mass</term> measures the amount of matter in an object and is measured in kilograms. <term>Weight</term> is the gravitational force acting on an object and is measured in newtons.</p>
+      <p><term>Pressure</term> describes how force is spread over an area.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Mass and weight are related but not interchangeable. A person's mass remains approximately the same when travelling from Earth to the Moon, but their weight changes because the gravitational field strength is different.</p>
+      <p>For a given force, a smaller contact area produces greater pressure. This helps explain why a sharp blade cuts more easily than a blunt one and why wide tyres can reduce pressure on soft ground.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Pressure ideas apply in solids, liquids and gases, but the mechanisms differ. In fluids, pressure is linked to particle collisions and the weight of overlying fluid. In solids, contact pressure depends directly on the applied normal force and contact area.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-energy">
+    <title>Energy, stores and transfers</title>
+    <subsection><title>Read less</title>
+      <p>Energy is transferred when systems change. Useful descriptions include chemical, kinetic, gravitational, elastic, thermal and electrical energy stores.</p>
+      <p>Energy is conserved: it is transferred or redistributed rather than created from nothing or destroyed.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Energy accounting helps explain physical processes. In a torch, chemical energy in the battery is transferred electrically and then mainly to light and thermal energy. In a falling object, gravitational energy decreases while kinetic energy increases.</p>
+      <p>Not all transferred energy reaches the intended useful outcome. Some is dispersed to the surroundings, often as thermal energy or sound. Efficiency compares useful output with total input.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>The language of energy should avoid suggesting that energy is a material fluid. Energy is a conserved quantity used to account for changes in systems. Different descriptions of energy stores are bookkeeping tools for reasoning about where energy is located and how it is transferred.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-heat-temperature">
+    <title>Heat transfer and temperature</title>
+    <subsection><title>Read less</title>
+      <p><term>Temperature</term> tells us how hot or cold something is. Thermal energy moves from higher-temperature regions to lower-temperature regions.</p>
+      <p>Heat can be transferred by conduction, convection and radiation.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Conduction transfers thermal energy through particle interactions, especially effectively in metals. Convection occurs in fluids when warmer, less dense regions move and cooler, denser regions replace them. Thermal radiation transfers energy by electromagnetic waves and does not require matter.</p>
+      <p>Insulators reduce unwanted thermal transfer. Their effectiveness depends on material, thickness, trapped air and the dominant transfer mechanism.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Temperature and thermal energy are not the same quantity. A small cup of boiling water can have a higher temperature than a bath of warm water while the bath contains far more internal thermal energy overall.</p>
+      <p>Convection is not “heat rising”. Warmer fluid may rise because expansion reduces density and buoyancy acts in a gravitational field. Thermal energy itself can be transferred in any direction.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-electricity">
+    <title>Electric circuits</title>
+    <subsection><title>Read less</title>
+      <p>An electric circuit needs a complete conducting path and a source of electrical energy. Current is measured in amperes (A). Potential difference is measured in volts (V).</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Current describes the rate of flow of electric charge. In a simple series circuit, the same current passes through each component because charge does not accumulate indefinitely at ordinary points in the circuit.</p>
+      <p>Potential difference describes energy transferred per unit charge between two points. A cell provides a potential difference; components transfer electrical energy into other forms.</p>
+      <p>Series circuits provide one path. Parallel circuits provide branches. Components in parallel can operate independently because each branch forms its own complete path across the supply.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Current is not “used up” by a lamp. Charge circulates through the circuit while energy is transferred from the electrical system to the lamp and surroundings. Separating charge flow from energy transfer removes one of the most persistent circuit misconceptions.</p>
+      <p>Circuit diagrams are symbolic models. Their geometry on the page does not represent the physical shape of wires; connectivity is what matters.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-magnets-electromagnets">
+    <title>Magnetism and electromagnets</title>
+    <subsection><title>Read less</title>
+      <p>Magnets exert forces without contact. Like poles repel and unlike poles attract. An electric current can produce a magnetic effect.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A magnetic field model shows the region in which a magnetic force can act. Iron filings or plotting compasses can help reveal field patterns.</p>
+      <p>A current-carrying coil can act as an electromagnet. Its strength can be changed by altering current, number of turns and the core material. Electromagnets are useful because they can be switched and controlled.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Field lines are not physical strings in space. They are a representation of direction and relative field strength. Scientific diagrams often encode invisible interactions through agreed conventions.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-light">
+    <title>Light</title>
+    <subsection><title>Read less</title>
+      <p>Light travels from a source and can be reflected, absorbed, transmitted or refracted. We see an object when light from it enters our eyes.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Reflection changes the direction of light at a surface. For a plane mirror, the angle of incidence equals the angle of reflection when both angles are measured from the normal.</p>
+      <p>Refraction occurs when light changes speed as it passes between materials and usually changes direction. Lenses use refraction to form images.</p>
+      <p>White light contains a range of visible wavelengths. Dispersion separates colours because different wavelengths refract by different amounts in some materials.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Ray diagrams are models that trace the direction of light propagation. They do not imply that light literally consists of visible pencil lines. At later stages, wave and photon models explain different aspects of light behaviour.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="pw-sound">
+    <title>Sound and waves</title>
+    <subsection><title>Read less</title>
+      <p>Sound is produced by vibrations and requires a medium such as air, water or a solid to travel through. Frequency affects pitch; amplitude is related to loudness.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A vibrating source causes nearby particles to oscillate, transferring a disturbance through the medium. The particles do not travel from source to listener; energy is transferred through local motion.</p>
+      <p>Frequency is the number of oscillations per second and is measured in hertz (Hz). Greater frequency usually gives a higher perceived pitch. Greater amplitude generally corresponds to a more intense sound.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Pitch and loudness are perceptions, while frequency and sound intensity are physical quantities. Human hearing depends on both the sound wave and the response of the ear and brain.</p>
+    </subsection>
+  </section>
+</chapter>
