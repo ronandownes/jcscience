@@ -1,0 +1,125 @@
+<chapter xml:id="lab-safety">
+  <title>Laboratory and Field Safety</title>
+  <introduction>
+    <p>Safety is part of scientific method. A good investigation does not merely produce useful evidence; it produces that evidence while controlling foreseeable risk to people, organisms, equipment and the environment.</p>
+  </introduction>
+
+  <section xml:id="ls-hazard-risk">
+    <title>Hazard, risk and control</title>
+    <subsection><title>Read less</title>
+      <p>A hazard can cause harm. Risk depends on how likely harm is and how serious it could be. A control measure reduces the risk.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Begin by identifying the source of harm: heat, glass, chemicals, electricity, pressure, biological material, sharp objects, moving equipment or outdoor conditions. Then consider who could be harmed and how.</p>
+      <p>Choose controls that act on the actual risk: use a smaller quantity, lower concentration or voltage, substitute a safer material, add a barrier or guard, improve handling, or use suitable protective equipment.</p>
+      <p>“Be careful” is advice, not a control. A control should describe what is done differently.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Risk assessment is proportional. A low-severity, unlikely event does not require the same control system as a high-severity hazard. Good planning reduces risk without removing the scientific purpose of the activity.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-personal-protection">
+    <title>Personal protection and laboratory behaviour</title>
+    <subsection><title>Read less</title>
+      <p>Follow instructions. Protect eyes when required. Tie back long hair, secure loose clothing and keep bags and unnecessary items away from work areas.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Eye protection is used where splashes, fragments or other hazards make it appropriate. Gloves are not automatically safer: the correct glove depends on the material, and contaminated gloves can spread chemicals to handles, phones and faces.</p>
+      <p>Do not eat, drink or taste laboratory substances. Wash hands after practical work, especially after chemicals, soil, biological material or field samples.</p>
+      <p>Know the location and purpose of safety equipment and exits, but use emergency equipment only according to school procedures and teacher direction.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Personal protective equipment is usually a later line of defence. Eliminating or reducing a hazard at source is stronger than relying only on goggles or gloves after a hazardous method has already been chosen.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-chemicals">
+    <title>Working with chemicals</title>
+    <subsection><title>Read less</title>
+      <p>Read labels. Use small quantities. Never return unused chemicals to stock bottles unless instructed. Do not mix substances unless the procedure says to.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Chemical risk depends on identity, concentration, amount, route of exposure and conditions. A familiar household substance can still be hazardous at a different concentration or when mixed with another material.</p>
+      <p>Use labelled containers and clean tools to avoid contamination. Keep bottle caps and stoppers with their own containers. Dispose of chemicals according to the laboratory procedure rather than assuming everything can go down a sink.</p>
+      <p>If a spill or exposure occurs, report it immediately and follow the laboratory's response procedure rather than improvising.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Hazard pictograms communicate categories of danger, but they do not by themselves state the risk of a particular classroom procedure. Risk still depends on amount, concentration, exposure and controls.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-heating-glass">
+    <title>Heating and glassware</title>
+    <subsection><title>Read less</title>
+      <p>Assume recently heated equipment may still be hot. Use suitable holders, heatproof surfaces and stable apparatus. Never point a heated test tube at anyone.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Check glassware for cracks before heating or applying pressure. Heat only equipment designed for the purpose. Use small quantities where possible and keep the working area uncluttered.</p>
+      <p>Hot glass can look identical to cold glass. Allow time to cool and use appropriate handling tools rather than testing temperature by touch.</p>
+      <p>When heating a liquid in a test tube under an approved procedure, direct the open end away from people and move the tube as instructed to reduce local overheating.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Thermal stress can break glass when different parts change temperature rapidly. Gradual heating/cooling and suitable glassware reduce this risk by limiting large temperature gradients.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-electricity">
+    <title>Electrical safety</title>
+    <subsection><title>Read less</title>
+      <p>Use the low-voltage equipment provided for school circuits. Build or change circuits with the supply off. Prevent short circuits and overheating.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Check component ratings and connection diagrams before powering a circuit. A near-zero-resistance path across a supply can produce a large current and heat wires or components.</p>
+      <p>Keep liquids away from electrical equipment. Report damaged insulation, plugs or apparatus rather than continuing to use them.</p>
+      <p>School circuit investigations should use approved low-voltage supplies; mains electricity is not a substitute for a classroom power source.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Electrical hazard depends on current path, voltage, source capability, contact conditions and duration. Classroom design reduces risk by controlling these factors rather than by relying on students to judge danger from appearance.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-biological">
+    <title>Biological material and microorganisms</title>
+    <subsection><title>Read less</title>
+      <p>Use only approved biological materials and school procedures. Treat unknown microorganisms as potentially unsafe and do not culture samples from people or uncontrolled sources unless an approved protocol explicitly permits it.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Biological work requires attention to source, containment, hygiene and disposal. Avoid contact between samples and food, drink, faces or personal devices.</p>
+      <p>Prepared slides, safe plant materials and approved cultures can provide rich biological learning without introducing unnecessary risk. Disinfect surfaces and wash hands according to the procedure.</p>
+      <p>Ethical treatment of living organisms includes minimising harm and disturbance and using alternatives where they provide the same learning.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Biosafety is a system of barriers and procedures. The more uncertain the identity or pathogenic potential of a biological sample, the stronger the reason to avoid open handling in a school setting.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-fieldwork">
+    <title>Fieldwork safety and environmental responsibility</title>
+    <subsection><title>Read less</title>
+      <p>Check terrain, weather, water, traffic and biological hazards. Stay within agreed boundaries and minimise disturbance to habitats.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Fieldwork risks differ from laboratory risks. Consider slips and falls, roads, water edges, weather exposure, allergies, stings, sharp vegetation, contaminated soil or water and separation from the group.</p>
+      <p>Plan clothing and equipment for conditions. Use sampling methods that collect enough evidence without unnecessary removal or damage to organisms.</p>
+      <p>Return moved stones or habitat material where appropriate and avoid transporting organisms between sites.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Environmental impact is part of research ethics. A method that obtains excellent data by damaging the habitat being studied may be scientifically self-defeating as well as ethically poor.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ls-emergency">
+    <title>If something goes wrong</title>
+    <subsection><title>Read less</title>
+      <p>Stop. Make the situation safe if you can do so without creating further risk. Tell the teacher immediately and follow the school's emergency procedure.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Do not hide breakages, spills, exposure or unexpected reactions. Rapid accurate information helps the responsible adult choose the correct response.</p>
+      <p>Give factual information: what substance or equipment was involved, approximately how much, where contact occurred and what has already been done. Do not diagnose injuries yourself or apply an improvised chemical “antidote”.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Incident review should improve systems rather than merely assign blame. Ask whether equipment, instructions, supervision, layout or method can be changed to make recurrence less likely.</p>
+    </subsection>
+  </section>
+</chapter>
