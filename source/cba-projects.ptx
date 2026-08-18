@@ -1,0 +1,155 @@
+<chapter xml:id="cba-projects">
+  <title>Scientific Investigation and Project Work</title>
+  <introduction>
+    <p>This chapter teaches the durable skills behind Junior Cycle Science investigation and research work. Administrative details can change; the scientific habits should remain useful: ask a worthwhile question, find and evaluate evidence, design a defensible method, analyse honestly, communicate clearly and reflect on what the evidence justifies.</p>
+  </introduction>
+
+  <section xml:id="cba-start-question">
+    <title>Choose and refine a question</title>
+    <subsection><title>Read less</title>
+      <p>Start broad. Narrow the topic until you can explain exactly what you want to find out and what evidence could answer it.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A strong project question is neither so broad that it becomes a report on everything nor so narrow that there is nothing to investigate. Decide whether the question is best answered by experiment, fieldwork, secondary data, research and evaluation, modelling, or a combination.</p>
+      <p>Replace vague questions such as “Is plastic bad?” with questions that name a system and comparison, for example: “How do reusable and single-use drink containers compare when material production, number of uses and end-of-life treatment are considered?”</p>
+      <p>For an experimental question, identify the intended independent and dependent variables before committing to the design.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>A good question controls the scope of the whole project. Ask what evidence could change your mind. If no possible result would alter the conclusion, the task is advocacy rather than investigation.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-background-research">
+    <title>Research before you investigate</title>
+    <subsection><title>Read less</title>
+      <p>Find reliable background information. Record where it came from. Use it to improve your question and method rather than filling pages with copied facts.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Background research should help you understand relevant science, identify variables, choose sensible ranges, recognise hazards and compare methods. Prefer authoritative or traceable sources and check important claims across more than one source when possible.</p>
+      <p>Keep source notes separate from your own wording. Record title, author/organisation, date and link or publication details as you work so citation is not reconstructed from memory at the end.</p>
+      <p>Summarise ideas in your own words and connect them directly to decisions in the project.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Source quality depends on the claim. A national weather service may be excellent for climate observations, while a specialist scientific body may be needed for a chemical mechanism. Evaluate method and evidence, not merely website appearance.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-plan-method">
+    <title>Plan a method that can answer the question</title>
+    <subsection><title>Read less</title>
+      <p>State what changes, what is measured, what stays controlled, what equipment is needed and how you will collect enough evidence safely.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Write the method so another student could understand what was actually done. Include quantities, ranges, intervals, repeats and how measurements are taken. Avoid vague instructions such as “heat it for a while”.</p>
+      <p>Choose controls that matter scientifically, not a ritual list. Decide in advance how results will be recorded and what graph or analysis is likely to answer the question.</p>
+      <p>Complete a risk check before practical work. Identify hazards, who or what could be harmed, and specific control measures.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Consider whether the method confounds variables. If two important factors vary together, the evidence may not identify which one produced the effect. Sometimes a better design is more valuable than collecting more data with a weak design.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-pilot">
+    <title>Pilot, then improve the method</title>
+    <subsection><title>Read less</title>
+      <p>Try a small test first. Use it to find practical problems before collecting the main dataset.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A pilot can reveal that a range is too small, a reaction is too fast to time, an instrument lacks resolution, a sample is difficult to control or a question is not producing useful data.</p>
+      <p>Record what changed after the pilot and why. A change based on evidence is not evidence that the original plan “failed”; it is normal scientific refinement.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Use the pilot to estimate variation and decide where extra measurements are most valuable. Equal numbers of repeats at every point are not always the most informative use of limited time.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-data-evidence">
+    <title>Collect evidence without cleaning away reality</title>
+    <subsection><title>Read less</title>
+      <p>Record results as they happen. Keep unusual readings visible. Never invent, smooth or replace data to make the graph look better.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Separate raw measurements from calculated values. Include units and preserve repeated readings. If an error is discovered, correct it transparently rather than silently rewriting the record.</p>
+      <p>An anomalous value is a reason to investigate: check transcription, apparatus, procedure and repeat where appropriate. If there is no clear reason to exclude it, report it and discuss its effect.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Data integrity matters more than visual neatness. A real dataset often contains scatter because natural systems and measurements vary. The scientific task is to quantify and explain that variation where possible.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-analyse">
+    <title>Analyse patterns and uncertainty</title>
+    <subsection><title>Read less</title>
+      <p>Use a table or graph that fits the data. Describe the pattern, then explain it using science.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Look for direction of change, proportionality, plateaus, thresholds, clusters and unusual points. Use numerical evidence when possible instead of writing only “it increased”.</p>
+      <p>Distinguish description from explanation. “Temperature rose by 8 °C” describes evidence. “The reaction transferred energy to the surroundings” interprets the evidence using a scientific model.</p>
+      <p>State limitations of the dataset: range, sample size, measurement resolution or uncontrolled variation.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Do not confuse a strong-looking graph with a strong causal conclusion. Ask whether the design ruled out alternative explanations and whether the pattern persists across repeats or independent evidence.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-conclude">
+    <title>Write a conclusion that matches the evidence</title>
+    <subsection><title>Read less</title>
+      <p>Answer the question. Give the evidence. Do not claim more than the results show.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A strong conclusion states the relationship or finding, quotes relevant data or observations, and connects the result to scientific ideas. If evidence is inconclusive, say so and explain what remains uncertain.</p>
+      <p>Do not write that a hypothesis was “proved”. State whether evidence supported, did not support or was insufficient to judge the proposed relationship.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Consider external validity: even a well-supported conclusion may apply only to the tested materials, organisms, range or conditions. Generalisation should be earned by evidence.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-evaluate-reflect">
+    <title>Evaluate and reflect without inventing mistakes</title>
+    <subsection><title>Read less</title>
+      <p>Name the main limitation, explain its effect and propose a targeted improvement. If the method worked well, say why.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A useful evaluation examines validity, reliability, measurement quality, range, controls and representativeness. Avoid generic phrases such as “human error”. Identify the mechanism of the limitation.</p>
+      <p>Reflection can record a justified decision to keep the original method. You are not required to invent a defect to sound reflective.</p>
+      <p>Distinguish an improvement that changes the method from one that merely adds more work. Extra repeats do not repair systematic bias.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Rank limitations by likely effect. Scientific improvement is strategic: target the weakness most capable of changing the conclusion rather than listing every imaginable imperfection.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-communicate">
+    <title>Communicate for an audience</title>
+    <subsection><title>Read less</title>
+      <p>Use clear headings, labelled graphs and diagrams, concise scientific language and visible evidence.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>The format should make the reasoning easy to inspect. A reader should be able to identify the question, evidence, conclusion and evaluation without searching through decorative material.</p>
+      <p>Use images and diagrams only when they communicate something. Cite external sources and distinguish your results from background information.</p>
+      <p>Practise explaining the project aloud: what you asked, why the method could answer it, what you found, and what you would do next.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Adapt detail to audience without changing scientific truth. A public explanation may reduce jargon; a technical account may include more method and uncertainty. Both should preserve the same evidence and conclusion.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="cba-worked-project">
+    <title>Worked project pathway: cooling a drink</title>
+    <subsection><title>Read less</title>
+      <p>Question: how does insulation thickness affect cooling? Plan several thicknesses, measure temperature over time, graph the results and evaluate fairness.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p><em>Question:</em> How does thickness of one insulating material affect temperature decrease of a fixed volume of warm water over 20 minutes?</p>
+      <p><em>Design:</em> Use identical containers, equal water volume and starting temperature, the same insulation material at measured thicknesses, identical lids and equal timing intervals. Repeat trials or use replicate containers where resources allow.</p>
+      <p><em>Evidence:</em> Record temperature every two minutes. Plot temperature against time for each thickness and compare change over the same interval.</p>
+      <p><em>Conclusion:</em> State the observed relationship only over the tested thickness range. Explain using reduced thermal transfer.</p>
+      <p><em>Evaluation:</em> Consider heat loss through lids, differences in actual insulation contact, thermometer resolution and variation in initial temperature.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Extend from “which thickness cools least?” to diminishing returns: does each additional layer produce the same improvement? Compare insulation benefit with material use to introduce optimisation and sustainability.</p>
+    </subsection>
+  </section>
+</chapter>
