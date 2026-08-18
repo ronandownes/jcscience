@@ -1,0 +1,124 @@
+<chapter xml:id="exam-practice">
+  <title>Exam-Style Practice</title>
+  <introduction>
+    <p>These are original project-authored questions. They are designed to resemble the range of reasoning demanded in Junior Cycle Science without reproducing past-paper wording or distinctive source questions.</p>
+  </introduction>
+
+  <section xml:id="ep-nos">
+    <title>Nature of Science practice</title>
+    <subsection><title>Read less</title><p>Identify the question, evidence, variables and conclusion. Explain only what the evidence supports.</p></subsection>
+    <subsection><title>Standard</title><p>Strong answers distinguish observations from inferences, name variables precisely, interpret anomalies and evaluate whether the method actually answers the question.</p></subsection>
+    <subsection><title>Go deeper</title><p>Challenge the design: consider confounding variables, representativeness, uncertainty, alternative explanations and whether another type of investigation would be stronger.</p></subsection>
+
+    <exercise xml:id="ep-nos-1"><title>Tea cooling investigation</title><statement><p>A student compares how fast tea cools in four different cups. She uses different cup sizes and adds different volumes of tea. Explain why the design cannot fairly compare cup material.</p></statement><solution><p>Cup size and tea volume are confounding variables because they also affect cooling. To isolate cup material, use comparable geometry and equal tea volume, starting temperature, surroundings and timing.</p></solution></exercise>
+
+    <exercise xml:id="ep-nos-2"><title>Unexpected result</title><statement><p>Five readings are 12.1, 12.3, 12.2, 17.9 and 12.2 cm. What should be done with 17.9 cm?</p></statement><solution><p>Treat it as an anomalous observation to investigate, not automatically delete. Check recording and method, repeat the measurement if possible and decide transparently whether there is evidence of an identifiable problem.</p></solution></exercise>
+
+    <exercise xml:id="ep-nos-3"><title>Source quality</title><statement><p>Website A sells a supplement and claims it “boosts immunity by 80%” but gives no study. Website B links to a large controlled study and reports both benefits and uncertainty. Which is the stronger source and why?</p></statement><solution><p>Website B provides inspectable evidence, method and uncertainty. Website A has a commercial conflict of interest and an unsupported numerical claim.</p></solution></exercise>
+
+    <exercise xml:id="ep-nos-4"><title>Correlation</title><statement><p>A town with more bicycle paths has lower air pollution than a similar town with fewer paths. State one reason this does not by itself prove bicycle paths caused the difference.</p></statement><solution><p>Other variables may differ, such as traffic volume, industry, weather, population density or public transport. Observed correlation alone does not isolate cause.</p></solution></exercise>
+
+    <exercise xml:id="ep-nos-5"><title>Precision and accuracy</title><statement><p>A balance always reads 2.0 g too high but gives nearly identical results each time. What does this show about repeatability and accuracy?</p></statement><solution><p>The results may be repeatable/precise but systematically inaccurate because calibration shifts every measurement upward.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ep-physical">
+    <title>Physical World practice</title>
+    <subsection><title>Read less</title><p>Write the quantity, relationship and unit before substituting numbers.</p></subsection>
+    <subsection><title>Standard</title><p>Use calculations with explanation. Read graphs as representations of motion and energy, not as pictures of the path taken.</p></subsection>
+    <subsection><title>Go deeper</title><p>Test whether assumptions hold, compare models and explain why a relationship may stop being linear.</p></subsection>
+
+    <exercise xml:id="ep-pw-1"><title>Average speed</title><statement><p>A runner travels 400 m in 80 s, rests for 40 s and then travels another 200 m in 40 s. Calculate average speed for the whole 600 m journey including the rest.</p></statement><solution><p>Total time is 160 s. Average speed is <m>600/160=3.75</m> m/s.</p></solution></exercise>
+
+    <exercise xml:id="ep-pw-2"><title>Density and material</title><statement><p>A block has mass 178 g and volume 20.0 cm³. Calculate its density. A reference table lists copper at 8.96 g/cm³. Is density evidence consistent with copper?</p></statement><solution><p>Density is <m>178/20.0=8.90</m> g/cm³. This is close to the reference value and is consistent with copper, though density alone may not prove identity.</p></solution></exercise>
+
+    <exercise xml:id="ep-pw-3"><title>Series current</title><statement><p>An ammeter before the first lamp in a series circuit reads 0.25 A. What should an ideal ammeter after the second lamp read in steady operation? Explain.</p></statement><solution><p>About 0.25 A. Charge does not get used up by the lamps, so the same current passes through components in a simple series path.</p></solution></exercise>
+
+    <exercise xml:id="ep-pw-4"><title>Resistance</title><statement><p>A resistor has potential difference 9.0 V and current 0.45 A. Calculate resistance.</p></statement><solution><p><m>R=V/I=9.0/0.45=20</m> Ω.</p></solution></exercise>
+
+    <exercise xml:id="ep-pw-5"><title>Electrical power</title><statement><p>A 12 V motor draws 1.5 A. Calculate its electrical power input and state what power means physically.</p></statement><solution><p><m>P=VI=12\times1.5=18</m> W. Power is the rate of energy transfer, so 18 W means 18 J transferred each second.</p></solution></exercise>
+
+    <exercise xml:id="ep-pw-6"><title>Energy efficiency</title><statement><p>A device receives 500 J and delivers 350 J in the intended useful output. Calculate percentage efficiency.</p></statement><solution><p>Efficiency <m>=350/500\times100=70\%</m>.</p></solution></exercise>
+
+    <exercise xml:id="ep-pw-7"><title>Insulation claim</title><statement><p>Material X gives a 4 °C temperature drop and material Y gives 6 °C in an insulation test. Why is “X is always the better insulator” too strong?</p></statement><solution><p>The conclusion applies to the tested thickness, geometry and conditions. Different thickness, moisture, construction or heat-transfer mechanism could change performance.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ep-chemical">
+    <title>Chemical World practice</title>
+    <subsection><title>Read less</title><p>Track atoms, identify the property being used and separate rate from amount.</p></subsection>
+    <subsection><title>Standard</title><p>Use particle models to explain observations, conservation, state changes, separation, pH and reaction-rate patterns.</p></subsection>
+    <subsection><title>Go deeper</title><p>Explain the limits of simplified models and distinguish energy change, activation barrier and reaction rate.</p></subsection>
+
+    <exercise xml:id="ep-cw-1"><title>Closed-system mass</title><statement><p>A sealed flask has mass 212.34 g before a reaction and 212.33 g after. Does this show mass was destroyed?</p></statement><solution><p>No. The 0.01 g difference should be compared with balance resolution and experimental uncertainty. In a closed ordinary chemical system, mass is conserved.</p></solution></exercise>
+
+    <exercise xml:id="ep-cw-2"><title>Separate salt and sand</title><statement><p>Describe how to separate a mixture of dry salt and sand and recover both components.</p></statement><solution><p>Add water to dissolve salt, filter to collect sand, wash/dry the sand, then evaporate or crystallise water from the filtrate to recover salt.</p></solution></exercise>
+
+    <exercise xml:id="ep-cw-3"><title>Reaction rate</title><statement><p>Powdered calcium carbonate reacts faster with an acid than equal mass of large chips under the same conditions. Explain using particles.</p></statement><solution><p>Powder has greater surface area exposed to acid, allowing more collisions between reacting particles per unit time.</p></solution></exercise>
+
+    <exercise xml:id="ep-cw-4"><title>Catalyst</title><statement><p>A catalyst halves the time taken for a reaction to reach completion. What happens to activation energy and why is the catalyst not a reactant consumed overall?</p></statement><solution><p>The catalyst provides an alternative pathway with lower activation energy. It participates in reaction steps but is regenerated overall rather than being used up as a net reactant.</p></solution></exercise>
+
+    <exercise xml:id="ep-cw-5"><title>pH comparison</title><statement><p>Solution A has pH 3 and solution B pH 5. Which is more acidic? Why should you not say A is “two units more acidic” as if pH were a simple linear scale?</p></statement><solution><p>A is more acidic. pH is logarithmic, so numerical steps do not represent equal additive changes in hydrogen-ion activity.</p></solution></exercise>
+
+    <exercise xml:id="ep-cw-6"><title>Formula ratio</title><statement><p>A metal commonly forms M²⁺ ions and chlorine forms Cl⁻ ions. Predict the simplest atom ratio and formula.</p></statement><solution><p>One M²⁺ requires two Cl⁻ for overall charge balance, giving 1:2 and formula MCl₂.</p></solution></exercise>
+
+    <exercise xml:id="ep-cw-7"><title>Endothermic profile</title><statement><p>On an energy profile, products lie above reactants. Is the reaction overall exothermic or endothermic, and what does the peak represent?</p></statement><solution><p>It is endothermic overall. The peak represents the high-energy transition region; the energy rise from reactants to the peak corresponds to activation energy for the forward pathway.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ep-biological">
+    <title>Biological World practice</title>
+    <subsection><title>Read less</title><p>Connect structure to function and avoid purpose-based explanations such as “because it wanted to”.</p></subsection>
+    <subsection><title>Standard</title><p>Link cells, systems, energy, inheritance and ecosystems. Use evidence and mechanisms rather than memorised lists.</p></subsection>
+    <subsection><title>Go deeper</title><p>Reason across scales from molecule to cell to organism to population and ecosystem.</p></subsection>
+
+    <exercise xml:id="ep-bw-1"><title>Root hair cell</title><statement><p>Explain how the shape of a root hair cell supports its function.</p></statement><solution><p>Its long extension increases surface area in contact with soil water, supporting uptake of water and dissolved mineral ions.</p></solution></exercise>
+
+    <exercise xml:id="ep-bw-2"><title>Respiration</title><statement><p>Why is “plants produce oxygen and animals produce carbon dioxide” an incomplete model?</p></statement><solution><p>Plants both photosynthesise and respire. Animals respire. Photosynthesis can produce oxygen while respiration uses oxygen in aerobic conditions and produces carbon dioxide; processes depend on cell type and conditions.</p></solution></exercise>
+
+    <exercise xml:id="ep-bw-3"><title>Antibiotic resistance</title><statement><p>Explain how antibiotic use can increase the frequency of resistant bacteria in a population.</p></statement><solution><p>Variation exists among bacteria. Antibiotic treatment kills susceptible bacteria more effectively; resistant variants survive and reproduce, so resistance becomes more common through natural selection.</p></solution></exercise>
+
+    <exercise xml:id="ep-bw-4"><title>Habitat sampling</title><statement><p>A student places every quadrat beside the path because it is convenient. What problem does this create?</p></statement><solution><p>Sampling is biased toward path-edge conditions and may not represent the habitat. Random/systematic or stratified sampling should match the question.</p></solution></exercise>
+
+    <exercise xml:id="ep-bw-5"><title>Food-web arrows</title><statement><p>Grass → rabbit → fox. What does the arrow from rabbit to fox represent?</p></statement><solution><p>Transfer of matter and energy from rabbit to fox when the fox feeds on the rabbit.</p></solution></exercise>
+
+    <exercise xml:id="ep-bw-6"><title>Inheritance and environment</title><statement><p>Two genetically similar plants grow to different heights in different light conditions. What does this show?</p></statement><solution><p>Phenotype can be influenced by environment as well as genetics. Similar genetic background does not guarantee identical observed characteristics under different conditions.</p></solution></exercise>
+
+    <exercise xml:id="ep-bw-7"><title>Population change</title><statement><p>Why does natural selection act on populations over generations rather than individual organisms “evolving” during life?</p></statement><solution><p>Individuals can change during life but evolutionary change concerns inherited variation changing in frequency because some variants leave more descendants across generations.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ep-earth-space">
+    <title>Earth and Space practice</title>
+    <subsection><title>Read less</title><p>Use models and evidence. Keep weather/climate, phases/eclipses and distance/time units distinct.</p></subsection>
+    <subsection><title>Standard</title><p>Explain Earth systems with mechanisms and interpret astronomical or climate data rather than relying on diagrams alone.</p></subsection>
+    <subsection><title>Go deeper</title><p>Connect geological, atmospheric, biological and astronomical systems and evaluate the limits of models.</p></subsection>
+
+    <exercise xml:id="ep-es-1"><title>Earth interior evidence</title><statement><p>Why are seismic waves useful evidence about layers inside Earth?</p></statement><solution><p>Their speeds and paths change through different materials, and some wave types do not travel through liquids, allowing internal structure to be inferred indirectly.</p></solution></exercise>
+
+    <exercise xml:id="ep-es-2"><title>Seasons</title><statement><p>Give two observations the axial-tilt model explains that a simple “Earth is farther from the Sun in winter” model does not.</p></statement><solution><p>It explains opposite seasons in northern and southern hemispheres and changes in both daylight duration and solar angle.</p></solution></exercise>
+
+    <exercise xml:id="ep-es-3"><title>Carbon cycle</title><statement><p>Explain one route by which carbon moves from atmosphere to a fox and then back to atmosphere.</p></statement><solution><p>CO₂ is fixed by plants in photosynthesis, transferred through feeding to prey and then fox, and returned as CO₂ through respiration/decomposition.</p></solution></exercise>
+
+    <exercise xml:id="ep-es-4"><title>Climate evidence</title><statement><p>Why is a long-term temperature dataset stronger evidence for climate trend than one month of local weather?</p></statement><solution><p>Climate concerns long-term statistical patterns, while one month is strongly affected by short-term weather variability and may not represent the wider system.</p></solution></exercise>
+
+    <exercise xml:id="ep-es-5"><title>Big Bang model</title><statement><p>Name two independent lines of evidence supporting an expanding hot early Universe.</p></statement><solution><p>Examples include the broad recession pattern of distant galaxies, cosmic microwave background radiation and observed abundances of light elements.</p></solution></exercise>
+
+    <exercise xml:id="ep-es-6"><title>Planetary comparison</title><statement><p>Planet A is larger than Planet B but has lower surface gravity. Explain why size alone cannot determine surface gravity.</p></statement><solution><p>Surface gravity depends on mass as well as radius. A larger planet can be less dense and have a different mass-radius combination.</p></solution></exercise>
+
+    <exercise xml:id="ep-es-7"><title>Energy choice</title><statement><p>Why is “renewable = no environmental impact” scientifically weak?</p></statement><solution><p>Renewable sources still require materials, land, infrastructure and maintenance and can affect habitats or landscapes. Sustainability needs life-cycle and system comparison.</p></solution></exercise>
+  </section>
+
+  <section xml:id="ep-mixed">
+    <title>Mixed transfer practice</title>
+    <subsection><title>Read less</title><p>Do not ask “what chapter is this?” Ask “what evidence, model or relationship applies?”</p></subsection>
+    <subsection><title>Standard</title><p>Mixed questions require choosing relevant knowledge without being told the topic. Explain connections explicitly.</p></subsection>
+    <subsection><title>Go deeper</title><p>Look for conservation, energy, systems, scale and evidence as crosscutting ideas linking all strands.</p></subsection>
+
+    <exercise xml:id="ep-mix-1"><title>Greenhouse experiment critique</title><statement><p>A student places one sealed bottle with extra CO₂ under a lamp and another without, records one temperature reading and claims this proves future global warming. Give three reasons the conclusion is too strong.</p></statement><solution><p>The setup is not a validated model of the climate system, one reading gives weak evidence, important variables/replication are missing, and global climate attribution relies on many independent observations and physical models rather than one bottle demonstration.</p></solution></exercise>
+
+    <exercise xml:id="ep-mix-2"><title>Battery-powered fan</title><statement><p>Trace energy through a battery-powered fan and identify at least one dispersed output.</p></statement><solution><p>Chemical energy in the battery is transferred electrically to the motor and then mainly into kinetic energy of fan/air, with energy also dispersed as thermal energy and sound.</p></solution></exercise>
+
+    <exercise xml:id="ep-mix-3"><title>Ocean acidification link</title><statement><p>Explain why adding atmospheric CO₂ can be relevant to both Earth/Space climate and Chemical World solution chemistry.</p></statement><solution><p>CO₂ affects Earth's radiative balance as a greenhouse gas and also dissolves in seawater, participating in equilibria that alter acidity/pH. One substance can therefore connect atmospheric and aqueous chemical systems.</p></solution></exercise>
+
+    <exercise xml:id="ep-mix-4"><title>Food and energy</title><statement><p>Trace energy from sunlight to a person cycling and then to the surroundings.</p></statement><solution><p>Light energy is captured by photosynthesis and stored chemically in biomass; food transfers chemical energy to the person; respiration transfers usable energy for muscle contraction; mechanical work moves the bicycle while much energy is dispersed thermally.</p></solution></exercise>
+
+    <exercise xml:id="ep-mix-5"><title>Metal corrosion decision</title><statement><p>A bridge component corrodes rapidly near the sea. Propose one scientific investigation and one engineering response.</p></statement><solution><p>Investigation: compare corrosion rates of candidate materials/coatings under controlled salt-water exposure. Engineering response: use a suitable protective coating, corrosion-resistant alloy, galvanising or sacrificial protection based on evidence and design constraints.</p></solution></exercise>
+  </section>
+</chapter>
