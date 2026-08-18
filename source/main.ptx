@@ -20,6 +20,7 @@
 
     <xi:include href="physical-world.ptx" />
     <xi:include href="quantitative-physics.ptx" />
+    <xi:include href="design-build.ptx" />
 
     <xi:include href="chemical-world.ptx" />
     <xi:include href="chemical-patterns-energy.ptx" />
