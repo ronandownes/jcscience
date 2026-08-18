@@ -121,26 +121,49 @@ Use them to study:
 - response length and structure;
 - how knowledge is applied in unfamiliar contexts.
 
-### Target corpus for now
+### Three useful exam-corpus eras
 
-**Current Junior Cycle / common-level era**
+#### Era A — current Junior Cycle / common-level Science
 
-- 2019 Science paper
-- 2020 archived Science paper, where available
-- 2022 Science paper
-- 2023 Science paper
-- 2024 Science paper
-- 2025 Science paper
-- 2026 Science paper
-- relevant official sample papers, especially 2018/2019 samples
+The new common-level paper begins with **2019**. Treat the normal administered-paper sequence as:
 
-There was no normal 2021 Junior Cycle examination paper in the archive being used.
+- 2019;
+- 2022;
+- 2023;
+- 2024;
+- 2025;
+- 2026;
+- plus relevant official sample papers, especially 2018/2019 samples.
 
-**Legacy Junior Certificate corpus**
+There was no normal Junior Cycle examination in 2021, and 2020 should not be treated as an ordinary administered examination year merely because an archive may expose a Science PDF/link for that year. Verify the status of any 2020 document before using or labelling it.
 
-Use Higher and Ordinary Science papers from **2009 through 2018** as an additional question-design corpus.
+This era has the highest assessment-design relevance because it reflects the current common-level course and paper style.
 
-These legacy papers must not be used to override the current specification. Their value is in the quality and variety of science questions, experimental contexts, diagrams and reasoning tasks that can be abstracted into new current-specification material.
+#### Era B — legacy Junior Certificate Higher and Ordinary papers
+
+Use **2009 through 2018** as a substantial secondary corpus. In this period there are normally separate **Higher** and **Ordinary** Science papers each year, giving roughly two papers per year and a large bank of assessment material.
+
+These papers can contribute excellent question structures, practical contexts, diagrams, data interpretation and scientific reasoning, but every candidate question or pattern must be checked against the **current Junior Cycle Science specification** before reuse or adaptation.
+
+Legacy syllabus content must never be allowed to leak into the current book merely because it once appeared in an examination.
+
+#### Era C — older historical papers before 2009
+
+Older Science papers may also be mined selectively when they contain unusually good, transferable exam-standard questions or scientific contexts.
+
+Do **not** ingest these indiscriminately. The further back the corpus goes, the greater the risk of obsolete syllabus content, outdated terminology, old assessment conventions or material outside the present specification.
+
+For pre-2009 material, use a **curated-question policy**:
+
+1. identify a potentially valuable question or assessment pattern;
+2. map it explicitly to a current learning outcome;
+3. reject it if the assessed content is no longer on the course;
+4. modernise context, terminology, data and representation where appropriate;
+5. abstract the assessment blueprint rather than copying wording;
+6. create a genuinely new project-authored question;
+7. run the normal originality and specification checks in `QUESTION-DESIGN.md`.
+
+Older papers are therefore a **quality reservoir**, not a coverage source.
 
 ### Paper archive / acquisition index
 
@@ -148,13 +171,15 @@ Maynooth University Mathematics & Statistics Department archive:
 
 - https://archive.maths.nuim.ie/staff/dmalone/StateExamPapers/#JC
 
-Prefer official SEC copies where convenient. The archive is useful as a consolidated discovery/index source.
+This is the main consolidated discovery/index source for the Science corpus and visibly spans the transition from separate Higher/Ordinary papers to the common-level paper. Prefer official SEC copies where convenient or when provenance/status needs confirmation.
 
 ### Corpus principle
 
 Do not simply reproduce the paper bank inside the book.
 
 The goal is to derive a rich model of **what good science assessment looks like** and then create a much larger original assessment bank aligned explicitly to the current learning outcomes.
+
+The current-era corpus should dominate decisions about present assessment style. The 2009–2018 corpus broadens the bank. Earlier material is selectively curated only when its scientific and assessment value survives specification checking.
 
 ---
 
