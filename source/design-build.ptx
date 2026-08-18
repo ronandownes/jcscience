@@ -1,0 +1,53 @@
+<chapter xml:id="design-build">
+  <title>Design, Build and Test</title>
+  <introduction>
+    <p>Science becomes engineering when evidence is used to design something that must perform a function under constraints. These projects develop Physical World learning while integrating planning, measurement, iteration, communication and sustainability.</p>
+  </introduction>
+
+  <section xml:id="db-electronic-circuit">
+    <title>Design and build a simple electronic circuit</title>
+    <subsection><title>Read less</title>
+      <p>Choose a function. Draw the circuit first. Build it with the supply off. Test one part at a time and measure what happens.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A useful design brief might be: build a low-voltage warning light that can be switched on and off, or build a light-sensing indicator using approved classroom components. Begin by defining the required behaviour, supply voltage and safety limits.</p>
+      <p>Use standard circuit symbols. Identify the function of each component: source, conductor, switch, resistor, lamp/LED, sensor or other permitted electronic component. For an LED, include current limiting where required by the component and supply.</p>
+      <p>Build incrementally. Test the supply and one output component before adding complexity. If the circuit fails, trace connectivity systematically rather than replacing components at random.</p>
+      <p>Record potential difference and current where useful and explain how the measurements support troubleshooting.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Separate functional requirements from implementation. Two circuits may perform the same job using different component arrangements. Compare robustness, energy use, component count, repairability and behaviour when one component fails.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="db-energy-device">
+    <title>Design an energy-transforming device</title>
+    <subsection><title>Read less</title>
+      <p>Build a device that takes energy in, performs a useful function and produces measurable output. Identify useful and dispersed energy transfers.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Possible design briefs include a rubber-band vehicle, small electric lifting device, solar-powered spinner, wind-driven model or insulated container. Choose a device appropriate to available equipment and classroom safety.</p>
+      <p>Define a measurable success criterion before building: distance travelled, mass lifted, time operated, temperature retained or another suitable output. Identify the input energy store/transfer and the intended useful output.</p>
+      <p>Test repeatedly. Change one design feature at a time where possible. Record evidence rather than choosing the version that “looks best”.</p>
+      <p>Analyse energy transfers. Some input is dispersed as thermal energy, sound, deformation or unwanted motion. Suggest an efficiency improvement and test whether it actually improves the chosen performance measure.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>An efficiency improvement can create a trade-off. Reducing friction may improve motion but reduce braking or control. A lighter structure may travel farther but become less durable. Engineering optimisation requires several constraints, not one maximum number.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="db-iteration">
+    <title>Test, redesign and justify</title>
+    <subsection><title>Read less</title>
+      <p>Test → measure → identify the main weakness → change one feature → test again.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Iteration is evidence-based redesign. A first prototype is not expected to be perfect. The important learning is to connect a measured problem to a justified modification.</p>
+      <p>Keep a design log with sketches, measurements and reasons for changes. Distinguish changes made because evidence suggested a weakness from changes made simply because materials were available.</p>
+      <p>A final report should explain the function, science, evidence, changes, remaining limitations and what would be tested next.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Compare optimisation criteria. A design can be more energy-efficient but more expensive, less repairable or more material-intensive. Include sustainability and life-cycle thinking in the final evaluation.</p>
+    </subsection>
+  </section>
+</chapter>
