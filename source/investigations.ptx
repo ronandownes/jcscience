@@ -1,0 +1,160 @@
+<chapter xml:id="investigations">
+  <title>Investigations and Practical Science</title>
+  <introduction>
+    <p>Practical science is not a collection of recipes. The aim is to learn how questions become evidence. This chapter develops investigation skills that recur across every strand and support classroom practical work, CBAs and independent scientific thinking.</p>
+  </introduction>
+
+  <section xml:id="inv-question">
+    <title>From curiosity to an investigable question</title>
+    <subsection><title>Read less</title>
+      <p>A good investigation question is clear, focused and answerable with evidence you can realistically collect.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Start by identifying the phenomenon or problem. Decide what can be observed or measured. If investigating cause and effect, state what factor will change and what outcome will be measured.</p>
+      <p>“Which paper towel is best?” is too vague. “How does brand affect the mass of water absorbed by a fixed area of paper towel under the same conditions?” is investigable because the variables and evidence are clearer.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Some strong scientific questions are comparative rather than causal. Others use secondary datasets, field surveys or models. Do not force every question into the same independent-variable/dependent-variable template when a different method better matches the question.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-hypothesis-prediction">
+    <title>Hypotheses and predictions</title>
+    <subsection><title>Read less</title>
+      <p>A prediction states what you expect to happen. A hypothesis offers a testable explanation or relationship.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A prediction should be linked to scientific reasoning rather than written as a guess. For example: “If temperature increases, dissolving time will decrease because particles move faster and collisions between solute and solvent occur more frequently.”</p>
+      <p>Evidence can support or fail to support a prediction. A result that differs from the prediction is not automatically a failed experiment; it may reveal a poor model, uncontrolled factor, measurement issue or genuinely unexpected behaviour.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Science advances by exposing ideas to tests that could in principle show them to be wrong. A claim that can explain any possible result after the event is scientifically weak because it makes no risky prediction.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-planning">
+    <title>Planning a fair and useful method</title>
+    <subsection><title>Read less</title>
+      <p>Choose what to change, what to measure and what to keep controlled. Select suitable equipment, a sensible range and enough repeats.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A method should be detailed enough that another student could repeat the investigation. State quantities rather than writing vague instructions such as “add some water”.</p>
+      <p>Choose a range wide enough to reveal a pattern but safe and realistic. Use intervals that give enough information without collecting unnecessary data. Consider how precisely each quantity can be measured.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Experimental design is an optimisation problem. More repeats, more data points and more precise equipment can improve evidence, but time and resources are limited. Good design directs effort toward the uncertainties that matter most.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-safety">
+    <title>Safety and risk</title>
+    <subsection><title>Read less</title>
+      <p>Identify hazards before starting. Reduce risk using suitable controls. Follow laboratory instructions and use protective equipment where required.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A <term>hazard</term> is something with the potential to cause harm. <term>Risk</term> considers the likelihood and severity of that harm in the situation. Controls reduce risk by removing the hazard, reducing exposure, changing the method or using protective measures.</p>
+      <p>Safety planning should be specific. “Be careful” is not a control measure. “Use tongs to move the heated container and allow it to cool on a heatproof mat” describes an action that reduces risk.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Risk cannot always be reduced to zero. Scientific and engineering work manages risk proportionately by considering both probability and consequence while preserving the learning or practical purpose.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-tables">
+    <title>Recording data in tables</title>
+    <subsection><title>Read less</title>
+      <p>Record data as you collect it. Put the independent variable first, include units in headings and keep decimal places consistent with the measuring instrument.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A good table separates raw measurements from calculated values. Repeated readings should be visible so variation is not hidden by an average.</p>
+      <p>Do not write units repeatedly inside every data cell when the unit can be stated once in the heading. Do not invent extra precision by adding meaningless decimal places.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Data structure matters. A well-designed table makes later analysis easier, supports checking and preserves information that may be lost by premature averaging.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-graphs">
+    <title>Choosing and reading graphs</title>
+    <subsection><title>Read less</title>
+      <p>Use a graph when it helps reveal a pattern. Label both axes, include units and choose a sensible scale.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Use scatter or line-style plots for continuous numerical variables. Bar charts are useful for comparing categories. The graph type should match the data rather than being chosen because it is familiar.</p>
+      <p>Describe what the graph actually shows before explaining why. Look for trends, plateaus, changes in slope and unusual points.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>A line of best fit represents an overall pattern; it is not a requirement that every point lies on the line. Interpolation within measured data is generally safer than extrapolation beyond the investigated range.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-conclusions">
+    <title>Conclusions from evidence</title>
+    <subsection><title>Read less</title>
+      <p>Answer the investigation question and support the answer using results.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A strong conclusion states the pattern, gives relevant numerical or observational evidence and avoids claiming more than the data support.</p>
+      <p>If results are mixed, say so. Scientific honesty is more important than forcing a clean conclusion.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Correlation alone does not prove causation. A causal claim is stronger when the design controls alternative explanations and when the proposed mechanism fits wider scientific knowledge.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-evaluation">
+    <title>Evaluation, reliability and improvement</title>
+    <subsection><title>Read less</title>
+      <p>Review the evidence. Identify limitations that actually affected the quality of the result. Suggest a realistic improvement linked to each limitation.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Useful evaluation asks whether measurements were sufficiently precise, whether controls were effective, whether repeats were consistent, whether the range was suitable and whether the method answered the original question.</p>
+      <p>Avoid empty statements such as “human error may have occurred”. Name the specific source of uncertainty and explain its likely effect.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>An improvement should target the dominant weakness. Repeating a measurement ten more times will not fix a miscalibrated instrument or a method that measures the wrong quantity.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-fieldwork">
+    <title>Fieldwork and sampling</title>
+    <subsection><title>Read less</title>
+      <p>Fieldwork studies systems in their natural setting. Use a sampling method that represents the area fairly and record environmental conditions where relevant.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Quadrats can estimate abundance of plants or slow-moving organisms. Transects can investigate change across an environmental gradient. Random sampling reduces deliberate selection bias; systematic sampling can reveal spatial patterns.</p>
+      <p>Field data often show natural variation, so sample size and location matter.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Ecological sampling is inferential: observations from part of a habitat are used to estimate or compare the larger system. The quality of inference depends on representativeness, sample size and method.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-secondary-data">
+    <title>Using secondary data and sources</title>
+    <subsection><title>Read less</title>
+      <p>Secondary data were collected by someone else. Check where they came from, how they were collected and whether they answer your question.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Reliable sources explain methods, use appropriate evidence and distinguish data from interpretation. Compare sources where claims are important. A polished graph or professional-looking website is not proof of reliability.</p>
+      <p>Record enough information to cite the source and return to it later.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Source quality is claim-dependent. A government meteorological service may be authoritative for national weather data, while a peer-reviewed specialist source may be needed for a narrow scientific mechanism.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="inv-communication">
+    <title>Communicating scientific work</title>
+    <subsection><title>Read less</title>
+      <p>Explain the question, method, evidence, conclusion and evaluation clearly. Use tables, graphs and diagrams when they communicate evidence better than prose.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Scientific communication should let another person understand what was investigated and judge whether the conclusion is justified. Use precise language, units and labelled representations.</p>
+      <p>When presenting a project, separate what the evidence shows from what you think it might mean.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Different audiences need different explanations, but scientific accuracy should not change. Good communication reduces unnecessary complexity without deleting conditions that make a claim true.</p>
+    </subsection>
+  </section>
+</chapter>
