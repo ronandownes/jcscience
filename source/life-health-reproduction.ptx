@@ -1,0 +1,121 @@
+<chapter xml:id="life-health-reproduction">
+  <title>Health, Reproduction and Human Biology</title>
+  <introduction>
+    <p>Human biology sits at the meeting point of cells, systems, inheritance, microorganisms, lifestyle and society. Scientific explanations should be accurate while medical and ethical questions are treated with care and evidence.</p>
+  </introduction>
+
+  <section xml:id="lhr-health-factors">
+    <title>What affects human health?</title>
+    <subsection><title>Read less</title>
+      <p>Health is influenced by inherited factors, environment, microorganisms, nutrition and lifestyle. These factors can interact.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Inherited variation can change susceptibility to some conditions, but genes rarely act alone. Environmental exposure, diet, physical activity, sleep, tobacco, alcohol, infection, stress and social conditions can all influence health.</p>
+      <p>A risk factor changes probability; it does not guarantee an outcome. Likewise, absence of one risk factor does not guarantee protection.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Health data often involve populations and probabilities. Distinguishing correlation, causation and individual risk is essential when interpreting medical headlines.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-microorganisms">
+    <title>Microorganisms and health</title>
+    <subsection><title>Read less</title>
+      <p>Microorganisms include microscopic living organisms such as many bacteria and fungi. Some cause disease, many are harmless and many are useful.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Microorganisms are involved in digestion, decomposition, food production, biotechnology and nutrient cycling. Some microorganisms are pathogens that cause infectious disease.</p>
+      <p>Antibiotics act against susceptible bacteria, not viruses. Misuse and overuse can favour the survival and spread of antibiotic-resistant bacteria through natural selection.</p>
+      <p>Hygiene, vaccination, safe food handling and public-health measures can reduce transmission of infectious disease.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>The human microbiome is an ecosystem. Microbial communities interact with one another and with the host, so “bacteria = disease” is scientifically false and pedagogically damaging.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-sexual-reproduction">
+    <title>Human sexual reproduction</title>
+    <subsection><title>Read less</title>
+      <p>Human sexual reproduction involves specialised sex cells, fertilisation and development. Genetic material from two parents is combined in the offspring.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Sperm are produced in the testes and eggs develop in the ovaries. During fertilisation, nuclei from sperm and egg combine to form a zygote. The zygote divides repeatedly, develops into an embryo and later a fetus.</p>
+      <p>The placenta supports exchange of substances between maternal and fetal circulations without the two blood supplies simply becoming one mixed pool. Oxygen and nutrients are supplied while waste products are removed.</p>
+      <p>Puberty involves physical and hormonal changes associated with sexual maturity. Biological development varies among individuals.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Development is regulated by interacting genetic, cellular and environmental processes. The simple sequence fertilisation → embryo → fetus is a useful overview but hides extensive differentiation and signalling.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-reproductive-health">
+    <title>Reproductive health and medical science</title>
+    <subsection><title>Read less</title>
+      <p>Medical science can support reproductive health through contraception, screening, treatment of infection and fertility care.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Contraceptive methods work in different ways and have different effectiveness, risks and benefits. Barrier methods can also reduce transmission of some sexually transmitted infections.</p>
+      <p>Medical technologies such as fertility treatment, prenatal testing and genetic screening raise scientific, personal, ethical and societal questions. Science can provide evidence about mechanisms, probabilities and outcomes; values also influence decisions.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Ethical reasoning should not be disguised as a scientific measurement. Scientific evidence can constrain claims and reveal consequences, while ethical decisions may additionally involve autonomy, equity, consent, risk and competing values.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-nutrition-lifestyle">
+    <title>Nutrition, lifestyle and evidence</title>
+    <subsection><title>Read less</title>
+      <p>Health depends on patterns of behaviour over time, not on one “superfood” or one isolated choice.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Nutritional needs vary with age, activity, health and other factors. Balanced dietary patterns provide energy, essential nutrients, fibre and water while avoiding sustained excesses that increase risk.</p>
+      <p>When evaluating health claims, ask whether evidence comes from controlled trials, observational studies, laboratory studies or personal anecdotes. Different forms of evidence answer different questions.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Relative risk and absolute risk can create very different impressions. A claim that “risk doubled” is incomplete without knowing the starting risk.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-habitat-study">
+    <title>Conducting a habitat study</title>
+    <subsection><title>Read less</title>
+      <p>Identify organisms, measure relevant environmental factors and sample fairly so that conclusions represent the habitat rather than only the easiest places to observe.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Begin with a clear question: for example, how plant abundance changes from an exposed path edge into shaded grassland. Select quadrats, transects or another suitable sampling strategy. Record abiotic factors such as light, temperature, soil moisture or pH when relevant.</p>
+      <p>Consider adaptation, competition and interdependence. A correlation between two habitat variables can suggest a relationship but does not by itself establish the mechanism.</p>
+      <p>Minimise disturbance, follow fieldwork safety procedures and respect living organisms.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Sampling converts a complex ecological community into a manageable dataset. The validity of any conclusion depends strongly on spatial scale, time of sampling and how representative the sample is.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-ecosystem-services">
+    <title>Ecosystem services and biodiversity</title>
+    <subsection><title>Read less</title>
+      <p>People depend on ecosystems for food, water, pollination, soil formation, climate regulation, recreation and many other benefits.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Ecosystem services include provisioning services such as food and materials, regulating services such as flood mitigation and pollination, and cultural benefits such as recreation. These categories help make human dependence on functioning ecosystems visible.</p>
+      <p>Conservation can protect habitats, restore degraded systems, reduce pollution, control invasive species and manage harvesting. Effective conservation should be monitored so that actions can be adjusted in response to evidence.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Assigning economic value can highlight overlooked ecosystem benefits, but ecosystems also have ecological, cultural and intrinsic values that are not captured fully by market prices.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="lhr-global-food">
+    <title>Global food production</title>
+    <subsection><title>Read less</title>
+      <p>Food production depends on soil, water, biodiversity, climate, energy and human technology. Sustainable food systems aim to produce enough food while reducing environmental damage.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Agriculture can increase yield through crop selection, soil management, irrigation, fertilisers, pest control and technology. These interventions can also affect water quality, greenhouse-gas emissions, soil condition and biodiversity.</p>
+      <p>Food security depends not only on total production but also on access, distribution, waste, conflict, economics and resilience to environmental change.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>There is rarely one universally sustainable farming method. Appropriate choices depend on climate, crop, soil, local ecology, labour, energy systems and social context. Systems thinking is more useful than simple labels.</p>
+    </subsection>
+  </section>
+</chapter>
