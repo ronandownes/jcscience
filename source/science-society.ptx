@@ -1,0 +1,92 @@
+<chapter xml:id="science-society">
+  <title>Science, Technology and Society</title>
+  <introduction>
+    <p>Science is carried out by people in societies. Research priorities, technologies and scientific careers are influenced by needs, funding, culture, risk, ethics and public debate. This chapter develops the skills needed to evaluate scientific claims and understand how scientific work affects society.</p>
+  </introduction>
+
+  <section xml:id="ss-scientists-change">
+    <title>How scientific ideas change</title>
+    <subsection><title>Read less</title>
+      <p>Scientific ideas change when new evidence, better measurements or stronger explanations become available. Changing an idea in response to evidence is a strength of science.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Scientific knowledge develops through observation, measurement, argument, modelling, replication and criticism. New explanations must account for existing evidence at least as well as older explanations while ideally explaining more.</p>
+      <p>Individual scientists can be mistaken. Reliability grows from methods that allow claims to be checked by other people, from multiple lines of evidence and from open criticism.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Science rarely changes through one dramatic experiment alone. Major shifts often depend on accumulated evidence, new instruments, improved mathematics and changes in the questions scientists are able to ask.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ss-scientist-stories">
+    <title>Scientists, discovery and invention</title>
+    <subsection><title>Read less</title>
+      <p>Scientific discovery is usually collaborative. Learn what problem was being investigated, what evidence changed understanding and what impact followed.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Case studies should avoid the myth of the lone genius. Useful examples can include the development of atomic models, vaccination, plate tectonics, genetics, radio astronomy, semiconductor technology, climate measurement and medical imaging.</p>
+      <p>For each case ask: What was already known? What evidence or tool was new? How was the claim tested? Who else contributed? What changed in society or technology?</p>
+      <p>Scientists work in universities, hospitals, industry, government agencies, field stations, observatories, laboratories and many other settings. Scientific careers also depend on technicians, engineers, data specialists and communicators.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Historical accounts can hide contributors because of gender, class, race, nationality or institutional power. Revisiting evidence about who contributed is part of accurate history, not an optional decorative add-on.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ss-media-claims">
+    <title>Evaluating science in the media</title>
+    <subsection><title>Read less</title>
+      <p>Do not judge a scientific claim by the headline. Check the evidence, source, sample, comparison and what the study actually measured.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>When reading a claim, ask whether it reports an experiment, observational study, model, survey or expert assessment. Check sample size, control groups, effect size, uncertainty and whether the conclusion goes beyond the data.</p>
+      <p>Beware of false balance. If a large body of evidence supports one explanation, presenting one unsupported opposing opinion as equal does not create scientific fairness.</p>
+      <p>Also beware of authority without evidence. Expertise matters because specialists understand methods and prior evidence, but good scientific communication should still make the basis of a claim inspectable.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Publication itself is not a guarantee of truth. Peer review is a quality-control process, not a certificate of permanent correctness. Replication, later evidence and synthesis across many studies are often more informative than one striking paper.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ss-technology-case">
+    <title>Physics technology case study</title>
+    <subsection><title>Read less</title>
+      <p>Choose a technology. Explain the physics that makes it work and evaluate its effects on people and the environment.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A strong technology study connects mechanism to consequence. For a smartphone, examples include semiconductor electronics, electromagnetic communication, batteries, light-emitting displays and sensors. Social impacts include communication and access to information; environmental impacts include mining, manufacturing energy, repairability and electronic waste.</p>
+      <p>Alternative topics include medical imaging, electric vehicles, wind turbines, fibre-optic communication, satellites, heat pumps or noise-cancelling headphones.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Technologies create systems rather than isolated devices. Evaluate infrastructure, supply chains, energy sources, user behaviour and end-of-life treatment rather than analysing the object only while it is switched on.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ss-society-influences-science">
+    <title>How society influences science</title>
+    <subsection><title>Read less</title>
+      <p>Society influences which scientific questions receive attention and funding. Science also changes society through knowledge and technology.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Research priorities are influenced by health needs, environmental challenges, economic opportunities, national policy, commercial investment and public concern. Funding can accelerate useful research but can also create conflicts of interest that must be declared and managed.</p>
+      <p>Ethical rules can limit how research is carried out, especially when people, animals or sensitive environments are involved. These constraints do not make research unscientific; responsible science includes ethical design.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Values can influence what questions society chooses to investigate, but values do not determine whether a measurement is correct. Keeping normative choices separate from empirical claims improves both scientific and public reasoning.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="ss-decision-framework">
+    <title>Making evidence-informed decisions</title>
+    <subsection><title>Read less</title>
+      <p>State the question. Gather evidence. Compare options. Identify uncertainty. Explain the trade-offs and justify your conclusion.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Many real science-related decisions have no option with zero cost or zero risk. Compare criteria explicitly: effectiveness, probability of harm, reversibility, cost, fairness, environmental impact and quality of evidence.</p>
+      <p>A good conclusion can be conditional: “Option A is preferred if reducing emissions is weighted most strongly, but Option B has lower short-term cost.” Conditional conclusions are often more scientifically honest than pretending one number settles every value judgement.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Decision-making under uncertainty can be improved by asking which additional evidence would be most valuable. Sometimes the best next step is not choosing immediately but collecting targeted information that could change the decision.</p>
+    </subsection>
+  </section>
+</chapter>
