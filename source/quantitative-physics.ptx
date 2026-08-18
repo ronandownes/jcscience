@@ -1,0 +1,124 @@
+<chapter xml:id="quantitative-physics">
+  <title>Measuring the Physical World</title>
+  <introduction>
+    <p>Physics becomes powerful when observations are turned into quantities. This chapter develops the measurement and calculation skills that connect length, area, volume, mass, density, motion and electricity.</p>
+  </introduction>
+
+  <section xml:id="qp-instruments">
+    <title>Choosing and using measuring instruments</title>
+    <subsection><title>Read less</title>
+      <p>Choose an instrument that measures the quantity you need with a suitable range and precision. Record the value with its unit.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A measuring instrument should match both the quantity and the scale of the task. A metre rule is suitable for the length of a desk; a measuring cylinder is suitable for liquid volume; a balance measures mass; a thermometer measures temperature; a stopwatch measures time; ammeters and voltmeters are connected in different ways because they measure different electrical quantities.</p>
+      <p>Read scales at eye level where parallax matters. Check the zero point. Estimate no more precision than the scale supports. Repeat measurements when random variation is significant.</p>
+      <example><title>Choosing equipment</title><p>To measure 23 cm³ of water, a 25 or 50 cm³ graduated cylinder is usually more suitable than a 1 L beaker because its scale is finer and its working range better matched to the volume.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Every instrument has finite resolution and may also have calibration error. Good measurement is not about writing many decimal places; it is about matching reported precision to the evidence the instrument can genuinely provide.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-area-volume">
+    <title>Length, area and volume</title>
+    <subsection><title>Read less</title>
+      <p>Length measures one-dimensional extent. Area measures surface size. Volume measures three-dimensional space. Their units must match the number of dimensions.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Length may be measured in metres, centimetres or millimetres. Area uses squared units such as m² or cm² because two lengths are multiplied. Volume uses cubed units such as m³ or cm³ because three lengths are multiplied.</p>
+      <p>Regular solids can often be measured and their volume calculated from dimensions. The volume of an irregular solid can be found by water displacement if the object is suitable for immersion.</p>
+      <p>For water-like liquids, 1 cm³ is the same volume as 1 mL. This is a volume equivalence, not a general statement about mass.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Unit conversion in area and volume must account for dimensionality. Since 1 m = 100 cm, 1 m² = 10,000 cm² and 1 m³ = 1,000,000 cm³. Treating squared or cubed units as if they were simple lengths is a common source of large errors.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-density">
+    <title>Density</title>
+    <subsection><title>Read less</title>
+      <p>Density tells how much mass is contained in a given volume. <m>\text{density}=\frac{\text{mass}}{\text{volume}}</m>.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Density is a property that helps compare materials independently of sample size. A large block and a small block of the same uniform material have different masses and volumes but the same density under the same conditions.</p>
+      <example><title>Calculate density</title><p>A sample has mass 54 g and volume 20 cm³. Its density is <m>54/20=2.7</m> g/cm³.</p></example>
+      <p>To measure density experimentally, determine mass with a balance and volume using dimensions or displacement, then divide using consistent units.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Floating depends on the density of both object and fluid together with buoyancy, not simply on whether an object is “heavy”. A massive steel ship can float because its overall average density, including enclosed air, is lower than the water it displaces.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-speed-acceleration">
+    <title>Speed and acceleration</title>
+    <subsection><title>Read less</title>
+      <p>Speed is distance travelled per unit time. Acceleration is change in velocity per unit time.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Average speed is calculated from total distance divided by total time. Acceleration describes how velocity changes, so an object accelerates when it speeds up, slows down or changes direction.</p>
+      <example><title>Average acceleration</title><p>If velocity changes from 2 m/s to 8 m/s in 3 s in the same direction, average acceleration is <m>(8-2)/3=2</m> m/s².</p></example>
+      <p>Use motion data and graphs to distinguish constant speed, changing speed and stationary intervals.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Speed is a scalar; velocity includes direction. This is why uniform circular motion can have constant speed while continuously accelerating: the direction of velocity is changing.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-force-measurement">
+    <title>Measuring force</title>
+    <subsection><title>Read less</title>
+      <p>Force is measured in newtons using instruments such as a force meter or calibrated spring balance.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Before measuring, check the zero and range of the instrument. Read the scale without exceeding its safe limit. Force is directional, so record direction when it matters.</p>
+      <p>Investigations can examine relationships between force and extension, load and friction, or force and motion. A graph can reveal whether the relationship is linear over the tested range.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>A spring force meter relies on a physical relationship between extension and applied force over a limited elastic range. Calibration turns that relationship into a measuring instrument.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-electric-quantities">
+    <title>Current, potential difference and resistance</title>
+    <subsection><title>Read less</title>
+      <p>Current is measured in amperes using an ammeter in series. Potential difference is measured in volts using a voltmeter across a component. Resistance is measured in ohms and can be calculated from <m>R=V/I</m>.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>An ammeter must be part of the current path because it measures charge flow through the circuit. A voltmeter compares two points, so it is connected in parallel across the component being investigated.</p>
+      <p>Resistance describes the relationship between potential difference and current for a component under stated conditions. For an ohmic conductor at roughly constant temperature, doubling potential difference approximately doubles current and <m>V/I</m> remains constant.</p>
+      <example><title>Resistance</title><p>A component has 6.0 V across it and current 0.30 A through it. <m>R=6.0/0.30=20</m> Ω.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Not every component has constant resistance. Filament lamps heat as current rises, changing the relationship between potential difference and current. A mathematical relationship is useful only when its conditions are understood.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-electrical-power">
+    <title>Electrical power and energy use</title>
+    <subsection><title>Read less</title>
+      <p>Power tells how quickly energy is transferred. Electrical power can be calculated using <m>P=VI</m>.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Power is measured in watts, where one watt is one joule per second. A higher-power device transfers energy more rapidly while operating under the stated conditions.</p>
+      <example><title>Electrical power</title><p>A device operating at 12 V draws 2.0 A. Its electrical power is <m>12\times2.0=24</m> W.</p></example>
+      <p>Electrical energy use depends on both power and operating time. This is why a low-power device used for a very long time may consume more energy than a high-power device used briefly.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Power is a rate, not a store of energy. Separating energy from power prevents errors such as saying a battery “contains watts”.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="qp-pattern-investigation">
+    <title>Investigating physical relationships</title>
+    <subsection><title>Read less</title>
+      <p>Measure two related physical quantities over a useful range, graph the data and describe the pattern before explaining it.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A relationship investigation should identify variables, choose suitable instruments, gather repeated data and use a graph or table to test whether a proposed pattern is supported.</p>
+      <p>Examples include force and spring extension, voltage and current, distance and time, cooling and time, or mass and volume for one material.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>A straight-line graph can encode more than “they are related”. Its slope and intercept may have physical meaning. Building the habit of interpreting those features prepares students for later quantitative science.</p>
+    </subsection>
+  </section>
+</chapter>
