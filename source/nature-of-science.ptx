@@ -1,0 +1,84 @@
+<chapter xml:id="nature-of-science">
+  <title>Nature of Science</title>
+  <introduction>
+    <p>Nature of Science is the thread that runs through the whole course. It is how scientists ask questions, collect evidence, build explanations, test ideas, communicate findings and revise conclusions.</p>
+  </introduction>
+
+  <section xml:id="nos-questions-evidence">
+    <title>Questions, evidence and explanations</title>
+    <subsection><title>Read less</title>
+      <p>Science asks questions that can be investigated with evidence. Evidence may come from observations, measurements, experiments, fieldwork or reliable datasets.</p>
+      <p>An <term>observation</term> is what is noticed or measured. An <term>inference</term> is an interpretation made from observations.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A useful scientific question is clear enough that evidence could help answer it. Some questions are tested by changing one factor and measuring another. Others are answered by comparing patterns in observations or datasets.</p>
+      <p>Scientists distinguish observations from inferences because the same observation can sometimes support more than one explanation. A strong explanation fits the evidence, is consistent with established science and remains open to revision if new evidence appears.</p>
+      <example><title>Observation or inference?</title><p>A beaker contains a colourless liquid and bubbles appear after a tablet is added. “Bubbles are present” is an observation. “A gas is being produced by a chemical reaction” is an inference supported by the observation.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Scientific knowledge is not a collection of guesses. Explanations gain strength when they survive repeated testing, fit multiple lines of evidence and make successful predictions. Scientific uncertainty does not mean that all explanations are equally plausible; it means conclusions have different degrees of support.</p>
+      <p>Evidence can be direct or indirect. We cannot handle the centre of Earth or watch a star evolve over millions of years, yet scientists can build robust explanations from seismic waves, spectra, models and other measurable evidence.</p>
+    </subsection>
+    <exercise><title>Check your thinking</title><statement><p>A student says: “The metal turned black, so it must have burned.” Identify the observation and the inference.</p></statement><solution><p>Observation: the metal turned black. Inference: it burned. More evidence is needed before deciding what process caused the colour change.</p></solution></exercise>
+  </section>
+
+  <section xml:id="nos-variables-fair-tests">
+    <title>Variables and fair testing</title>
+    <subsection><title>Read less</title>
+      <p>In a fair test, change one factor, measure the result and keep other important factors controlled.</p>
+      <p>The factor changed is the <term>independent variable</term>. The result measured is the <term>dependent variable</term>. Other important factors are <term>control variables</term>.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Fair testing helps isolate cause and effect. If several important factors change at once, it becomes difficult to know which change caused the result.</p>
+      <p>Good planning includes a sensible range of values, repeated measurements where useful, a clear method, suitable equipment and attention to safety.</p>
+      <example><title>Temperature and dissolving</title><p>To investigate how water temperature affects the time taken for a fixed mass of sugar to dissolve, vary temperature, measure dissolving time and keep the mass of sugar, volume of water, stirring method and container consistent.</p></example>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Not every scientific investigation can be reduced to a perfectly controlled laboratory experiment. Field investigations, astronomy and ecology often involve natural variation and limited control. Scientific quality then depends on careful sampling, replication, comparison, measurement and transparent treatment of uncertainty.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="nos-measurement-data">
+    <title>Measurement, data and uncertainty</title>
+    <subsection><title>Read less</title>
+      <p>Measure with the correct instrument and unit. Record data clearly in a table. Repeat measurements when variation matters.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Measurements are never infinitely exact. The instrument, method and person measuring all place limits on precision. A ruler marked in millimetres cannot justify reporting a length to a thousandth of a millimetre.</p>
+      <p>Repeated measurements help reveal variation. An average may give a useful representative value, but unusual values should be examined rather than automatically deleted.</p>
+      <p>Tables should include headings and units. Graph axes should be labelled, scaled sensibly and used only when the graph type matches the data.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Distinguish random variation from systematic error. Random variation causes measurements to scatter; repetition can help estimate its effect. Systematic error shifts results in a consistent direction, so repetition alone may not reveal or remove it.</p>
+      <p>Reliability concerns consistency of results. Validity concerns whether the method actually answers the intended question. A result can be repeatable yet still fail to test the right thing.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="nos-models-theories-laws">
+    <title>Models, theories and laws</title>
+    <subsection><title>Read less</title>
+      <p>A <term>model</term> is a useful representation. A scientific <term>theory</term> is a well-supported explanation. A scientific <term>law</term> describes a regular pattern or relationship.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>Models simplify reality so that we can explain, predict or reason. Particle diagrams, circuit diagrams and models of the Solar System are not literal copies of nature; each emphasises selected features.</p>
+      <p>A scientific theory is not simply a guess. It is an explanatory framework supported by evidence. Laws and theories do different jobs: a law describes a relationship; a theory explains mechanisms and connections.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Models have domains of usefulness. A simple model may be excellent for one purpose and misleading for another. Scientific progress often involves refining models so they explain more evidence with greater precision while remaining testable.</p>
+    </subsection>
+  </section>
+
+  <section xml:id="nos-communication-evaluation">
+    <title>Communicating and evaluating science</title>
+    <subsection><title>Read less</title>
+      <p>Scientific claims should be supported by evidence. Good communication explains what was done, what was found and how the evidence supports the conclusion.</p>
+    </subsection>
+    <subsection><title>Standard</title>
+      <p>A conclusion answers the investigation question using evidence from the results. An evaluation considers the quality of the method and data, identifies limitations and proposes realistic improvements.</p>
+      <p>Review does not mean inventing a mistake. A sound review may conclude that the method was suitable while still identifying sensible ways to increase precision, repeatability or range.</p>
+    </subsection>
+    <subsection><title>Go deeper</title>
+      <p>Science communication also requires source evaluation. Ask who produced a claim, what evidence is supplied, whether the method can be checked, whether other evidence agrees and whether uncertainty is represented honestly.</p>
+    </subsection>
+  </section>
+</chapter>
