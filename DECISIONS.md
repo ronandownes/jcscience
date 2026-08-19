@@ -57,3 +57,9 @@ Past-paper material is an assessment dataset. Extract concepts, action verbs, re
 Use PreTeXt CLI 2.44.0 for the current reproducible build. The `web` target builds `source/main.ptx` into `output/web`. GitHub Pages deployment uses a custom GitHub Actions workflow and the repository Pages source should be set to GitHub Actions.
 
 This version pin may be deliberately upgraded later after a tested migration.
+
+## 2026-08-19 — web presentation should stay light and minimal
+
+Use the PreTeXt `tacoma` theme for the main web build, with black as the primary colour and dark mode disabled. The intended learner-facing presentation is predominantly white background, black text, low visual weight and minimal decoration.
+
+Do not replace this with a heavy, dark, library-like or strongly coloured presentation unless the user explicitly changes direction. Styling changes should preserve the existing book content and learning architecture.
