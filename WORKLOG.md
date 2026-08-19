@@ -47,3 +47,12 @@ It is still not a finished publication. The most important next technical step i
 ### Next contributor
 
 Read `PROJECT-STATUS.md` and `NEXT.md` first. Do not redesign from scratch. Preserve the specification-led architecture and the Read less / Standard / Go deeper principle. Update this worklog and status after any substantial session.
+
+## 2026-08-19 — minimal web theme
+
+- Added `publication/publication.ptx` for publication-layer styling.
+- Selected PreTeXt `tacoma` for the web build because the required direction is deliberately light and minimal rather than visually heavy.
+- Set the primary colour to black and disabled dark mode so the presentation remains predominantly white with black text.
+- Updated `project.ptx` so the web target uses the publication file.
+- Recorded the styling decision in `DECISIONS.md` so later contributors preserve the light presentation unless the user explicitly changes direction.
+- No textbook content or learning architecture was changed.
