@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Everyday Mass Lab</title>
+<style>
+:root{--ink:#17324d;--muted:#5d6b78;--line:#d8e0e7;--bg:#f7f9fb;--panel:#fff;--good:#16843b;--goodbg:#eaf7ee;--bad:#a83232;--badbg:#fff0f0;--accent:#1d6698;--accent2:#e7f2fa}
+*{box-sizing:border-box}body{margin:0;font:17px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:#17212b}.wrap{max-width:1050px;margin:auto;padding:24px}.hero{background:linear-gradient(135deg,#e9f4fb,#fff);border:1px solid var(--line);border-radius:18px;padding:22px}.hero h1{margin:0 0 6px;color:var(--ink);font-size:clamp(2rem,5vw,3.4rem)}.hero p{margin:0;color:var(--muted);font-size:1.08rem}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:18px 0}.card,.quiz,.extension{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px}.object{font-size:3.2rem}.mass{font-size:1.4rem;font-weight:800;color:var(--ink)}.note{color:var(--muted);font-size:.94rem}.scale{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;margin:18px 0}.scale-track{height:12px;background:linear-gradient(90deg,#cfe8f7,#2b6f9d);border-radius:99px;margin:12px 0 8px}.ticks{display:flex;justify-content:space-between;font-size:.82rem;color:var(--muted)}.barrow{display:grid;grid-template-columns:130px 1fr 100px;align-items:center;gap:12px;margin:10px 0}.bar{height:24px;background:#dbe9f3;border-radius:8px;overflow:hidden}.fill{height:100%;background:#4e8eb8;border-radius:8px}.controls{display:flex;gap:10px;flex-wrap:wrap}.btn,.choice{border:2px solid #b8c8d5;background:#fff;border-radius:12px;padding:11px 14px;font:inherit;cursor:pointer;transition:.15s}.btn:hover,.choice:hover{border-color:var(--accent);transform:translateY(-1px)}.choice{width:100%;text-align:left;margin:7px 0}.choice.correct{border-color:var(--good);background:var(--goodbg);color:#0f5f2a;font-weight:750}.choice.wrong{border-color:var(--bad);background:var(--badbg);color:#7d2222}.feedback{min-height:1.5em;font-weight:700;margin-top:8px}.feedback.good{color:var(--good)}.feedback.bad{color:var(--bad)}.estimate{display:grid;grid-template-columns:120px 1fr;gap:16px;align-items:center}.bigicon{font-size:5rem;text-align:center}.reveal{display:none;padding:13px;border-radius:12px;background:var(--accent2);margin-top:10px}.reveal.show{display:block}.formula{font-size:1.35rem;font-weight:800;color:var(--ink);background:#eef5fa;border-radius:12px;padding:12px;text-align:center}.extgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}.extitem{border-left:5px solid #7c8a96;padding:10px 12px;background:#fafbfc}.tag{display:inline-block;background:#f0f2f4;border-radius:999px;padding:4px 9px;font-size:.8rem;font-weight:700;color:#58636c}.small{font-size:.9rem;color:var(--muted)}@media(max-width:600px){.barrow{grid-template-columns:90px 1fr 72px}.estimate{grid-template-columns:1fr}.bigicon{font-size:4rem}}
+</style>
+</head>
+<body><main class="wrap">
+<section class="hero"><span class="tag">Physical World · 4.3</span><h1>Everyday Mass Lab</h1><p>Build a feel for grams, kilograms and tonnes before using equations. Estimate → compare → measure → explain.</p></section>
+
+<h2>1. Get a feel for mass</h2>
+<div class="grid">
+  <div class="card"><div class="object">📎</div><strong>Paper clip</strong><div class="mass">≈ 1 g</div><div class="note">A gram-sized object.</div></div>
+  <div class="card"><div class="object">📱</div><strong>Phone</strong><div class="mass">≈ 0.15–0.25 kg</div><div class="note">About a few hundred grams.</div></div>
+  <div class="card"><div class="object">📘</div><strong>School book</strong><div class="mass">≈ 0.5–1 kg</div><div class="note">Real books vary.</div></div>
+  <div class="card"><div class="object">🎒</div><strong>School bag</strong><div class="mass">≈ 3–8 kg</div><div class="note">Depends strongly on contents.</div></div>
+  <div class="card"><div class="object">🚲</div><strong>Bicycle</strong><div class="mass">≈ 10–20 kg</div></div>
+  <div class="card"><div class="object">🧍</div><strong>Teenager / adult</strong><div class="mass">tens of kg</div><div class="note">People vary widely.</div></div>
+  <div class="card"><div class="object">🚗</div><strong>Car</strong><div class="mass">≈ 1,000–2,000 kg</div><div class="note">About 1–2 tonnes for many cars.</div></div>
+</div>
+
+<section class="scale"><h2>2. See the scale</h2><p>The jumps are enormous. A car is not just “heavier”; its mass is roughly thousands of school books.</p><div class="scale-track"></div><div class="ticks"><span>1 g</span><span>100 g</span><span>1 kg</span><span>10 kg</span><span>100 kg</span><span>1000 kg</span></div>
+<div class="barrow"><strong>Book</strong><div class="bar"><div class="fill" style="width:12%"></div></div><span>~0.8 kg</span></div>
+<div class="barrow"><strong>Bag</strong><div class="bar"><div class="fill" style="width:28%"></div></div><span>~5 kg</span></div>
+<div class="barrow"><strong>Person</strong><div class="bar"><div class="fill" style="width:53%"></div></div><span>~60 kg</span></div>
+<div class="barrow"><strong>Car</strong><div class="bar"><div class="fill" style="width:92%"></div></div><span>~1500 kg</span></div>
+<p class="small">The visual bar is a teaching scale, not a linear graph. The numbers are what matter.</p></section>
+
+<section class="card"><h2>3. Estimate before you reveal</h2><div class="estimate"><div class="bigicon" id="estIcon">📘</div><div><h3 id="estTitle">A school book</h3><p>Choose the most sensible estimate.</p><div id="estChoices"></div><div id="estFeedback" class="feedback"></div><button class="btn" id="nextEstimate">Next object</button></div></div></section>
+
+<h2>4. Formative check</h2>
+<div id="quiz"></div>
+
+<section class="card"><h2>5. Mass, weight and pressure — keep them separate</h2><div class="grid"><div><h3>Mass</h3><p>How much matter an object contains. Measured in <strong>kg</strong>.</p></div><div><h3>Weight</h3><p>The gravitational force on the object. Measured in <strong>N</strong>.</p></div><div><h3>Pressure</h3><p>How force is spread over an area.</p><div class="formula">pressure = force ÷ area</div></div></div><p><strong>Everyday model:</strong> the same person standing on skis spreads force over a larger area than when standing in narrow shoes, so the pressure on snow is lower.</p></section>
+
+<details class="extension"><summary><strong>Extension: zoom from everyday matter to extreme density</strong></summary><p>This is connection material, not the starting point.</p><div class="extgrid"><div class="extitem"><strong>Atom</strong><br><span class="small">Almost all atomic mass is concentrated in the tiny nucleus.</span></div><div class="extitem"><strong>Gold</strong><br><span class="small">Gold atoms have very massive nuclei and solid gold packs those atoms into a relatively small volume.</span></div><div class="extitem"><strong>White dwarf</strong><br><span class="small">Matter is compressed to extreme densities.</span></div><div class="extitem"><strong>Black hole</strong><br><span class="small">An extreme gravitational object; ordinary material-density language becomes inadequate.</span></div></div></details>
+</main>
+<script>
+const estimates=[
+ {icon:'📘',name:'A school book',choices:['8 g','800 g','80 kg','800 kg'],answer:1,why:'About 800 g is a sensible order-of-magnitude estimate for a substantial school book.'},
+ {icon:'📱',name:'A phone',choices:['2 g','200 g','20 kg','200 kg'],answer:1,why:'A phone is typically a few hundred grams.'},
+ {icon:'🎒',name:'A loaded school bag',choices:['50 g','500 g','5 kg','50 kg'],answer:2,why:'A few kilograms is a sensible estimate for a loaded school bag.'},
+ {icon:'🚗',name:'A car',choices:['15 kg','150 kg','1500 kg','15000 kg'],answer:2,why:'Many cars are around 1–2 tonnes, so 1500 kg is sensible.'}
+];
+let estIndex=0;
+function renderEstimate(){const q=estimates[estIndex];document.getElementById('estIcon').textContent=q.icon;document.getElementById('estTitle').textContent=q.name;const box=document.getElementById('estChoices');box.innerHTML='';document.getElementById('estFeedback').textContent='';document.getElementById('estFeedback').className='feedback';q.choices.forEach((c,i)=>{const b=document.createElement('button');b.className='choice';b.textContent=c;b.onclick=()=>{[...box.children].forEach(x=>x.disabled=true);if(i===q.answer){b.classList.add('correct');document.getElementById('estFeedback').textContent='Correct. '+q.why;document.getElementById('estFeedback').classList.add('good')}else{b.classList.add('wrong');box.children[q.answer].classList.add('correct');document.getElementById('estFeedback').textContent='Not quite. Compare the size of the object with things you can lift or carry.';document.getElementById('estFeedback').classList.add('bad')}};box.appendChild(b)})}
+document.getElementById('nextEstimate').onclick=()=>{estIndex=(estIndex+1)%estimates.length;renderEstimate()};renderEstimate();
+
+const quiz=[
+ {q:'Which is the best estimate for the mass of a school book?',a:['0.8 kg','80 kg','800 kg'],correct:0,explain:'A school book is of the order of 1 kg, not tens or hundreds of kilograms.'},
+ {q:'Which is closest to the mass of a typical car?',a:['1.5 kg','150 kg','1500 kg'],correct:2,explain:'1500 kg is 1.5 tonnes, a sensible value for many cars.'},
+ {q:'A 60 kg person travels from Earth to the Moon. Which quantity changes most directly?',a:['Mass','Weight','Amount of matter'],correct:1,explain:'Mass stays approximately 60 kg; weight changes because gravitational field strength changes.'},
+ {q:'The same person stands on skis instead of narrow shoes. What happens to the pressure on soft snow?',a:['It decreases','It increases','It must stay the same'],correct:0,explain:'The force is spread over a larger contact area, so pressure decreases.'},
+ {q:'Which unit belongs to weight?',a:['kg','N','kg/m³'],correct:1,explain:'Weight is a force, so it is measured in newtons (N).'}
+];
+const quizBox=document.getElementById('quiz');quiz.forEach((item,n)=>{const sec=document.createElement('section');sec.className='quiz';sec.innerHTML=`<h3>${n+1}. ${item.q}</h3>`;const fb=document.createElement('div');fb.className='feedback';item.a.forEach((ans,i)=>{const b=document.createElement('button');b.className='choice';b.textContent=ans;b.onclick=()=>{const buttons=[...sec.querySelectorAll('.choice')];buttons.forEach(x=>x.disabled=true);if(i===item.correct){b.classList.add('correct');fb.textContent='Correct. '+item.explain;fb.classList.add('good')}else{b.classList.add('wrong');buttons[item.correct].classList.add('correct');fb.textContent='Try that idea again. '+item.explain;fb.classList.add('bad')}};sec.appendChild(b)});sec.appendChild(fb);quizBox.appendChild(sec)});
+</script></body></html>
