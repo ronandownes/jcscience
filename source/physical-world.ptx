@@ -41,16 +41,51 @@
 
   <section xml:id="pw-mass-weight-pressure">
     <title>Mass, weight and pressure</title>
+
     <subsection><title>Read less</title>
-      <p><term>Mass</term> measures the amount of matter in an object and is measured in kilograms. <term>Weight</term> is the gravitational force acting on an object and is measured in newtons.</p>
-      <p><term>Pressure</term> describes how force is spread over an area.</p>
+      <p><term>Mass</term> tells us how much matter an object contains. Before calculating anything, build a feel for the size of a kilogram by estimating familiar objects.</p>
+      <p><em>Everyday mass ladder:</em> a paper clip is about 1 g; a phone is a few hundred grams; a school book is roughly 0.5–1 kg; a loaded school bag is a few kilograms; a bicycle is tens of kilograms; a person is tens of kilograms; and many cars are roughly 1,000–2,000 kg.</p>
+      <p><term>Weight</term> is the gravitational force acting on an object and is measured in newtons (N). <term>Pressure</term> describes how force is spread over an area.</p>
     </subsection>
+
     <subsection><title>Standard</title>
+      <p>Science starts with a sensible estimate. Ask: could I hold it in one hand, carry it in a bag, lift it with another person, or would I need a machine? Then choose an appropriate unit and measure.</p>
+      <p>Use grams for small everyday objects, kilograms for objects such as books, bags and people, and tonnes when thousands of kilograms are more convenient. One kilogram is 1,000 grams. One tonne is 1,000 kilograms.</p>
+
+      <example><title>How massive is a school book?</title>
+        <p>Estimates such as 8 g, 800 g, 80 kg and 800 kg are not equally plausible. A substantial school book can be held comfortably in one hand, so about 800 g is a sensible order-of-magnitude estimate. The exact value should then be checked with a balance.</p>
+      </example>
+
+      <example><title>How massive is a car?</title>
+        <p>A typical car is far too massive for a person to lift and has a mass of the order of thousands of kilograms. About 1,500 kg is a sensible estimate for many cars. That is 1.5 tonnes.</p>
+      </example>
+
+      <p>A useful practical routine is <em>estimate → measure → record → compare → explain</em>. Measure classroom objects such as a pencil case, water bottle, school book and loaded school bag. Compare the measured value with the estimate and explain any large difference.</p>
+
       <p>Mass and weight are related but not interchangeable. A person's mass remains approximately the same when travelling from Earth to the Moon, but their weight changes because the gravitational field strength is different.</p>
-      <p>For a given force, a smaller contact area produces greater pressure. This helps explain why a sharp blade cuts more easily than a blunt one and why wide tyres can reduce pressure on soft ground.</p>
+      <p>For a given force, a smaller contact area produces greater pressure. A person standing on skis spreads their force over a larger area than the same person in narrow shoes, so the pressure on soft snow is lower. A sharp blade produces a large pressure because the force acts over a very small area.</p>
+
+      <exercise><title>Sensible estimate</title>
+        <statement><p>Which is the most sensible estimate for the mass of a loaded school bag: 50 g, 500 g, 5 kg or 50 kg? Explain how you know without using a balance.</p></statement>
+        <solution><p>About 5 kg is sensible. A loaded bag is much more massive than a small object measured in grams, but it can still normally be carried by one person.</p></solution>
+      </exercise>
+
+      <exercise><title>Car comparison</title>
+        <statement><p>A car has a mass of 1,500 kg and a school book has a mass of 0.75 kg. About how many such books would have the same total mass as the car?</p></statement>
+        <solution><p><m>1500/0.75=2000</m>. About 2,000 books would have the same total mass.</p></solution>
+      </exercise>
+
+      <exercise><title>Mass or weight?</title>
+        <statement><p>A student says, “My weight is 60 kg.” What scientific correction would you make?</p></statement>
+        <solution><p>60 kg is a mass. Weight is a force and should be measured in newtons.</p></solution>
+      </exercise>
     </subsection>
+
     <subsection><title>Go deeper</title>
-      <p>Pressure ideas apply in solids, liquids and gases, but the mechanisms differ. In fluids, pressure is linked to particle collisions and the weight of overlying fluid. In solids, contact pressure depends directly on the applied normal force and contact area.</p>
+      <p><term>Density</term> connects mass and volume. Two objects can have the same size but very different masses because they are made from different materials. Gold is dense because its atoms are very massive and those atoms occupy a relatively small volume in the solid.</p>
+      <p>Zooming in further, almost all the mass of an atom is concentrated in its tiny nucleus while the atom's overall size is much larger. This gives a useful bridge from everyday mass to atomic structure.</p>
+      <p><em>Extension connection:</em> the same ideas of mass, volume and density can be pushed to extreme astronomical objects such as white dwarfs and black holes. These are extensions of the model, not the starting point for learning what mass means.</p>
+      <p>Pressure ideas also apply in solids, liquids and gases, but the mechanisms differ. In fluids, pressure is linked to particle collisions and the weight of overlying fluid. In solids, contact pressure depends directly on the applied normal force and contact area.</p>
     </subsection>
   </section>
 
